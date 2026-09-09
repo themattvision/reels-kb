@@ -1,0 +1,38 @@
+POST ID: 18043564643819039
+IG ID: 18043564643819039
+SHORTCODE: DdCoXpCRfp6
+PERMALINK: https://www.instagram.com/reel/DdCoXpCRfp6/
+DATA: 2026-09-08
+ORA: 21:16
+
+--- METRICHE ---
+LIKE: 5
+COMMENTI: 0
+DURATA VIDEO: 18 secondi
+CARATTERI CAPTION: 29
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: tesla, intelligenza-artificiale, assistente-voce, auto-connessa, interazione-voce
+TOPIC: Dimostrazione dell'interazione vocale con l'intelligenza artificiale integrata nella Tesla
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video presenta un uomo (presentatore) seduto in un'auto (probabilmente una Tesla) che interagisce con il sistema di intelligenza artificiale di bordo. Le inquadrature si alternano tra il volto dell'uomo e la strada vista dal parabrezza, che passa tra le file del traffico della città e punti di vista più laterali. L'azione principale riguarda le schermate delle console dell'auto che mostrano i sottotitoli dell'interazione vocale o testuale tra l'uomo e l'IA.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Tesla
+
+--- CAPTION COMPLETA ---
+Io senza parole speriamo bene
+
+--- TRASCRIZIONE AUDIO ---
+Hey, Rock. Hey, Rock. Hey, there. What can I help with? Tell me some interesting facts about Austin. About what? I'm ready when you are. I'm back.
