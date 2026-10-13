@@ -7336,14 +7336,20 @@
     "shortcode": "DdbNgagt9zK",
     "permalink": "https://www.instagram.com/reel/DdbNgagt9zK/",
     "date": "2026-09-18",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come creare un'app usando l'Intelligenza Artificiale con la piattaforma Conchand AI Development Network durante il workshop gratuito",
+    "hook_text": "Vuoi creare App ma non sai da che parte iniziare? Fai questo",
     "like_count": 59,
     "comments_count": 66,
-    "duration": 0,
-    "tags": [],
+    "duration": 51,
+    "tags": [
+      "conchand-ai",
+      "intelligenza-artificiale",
+      "nocode",
+      "workshop",
+      "app-development"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/814629503_18120525388936961_2279358653040995632_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=64PEg7I-vooQ7kNvwGRKo3s&_nc_oc=Adp90OhdpDW-aYffwRdVRJAz-3_k-SvVxOnc4Tq-QU0ykWGwIHizIDvKRG2dwKAZYcE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQLse7V_2btrquIDZ9MdWIBxwtLR48gjmwqlhPrdyZC3jmK2bu3fwiI65zsntFVutUTBtU-RtDve&oh=00_AQMg3LHFJopXh9-IoyEPHob0OB4gr2VSUFpRdS493daneQ&oe=6AD3F418",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
