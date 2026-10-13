@@ -1,0 +1,38 @@
+POST ID: 18106086181973580
+IG ID: 18106086181973580
+SHORTCODE: DeL1BqAAJxr
+PERMALINK: https://www.instagram.com/reel/DeL1BqAAJxr/
+DATA: 2026-10-07
+ORA: 07:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 23
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude, killerapp, mr-viri, intelligenza-artificiale, automazione
+TOPIC: Come usare Claude e KillerApp per creare demo AI avanzate con i gadget di MR VERI
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo con un cappellino rosso e un occhiale mono-oculare (Spectacles) che tiene una presentazione in un ufficio moderno. Dietro di lui, un grande schermo proietta una presentazione intitolata 'Revolution', che include un grafico a torta colorato e punti elenco sul tema. Il presentatore gestisce dei droni e gadget tecnologici su un tavolo coperto da una tovaglia gialla. Un pubblico di persone è seduto a semicerchio ad ascoltare, osservando le dimostrazioni pratiche. In alto a destra nel frame è visibile un logo con il testo 'MR VERI'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, KillerApp, MR VERI
+
+--- CAPTION COMPLETA ---
+Io sono senza parole 🫠
+
+--- TRASCRIZIONE AUDIO ---
+Eccolo! Allora, questo personaggio qui, che si chiama Matteo, è specializzato in intelligenza artificiale. Cioè, tutto quello di cui parla sul suo profilo sono come integrare le AI. Ha un sacco di tool, di cose che si fa a corsi e anche robe gratuite. Secondo me è un profilo che potreste utilizzare per vedere alcune AI o di alcune cose, 100%. È davvero interessante, davvero, grazie a lui anche ho scoperto dei strumenti molto buoni, ho imparato a fare un sacco di cose. Ve lo consiglio perché vi potrebbe aiutare a risparmiare un po' di tempo su tante cosine, soprattutto perché ce n'è da fare, la creatività serve, è meglio che voi mettiate creatività nella musica piuttosto che queste cosettine qua. Ci sono i mezzi, basta cercare.
