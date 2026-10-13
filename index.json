@@ -7274,14 +7274,21 @@
     "shortcode": "DdynjV2NFqk",
     "permalink": "https://www.instagram.com/reel/DdynjV2NFqk/",
     "date": "2026-09-27",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Claude costa 20€/mese ma richiede ore di attesa, mentre ChatGPT offre più funzionalità allo stesso prezzo",
+    "hook_text": "Ecco perché non conviene pagare Claude, 20 euro al mese se vuoi usare l'intelligenza artificiale",
     "like_count": 23,
     "comments_count": 10,
-    "duration": 0,
-    "tags": [],
+    "duration": 27,
+    "tags": [
+      "claude",
+      "chatgpt",
+      "anthropic",
+      "costo",
+      "risparmio",
+      "abbonamento"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/825325401_18121429948936961_6370151777413368467_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vG8leyTKtcgQ7kNvwET_Eu1&_nc_oc=AdpuLBG1E1C4yL4CVX179Yf51u0DU5sB-T-BGe1m-CpXyhBlarmNNzzgzpC7y7B8hlU&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQKnqJZHNyglUaf-ICopTPVZA7xZL0k5kUQNgUS2cBAWxcAbv9s7MtS2gqWdLCgoiyLVBSv-sG5f&oh=00_AQPek7ecSfp4lGW2Oe9htBDVAQbrP6F6m25ZxHRfMEHdMw&oe=6AD3F809",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
