@@ -6793,14 +6793,21 @@
     "shortcode": "DeZ_XsrHX5Q",
     "permalink": "https://www.instagram.com/reel/DeZ_XsrHX5Q/",
     "date": "2026-10-12",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come ottenere e utilizzare 1.6 miliardi di token gratuiti su Claude Code tramite un prompt automatizzato in ChatGPT",
+    "hook_text": "Ecco il modo più facile per usare gratis l'intelligenza artificiale con Claude Code",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 75,
+    "tags": [
+      "claude-code",
+      "chatgpt",
+      "react",
+      "visual-studio-code",
+      "automazione",
+      "token-gratis"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/848563468_1068333629361006_4848881144236820915_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q3PTI5EbgXAQ7kNvwFowY48&_nc_oc=AdripSwQrR-C-ZV3KNfmjF182vZJBV6yI0_bv73XJwpZBqfMBpDi1t7DqR32_ddCmV4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=G6ifssdD2rDd8lRVTKNqbA&_nc_tpa=Q5bMBQI9RglMb0-6G4y1rMknY8wIwrqVcWqu4BlVNc-cPGS12Cis-jR7mw9hj5l6zIljTt3jBUFD4gNp&oh=00_AQO7rdllX_NkGjktz-iiDmSP45Tw1rQ7fit_N0riX9Padg&oe=6AD3555E",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
