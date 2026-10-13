@@ -6955,14 +6955,20 @@
     "shortcode": "DeL1BqAAJxr",
     "permalink": "https://www.instagram.com/reel/DeL1BqAAJxr/",
     "date": "2026-10-07",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come usare Claude e KillerApp per creare demo AI avanzate con i gadget di MR VERI",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 44,
+    "tags": [
+      "claude",
+      "killerapp",
+      "mr-viri",
+      "intelligenza-artificiale",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/841296871_2185120655694694_657174264857829620_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=D66L_Nvja9kQ7kNvwGy4wf3&_nc_oc=AdoMV_paCTBhoGA9_yOvrNfhWbrSugqZnYd4vWwR7vc-YirEU4872pyFXjiMgrMJeqg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=G6ifssdD2rDd8lRVTKNqbA&_nc_tpa=Q5bMBQIHcRcN6bz9ouBXc8SnMPDSDkITLuJtgo7BtniVqx6_onlxGLZhY15zj8dCEeJoiMUVHX4qd-Sq&oh=00_AQPJs31wgW3SaOYWX091FTgb-5RUNAc5gqNyzHOvAgH-oQ&oe=6AD37BA8",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
