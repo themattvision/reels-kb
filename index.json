@@ -7035,14 +7035,21 @@
     "shortcode": "DebR3NxgmKP",
     "permalink": "https://www.instagram.com/reel/DebR3NxgmKP/",
     "date": "2026-10-13",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare Claude Code per ottenere 1,6 miliardi di token gratuiti e configurare i provider con l’aiuto di ChatGPT",
+    "hook_text": "Ecco il modo più facile per usare gratis l'intelligenza artificiale con Claude Code",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 75,
+    "tags": [
+      "claude-code",
+      "chatgpt",
+      "token-gratis",
+      "automazione",
+      "github",
+      "nodejs"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/844977575_3022648208075290_78106184601911200_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VPfozxt2ZRoQ7kNvwF86gBL&_nc_oc=AdqBaZCQUqSFo57cPMzlLAmen18iWTgKBLmvZRSmx04_CfG1-zkElSEzYjhWtXFSTJE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQJJNFWsDNo3oZy0kTJ5qPMiKtkj8hfE_E1UyGypteHhl3f51_Ga2oXHdulsJvbbhJDzpP7lly0z&oh=00_AQPg7J0uEE2N4DEo4zQEDTALeVuXa-8jecpScC3N_ZrrdQ&oe=6AD3F645",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
