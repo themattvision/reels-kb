@@ -7175,14 +7175,20 @@
     "shortcode": "DeAVQjnRvx6",
     "permalink": "https://www.instagram.com/reel/DeAVQjnRvx6/",
     "date": "2026-10-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare Claude Code con un prompt per ottenere 1,6 miliardi di token gratuiti e configurare i provider",
+    "hook_text": "Ecco il modo più facile per usare gratis l'intelligenza artificiale con Claude code",
     "like_count": 1392,
     "comments_count": 85,
-    "duration": 0,
-    "tags": [],
+    "duration": 74,
+    "tags": [
+      "claude-code",
+      "claude",
+      "prompt",
+      "token-gratis",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/835529349_18121965592936961_5633686336802335371_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mkY_83ABORUQ7kNvwG5n8IM&_nc_oc=Adr3rPrM8vYqMeiOt1B0ZIZ5e05t4ojin3X0Dzx28DE9aMeD7VMF45zfy4GswSE_iSA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQI0kX83wMeQ639GiyEWyB5rK4jpB_wAM8pWmiGk9a8ZqyNTbrZcX3i3HC9Nmz9-1oh9F1BRWOIW&oh=00_AQOy6kNAEKcvR64sI2ehDAyUsWWQWeaJN9LYx0AIvj-jdg&oe=6AD3E8C9",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
