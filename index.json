@@ -7356,14 +7356,21 @@
     "shortcode": "DdW5_36xaFL",
     "permalink": "https://www.instagram.com/reel/DdW5_36xaFL/",
     "date": "2026-09-16",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare Aside per ottenere la garanzia su Amazon tramite IA",
+    "hook_text": "Vuoi usare la garanzia di Amazon ma non sai come fare? Fai questo",
     "like_count": 1606,
     "comments_count": 615,
-    "duration": 0,
-    "tags": [],
+    "duration": 83,
+    "tags": [
+      "aside",
+      "amazon",
+      "garanzia",
+      "ai",
+      "chatbot",
+      "assistenza"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/808929832_18120361366936961_5931490235502980537_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C4MBQ77DxekQ7kNvwHU1wwk&_nc_oc=Adpx6bxxTBKVt_QDmqyX3lLypaMdbYtc4ArE8WuRbPpTsDqaZpUxQWscsBXiXe02DLM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQILWihGJEL0dN42GBNrJSxG9nwE_ZrztjSDgf7NbjiXmV5T64YseKPiXKZO0yaWCOEPO5NHeZbP&oh=00_AQNAz9zn5uISz_Fw5gj1aWBLKVjU5b8RnGoG6CfxykIPKA&oe=6AD3F4EE",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
