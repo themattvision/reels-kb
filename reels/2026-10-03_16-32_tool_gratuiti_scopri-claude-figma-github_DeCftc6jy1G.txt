@@ -1,0 +1,38 @@
+POST ID: 18211519771366026
+IG ID: 18211519771366026
+SHORTCODE: DeCftc6jy1G
+PERMALINK: https://www.instagram.com/reel/DeCftc6jy1G/
+DATA: 2026-10-03
+ORA: 16:32
+
+--- METRICHE ---
+LIKE: 146
+COMMENTI: 3
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 23
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: claude, figma, github, intelligenza-artificiale, strumenti-gratis
+TOPIC: Scopri come utilizzare Claude insieme a Figma e GitHub per velocizzare i progetti AI
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo con un berretto rosso e una camicia beige che tiene una presentazione in un'aula universitaria o in un contesto di formazione. Si trova a un tavolo con un portatile aperto. Alle sue spalle, due grandi schermi mostrano lo stesso contenuto: una schermata di un chatbot o piattaforma AI (simile all'interfaccia di Claude, con un'area di chat con avatar rotondo a sinistra e un pannello 'capacità' a destra) e una barra di terminali colorata in basso. Sui bordi inferiori degli schermi sono visibili il logo di Figma (un cerchio arancione) e il logo di GitHub (il gatto 'Octocat' in bianco su sfondo scuro). In primo piano si vedono le sagome delle teste del pubblico seduto ai banchi rivestiti di arancione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Figma, GitHub
+
+--- CAPTION COMPLETA ---
+Io sono senza parole 🫠
+
+--- TRASCRIZIONE AUDIO ---
+Eccolo! Allora, questo personaggio qui, che si chiama Matteo, è specializzato in intelligenza artificiale. Cioè, tutto quello di cui parla sul suo profilo sono come integrare le AI. Ha un sacco di tool, di cose che si fa a corsi e anche robe gratuite. Secondo me è un profilo che potreste utilizzare per vedere alcune AI o di alcune cose, 100%. È davvero interessante, davvero, grazie a lui anche ho scoperto dei strumenti molto buoni, ho imparato a fare un sacco di cose. Ve lo consiglio perché vi potrebbe aiutare a risparmiare un po' di tempo su tante cosine, soprattutto perché ce n'è da fare, la creatività serve, è meglio che voi mettiate creatività nella musica piuttosto che queste cosettine qua. Ci sono i mezzi, basta cercare.
