@@ -7015,14 +7015,20 @@
     "shortcode": "DeHpUasjOE7",
     "permalink": "https://www.instagram.com/reel/DeHpUasjOE7/",
     "date": "2026-10-05",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Scopri come usare Claude di Anthropic per automatizzare attività e risparmiare tempo",
+    "hook_text": "Allora a questo",
     "like_count": 41,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 44,
+    "tags": [
+      "claude",
+      "anthropic",
+      "intelligenza-artificiale",
+      "risparmio-tempo",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/838628433_1986224361968748_5956385855301003388_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tKIEIB8-LMEQ7kNvwHFuwu3&_nc_oc=AdpurtXUqvV7C1gmna3ISqnNnfRVhdY0cd44sRJdUK_u5Y3D1tm_FbTAypVDCJx7kzE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=G6ifssdD2rDd8lRVTKNqbA&_nc_tpa=Q5bMBQKEUwPo0ZSW_6JflV2ct1YdDC7H0T_NaZBIGsQK0PnIm__1pqdZNDE8G2YulFFEG62vkHgvnI77&oh=00_AQPMzyZXhejpYdw8jH9y6cIzXWk3TN741PukHljjfi0-8g&oe=6AD34EF5",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
