@@ -7495,14 +7495,20 @@
     "shortcode": "DecOQPbThPd",
     "permalink": "https://www.instagram.com/reel/DecOQPbThPd/",
     "date": "2026-10-13",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tool_gratuiti",
+    "topic": "Scopri Artcraft, la suite gratuita e open‑source che replica Photoshop, Lightroom, Premiere e altri tool Adobe con integrazione AI",
+    "hook_text": "Da oggi puoi usare gratis Photoshop e tutti gli altri programmi di Adobe",
     "like_count": 12,
     "comments_count": 1,
-    "duration": 0,
-    "tags": [],
+    "duration": 43,
+    "tags": [
+      "artcraft",
+      "photoshop-alternative",
+      "adobe-alternative",
+      "open-source",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/842754008_18123029482936961_7511565074615496426_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=F7BjTA5cYDwQ7kNvwHzC-Rw&_nc_oc=Adr1mYS-umPbS6xzXc9xloOOaRXVBEILpmeekr03UGx6XgXkAmYq7vl-QgD2qc2v42k&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6D6AfJTLwKBw6vmmsjb2Pg&_nc_tpa=Q5bMBQLn2hsGTljXw43s4IXm9E7DZj4atsZlxli_ogQxwrqtuK7iF4O2VrIH9YEzGzxYzABiLLQVf1rQ&oh=00_AQORsjstjrxQyzW64UQPEmt88R4yO8A0gUAFNcxHRV1p6w&oe=6AD43BBB",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
