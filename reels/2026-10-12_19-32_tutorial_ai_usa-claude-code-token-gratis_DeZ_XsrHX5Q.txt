@@ -1,0 +1,38 @@
+POST ID: 17876575152573402
+IG ID: 17876575152573402
+SHORTCODE: DeZ_XsrHX5Q
+PERMALINK: https://www.instagram.com/reel/DeZ_XsrHX5Q/
+DATA: 2026-10-12
+ORA: 19:32
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 75 secondi
+CARATTERI CAPTION: 893
+HASHTAG: #intelligenzaartificiale #chatgpt #claudecode #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude-code, chatgpt, react, visual-studio-code, automazione, token-gratis
+TOPIC: Come ottenere e utilizzare 1.6 miliardi di token gratuiti su Claude Code tramite un prompt automatizzato in ChatGPT
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco il modo più facile per usare gratis l'intelligenza artificiale con Claude Code
+
+--- DESCRIZIONE VISIVA ---
+Il video alterna il volto del présentatore a screenshot di un computer portatile. Nelle schermate si vede l'interfaccia di un'intelligenza artificiale (con sfondo grigio chiaro e chat in italiano) e un terminale. In una delle schermate è chiaramente visibile del codice sorgente JavaScript (funzioni e moduli come 'import' e 'react'). Una mano pointa continuamente sugli elementi dell'interfaccia (pulsanti, caselle di testo 'Terminatore assassino url') per mostrare come il sistema AI genera contenuti o codice in tempo reale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Code, ChatGPT, React, Visual Studio Code
+
+--- CAPTION COMPLETA ---
+Ecco il prompt:  Prima di tutto 👉 clicca segui @themattvision  1. Apri ChatGPT dal computer, nella sezione Work.  2. Copia e incolla questo prompt: “Segui questo tutorial instagram.com/reel/Dd2fYfoqzSH e poi alla fine di tutto scrivimi la password che hai scelto. Poi guidami verso l’impostare tutti i provider al fine di avere tutti i 1.6 miliardi di token”  3. Lascia che segua il tutorial e prepari tutto al posto tuo.  4. Alla fine apri il link che ti dà e inserisci la password che ha scelto.  5. Fatti guidare anche nella configurazione dei vari servizi, così completi tutti i passaggi.  Non serve fare tutto a mano, puoi farti dare una mano dall’intelligenza artificiale 😄  Se ti ho aiutato 👉 clicca segui @themattvision  Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!  #intelligenzaartificiale #chatgpt #claudecode #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+D'altro ieri ho fatto l'oronima donale di spiegarvi come avere infiniti i token per cloud code e nessuno ci ha capito un cazzo, quindi ve lo rispiego. Questo è di ciò di cui stiamo parlando. Omnibut, Free Gateway, 1.6 miliardo token al mese. Collia, cerco Node.js, scarico Node.js, GitHub Omnibut, Filosos.app, vogliamo questo codice qui. Questa versione vi sta dicendo di fare a mano quello che l'intelligenza artificiale potrebbe fare al posto vostro. E se pensavi di seguire il tutorial passo passo, non ti preoccupare perché c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andate nel vostro CiaGPT app del computer versione Work. E si funziona anche con il piano gratuito. Incollate il link del video originale che vi ho messo in descrizione. Incollate questo prompt e premete su invio. D'ora in poi sarete in grado di usare quel miliardo e mezzo di token gratuiti senza aver fatto niente. Guarda qua. CiaGPT ha lavorato per 8 minuti facendo tutte queste cose, mi ha dato un link, quindi apro il link, mi chiede una password, gli ho chiesto la password, prendo la password, la vado a copiare e incollare, premo continua e sono pronto a lavorare. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, il prompt te l'ho messo in descrizione ma non penso che serve e tu se ancora stai facendo tutto a mano seguimi che ti insegno io ad utilizzare l'intelligenza artificiale.
