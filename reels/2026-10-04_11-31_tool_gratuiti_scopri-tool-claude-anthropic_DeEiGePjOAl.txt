@@ -1,0 +1,38 @@
+POST ID: 18127791238823892
+IG ID: 18127791238823892
+SHORTCODE: DeEiGePjOAl
+PERMALINK: https://www.instagram.com/reel/DeEiGePjOAl/
+DATA: 2026-10-04
+ORA: 11:31
+
+--- METRICHE ---
+LIKE: 302
+COMMENTI: 1
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 23
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: claude, anthropic, tool-gratuiti, risparmio-tempo, intelligenza-artificiale
+TOPIC: Scopri come usare Claude di Anthropic per velocizzare i tuoi progetti AI
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un cappellino rosso e una tuta beige sta presentando una sessione in un ambiente che somiglia a un ufficio aperto o a una sala conferenze con banchi lunghi. Sullo schermo alle sue spalle è visibile una presentazione Proiezione2, che mostra una linea del tempo di release con date che spaziano dal 2025 al 2026 (Specifiche di Pro 8.5, Spec 2 di Opus, Proiezione di S4.8). L'immagine del talk è intercalata da grandi sottotitoli in sovrimpressione che riassumono la narrazione, tra cui l'annuncio che 'c'è un sacco di tool, che potete usufruire e che aiutano a rispartire un'occhiata da fare per la creatività, che sono strumenti molto buoni (cosettini qua) e che sono davvero interessanti.'
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, Anthropic
+
+--- CAPTION COMPLETA ---
+Io sono senza parole 🫠
+
+--- TRASCRIZIONE AUDIO ---
+Eccolo! Allora, questo personaggio qui, che si chiama Matteo, è specializzato in intelligenza artificiale. Cioè, tutto quello di cui parla sul suo profilo sono come integrare le AI. Ha un sacco di tool, di cose che si fa a corsi e anche robe gratuite. Secondo me è un profilo che potreste utilizzare per vedere alcune AI o di alcune cose, 100%. È davvero interessante, davvero, grazie a lui anche ho scoperto dei strumenti molto buoni, ho imparato a fare un sacco di cose. Ve lo consiglio perché vi potrebbe aiutare a risparmiare un po' di tempo su tante cosine, soprattutto perché ce n'è da fare, la creatività serve, è meglio che voi mettiate creatività nella musica piuttosto che queste cosettine qua. Ci sono i mezzi, basta cercare.
