@@ -866,7 +866,7 @@
     "category": "tutorial_ai",
     "topic": "Come creare uno strumento personale di intelligenza artificiale con Claude per generare liste di attività",
     "hook_text": "POV: sono le 5 di mattina",
-    "like_count": 199,
+    "like_count": 198,
     "comments_count": 12,
     "duration": 63,
     "tags": [
@@ -874,7 +874,9 @@
       "todo-list",
       "intelligenza-artificiale",
       "automazione"
-    ]
+    ],
+    "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/504047569_23997799933248347_1580195967221929338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=JVBr1lcMdnEQ7kNvwGxw8Uz&_nc_oc=AdoiFDRIHH22ms6K30Ztl12lHKK9kZg63KFyLWXzp0hUR48lvbN0x4NziNvJN5oJoi4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=x3TKDUJ-AHijvBLPuhqdpQ&_nc_tpa=Q5bMBQJngvjZDbSZrPRdRgYrh9hesF3pm4rbxVXVhZUwmBDhtCeNNFq-D3Pk3EDgdYPHb2exulHtFuFI&oh=00_AQO5a6JoZe4N4iQl5hJ6BcjpOs5wX_c21oKz9_WAzt86CA&oe=6AD43D9D",
+    "analysis_status": "complete"
   },
   {
     "shortcode": "DLaGyHSIMgO",
