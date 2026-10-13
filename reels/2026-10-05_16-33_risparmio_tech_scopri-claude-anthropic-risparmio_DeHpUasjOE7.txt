@@ -1,0 +1,38 @@
+POST ID: 18117737812758771
+IG ID: 18117737812758771
+SHORTCODE: DeHpUasjOE7
+PERMALINK: https://www.instagram.com/reel/DeHpUasjOE7/
+DATA: 2026-10-05
+ORA: 16:33
+
+--- METRICHE ---
+LIKE: 41
+COMMENTI: 0
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 23
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: claude, anthropic, intelligenza-artificiale, risparmio-tempo, automazione
+TOPIC: Scopri come usare Claude di Anthropic per automatizzare attività e risparmiare tempo
+
+--- HOOK TESTUALE (dal frame) ---
+Allora a questo
+
+--- DESCRIZIONE VISIVA ---
+Un'uomo con un cappellino rosso e una camicia beige si trova in una sala conferenze, parlando davanti a un pubblico seduto a tavoli con computer portatili. Alle sue spalle, un grande schermo mostra una presentazione intitolata 'Cap. 8' che copre il tema dell'Intelligenza Artificiale, le potenzialità della tecnologia per automatizzare processi e la creazione di flussi di lavoro con LLM. Nel corridoio, l'oratore elenca le caratteristiche di un nuovo strumento, descrivendolo come interessante, versatile e con molte funzioni interessanti, aiutando a risparmiare tempo. Sullo sfondo si vedono anche altri poster tecnici e la logo 'Claude' su un computer portatile.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, Anthropic
+
+--- CAPTION COMPLETA ---
+Io sono senza parole 🫠
+
+--- TRASCRIZIONE AUDIO ---
+Eccolo! Allora, questo personaggio qui, che si chiama Matteo, è specializzato in intelligenza artificiale. Cioè, tutto quello di cui parla sul suo profilo sono come integrare le AI. Ha un sacco di tool, di cose che si fa a corsi e anche robe gratuite. Secondo me è un profilo che potreste utilizzare per vedere alcune AI o di alcune cose, 100%. È davvero interessante, davvero, grazie a lui anche ho scoperto dei strumenti molto buoni, ho imparato a fare un sacco di cose. Ve lo consiglio perché vi potrebbe aiutare a risparmiare un po' di tempo su tante cosine, soprattutto perché ce n'è da fare, la creatività serve, è meglio che voi mettiate creatività nella musica piuttosto che queste cosettine qua. Ci sono i mezzi, basta cercare.
