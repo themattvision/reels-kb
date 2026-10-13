@@ -1,0 +1,67 @@
+POST ID: 18167463010465875
+IG ID: 18167463010465875
+SHORTCODE: DdWXe-KtqzN
+PERMALINK: https://www.instagram.com/reel/DdWXe-KtqzN/
+DATA: 2026-09-16
+ORA: 13:17
+
+--- METRICHE ---
+LIKE: 78
+COMMENTI: 101
+DURATA VIDEO: 49 secondi
+CARATTERI CAPTION: 634
+HASHTAG: #vibecoding #intelligenzaartificiale #chatgpt #app
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/workshop24set)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, claude, app, workshop, intelligenza-artificiale
+TOPIC: Come creare un’app da zero usando ChatGPT e Claude durante il workshop gratuito di Matteo Zampieri
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo e una donna in un parcheggio all'aperto sotto il sole. La donna parla per prima, riferendosi all'intelligenza artificiale, poi si passa all'uomo in primo piano che spiega. L'uomo spiega in modo esclamativo i vantaggi di un'App, affermando che è gratuita e che tra un mese seguirà un workshop esclusivo per costruire la propria App. Sulla parte inferiore dello schermo compaiono testo e link per il workshop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Workshop, Aurora
+
+--- CAPTION COMPLETA ---
+Ecco il link per partecipare 👇
+
+Prima di tutto, seguimi @themattvision 
+
+Giovedì 24 settembre.
+Dalle 20:30 alle 22:00.
+Online, dal vivo e gratis.
+
+Vedrai:
+
+• come trasformare un’idea in un’app
+• come spiegare all’AI cosa vuoi creare
+• come risolvere gli errori
+
+Partiremo da zero.
+Costruiremo l’app insieme.
+Non devi essere un programmatore.
+
+I posti sono limitati.
+Per partecipare è obbligatorio registrarsi.
+
+👉 matteozampieri.com/workshop24set
+
+Oppure commenta APP e ti mando il link direttamente.
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia.
+
+Ci vediamo al workshop!
+
+#vibecoding #intelligenzaartificiale #chatgpt #app
+
+--- TRASCRIZIONE AUDIO ---
+Matte, senti una cosa. Io ho provato a fare le app con l'intelligenza artificiale, ma io non riesco. Come non riesci? Perché? Eh, perché cazzo ogni volta io mi metto, non mi fa mai quello che voglio io. Eh, ma perché devi avere il giusto metodo, cioè cos'è che utilizzi? CiaGPT, Claude, cosa usi? CiaGPT. Eh, bisogna utilizzare sì CiaGPT, ma non l'app di CiaGPT, devi usare il passeo. Però devi impostarlo bene, è un'app gratuita, però è la svolta veramente. Eh, ma chi è che me l'insegna? Eh, vabbè. Questo giovedì 24 settembre faccio un workshop dal vivo, dove faccio un'app dal vivo, insieme a te, La costruiamo insieme e poi vi spiego tutto quello che è il mio metodo. Ma io posso riuscire anche a farla in tempo reale con te? Sì, volendo tu potresti farla in tempo reale. Comunque se vuoi partecipare ti lascio qui sotto il link oppure commenta il video con una parola che vedi qua sotto e ti mando il link direttamente. Sono Matteo Zampieri, il tuo smanettone di fiducia e noi ci vediamo a questo workshop così le impari a fare e poi sei a posto.
