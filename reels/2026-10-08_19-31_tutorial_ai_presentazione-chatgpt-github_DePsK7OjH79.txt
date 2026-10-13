@@ -1,0 +1,38 @@
+POST ID: 17990708442107680
+IG ID: 17990708442107680
+SHORTCODE: DePsK7OjH79
+PERMALINK: https://www.instagram.com/reel/DePsK7OjH79/
+DATA: 2026-10-08
+ORA: 19:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 23
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, github, rei, intelligenza-artificiale, tool-gratuiti
+TOPIC: Presentazione di ChatGPT con esempi pratici mostrati su GitHub
+
+--- HOOK TESTUALE (dal frame) ---
+ChatGPT PRO CREATIVE
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che tiene una presentazione in una sala conferenze affollata. Dietro di lui, un grande schermo proietta una pagina web, presumibilmente il sito GitHub o una pagina di progetto personale, dove si legge 'About' e una sezione denominata 'Repositories 2'. The presentatore, vestito con una maglietta beige e un cappellino rosso, interagisce con il pubblico mentre spiega le funzionalità di uno strumento di intelligenza artificiale, gesticolando con una presa in mano che suggerisce la manipolazione di codice o comandi sul PC davanti a lui. Il contesto è quello di una tech conference o workshop incentrato sullo sviluppo software assistito dall'AI.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, GitHub, REI
+
+--- CAPTION COMPLETA ---
+Io sono senza parole 🫠
+
+--- TRASCRIZIONE AUDIO ---
+Eccolo! Allora, questo personaggio qui, che si chiama Matteo, è specializzato in intelligenza artificiale. Cioè, tutto quello di cui parla sul suo profilo sono come integrare le AI. Ha un sacco di tool, di cose che si fa a corsi e anche robe gratuite. Secondo me è un profilo che potreste utilizzare per vedere alcune AI o di alcune cose, 100%. È davvero interessante, davvero, grazie a lui anche ho scoperto dei strumenti molto buoni, ho imparato a fare un sacco di cose. Ve lo consiglio perché vi potrebbe aiutare a risparmiare un po' di tempo su tante cosine, soprattutto perché ce n'è da fare, la creatività serve, è meglio che voi mettiate creatività nella musica piuttosto che queste cosettine qua. Ci sono i mezzi, basta cercare.
