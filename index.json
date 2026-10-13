@@ -7235,14 +7235,20 @@
     "shortcode": "Dd420HhNz8k",
     "permalink": "https://www.instagram.com/reel/Dd420HhNz8k/",
     "date": "2026-09-29",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "personale",
+    "topic": "Come Fraxa funge da assistente personale per gestire lavoro, appuntamenti, finanze e attività quotidiane",
+    "hook_text": "Puoi dirmi il nome.",
     "like_count": 135,
     "comments_count": 4,
-    "duration": 0,
-    "tags": [],
+    "duration": 108,
+    "tags": [
+      "fraxa",
+      "ai-assistant",
+      "automazione",
+      "productivity",
+      "workflow"
+    ],
     "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/825325939_18121673359936961_5359413634918845874_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xFzu8XgeccMQ7kNvwHGP5oD&_nc_oc=AdrlKSMEnymH_jG5Dche1HLqBpUokboUJCYApp_l3M-MLWKViczalGjHWvUF33hlw2g&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQIB32BlfXEJC0jUdgRB-mwJ4cOznchaGX8H-DB_nbvkyCW5nAAdllNK-BzoP_8Lt7wnfdtnfB96&oh=00_AQOANro96MZYhHZvGaz3QpxmicSJirWlt8FGCmpc14kUbw&oe=6AD3EE5E",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
