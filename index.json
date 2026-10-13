@@ -883,7 +883,7 @@
     "category": "tutorial_ai",
     "topic": "Come utilizzare Claude AI per generare una to-do list personalizzata con l'intelligenza artificiale",
     "hook_text": "Pov: sono le 5 di mattina",
-    "like_count": 569,
+    "like_count": 566,
     "comments_count": 16,
     "duration": 63,
     "tags": [
@@ -891,7 +891,9 @@
       "todo-list-ai",
       "intelligenza-artificiale",
       "automazione"
-    ]
+    ],
+    "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/504562238_1087637886600750_6133007657741142875_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cI8kjLBLdD8Q7kNvwE_mF0G&_nc_oc=AdrBCLWxU_BS8GHcQgkoiMP_WDv3MyuVEuipjn0SqX2gMTnVLPC4Uw489gZTTgo0zlQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=x3TKDUJ-AHijvBLPuhqdpQ&_nc_tpa=Q5bMBQKPRRKa_yf4VngNaOEMTbkqFIJ7xPZKQokRS_DE0I02SDoiWjkaSIkYZmc0IH8oeNpCzpoUuxWf&oh=00_AQNfHWzF5j1JEWUE_g8ZavXfBtk40A1oBG6tzZ7i5X6pZg&oe=6AD450BC",
+    "analysis_status": "complete"
   },
   {
     "shortcode": "DLaM6kkoTsl",
