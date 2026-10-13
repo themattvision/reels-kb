@@ -7255,14 +7255,19 @@
     "shortcode": "Dd40Edpt1av",
     "permalink": "https://www.instagram.com/reel/Dd40Edpt1av/",
     "date": "2026-09-29",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Presentazione della nuova mascotte generata e gestita con ChatGPT per migliorare l'esperienza prodotto",
     "hook_text": "",
     "like_count": 1,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 120,
+    "tags": [
+      "chatgpt",
+      "mascotte",
+      "intelligenza-artificiale",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/825352151_18121671718936961_3595351164426305142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SexPhPbHI5cQ7kNvwEYQm0H&_nc_oc=Adp1Bk94GAVdiia3oycoVvfgZKtS19bzgNTUepuesLWKo6LbRPkNe59ys9VZB0JKgN8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQLC4L4hFdtVKcch1TV06Bs1eLHQBnNRIvHZoEhmY4KMp0F8YLG5Ou0u5GUJdYYbvHP3eElVXowl&oh=00_AQM5rdiDcTstTNIUJcdcS2Ll4ClYOwUqfWrENx74WfsWlA&oe=6AD3E4C5",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
