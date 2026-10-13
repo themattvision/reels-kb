@@ -7215,14 +7215,20 @@
     "shortcode": "Dd62tYTRpqc",
     "permalink": "https://www.instagram.com/reel/Dd62tYTRpqc/",
     "date": "2026-09-30",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come creare un sito di prenotazioni per B&B in pochi minuti usando Atoms AI",
+    "hook_text": "Questo sito 20 euro il tuo sito con intelligenza artificiale in pochi minuti",
     "like_count": 536,
     "comments_count": 506,
-    "duration": 0,
-    "tags": [],
+    "duration": 62,
+    "tags": [
+      "atoms",
+      "nocode",
+      "intelligenza-artificiale",
+      "prenotazioni-bb",
+      "paypal"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/830669393_18121749667936961_471922725797437002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dOCWyUFVxZoQ7kNvwG3Wxfk&_nc_oc=AdptNxLRdPdyCMGAvWfxcjdhQc0Tfu47oBRkGtK-s3wz3NufDkyQ1-51WgUMzpYe-SA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hBO-lZTxBpQfbE1qoqrYeA&_nc_tpa=Q5bMBQJ30Yo5YJqiqkf2thiVB2K__YwV7od4Pzxqg_Kvr-DADDOzw0oB-NlKEGSIUY5q_uDXTrSkTiAa&oh=00_AQOa2Yd_Mq5o0ioZZZpWhEmZEE0VkWMmz7gxhlJEaThskg&oe=6AD4142A",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
