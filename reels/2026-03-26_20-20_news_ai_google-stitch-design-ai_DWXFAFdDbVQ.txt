@@ -6,8 +6,8 @@ DATA: 2026-03-26
 ORA: 20:20
 
 --- METRICHE ---
-LIKE: 557
-COMMENTI: 113
+LIKE: 556
+COMMENTI: 112
 DURATA VIDEO: 58 secondi
 CARATTERI CAPTION: 692
 HASHTAG: #intelligenzaartificiale #ai #design #googlestitch #vibecoding
