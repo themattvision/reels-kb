@@ -6,8 +6,8 @@ DATA: 2025-08-14
 ORA: 21:56
 
 --- METRICHE ---
-LIKE: 314411
-COMMENTI: 755
+LIKE: 313860
+COMMENTI: 754
 DURATA VIDEO: 26 secondi
 CARATTERI CAPTION: 529
 HASHTAG: #intelligenzaartificiale #risparmiare #chatgpt #ia #ai #trucchiiphone
