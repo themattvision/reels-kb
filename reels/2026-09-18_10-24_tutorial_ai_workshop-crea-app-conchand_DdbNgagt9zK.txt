@@ -1,0 +1,60 @@
+POST ID: 17914305504262007
+IG ID: 17914305504262007
+SHORTCODE: DdbNgagt9zK
+PERMALINK: https://www.instagram.com/reel/DdbNgagt9zK/
+DATA: 2026-09-18
+ORA: 10:24
+
+--- METRICHE ---
+LIKE: 59
+COMMENTI: 66
+DURATA VIDEO: 51 secondi
+CARATTERI CAPTION: 907
+HASHTAG: #intelligenzaartificiale #vibecoding #ai #workshop #nocode
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/workshop24set)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: conchand-ai, intelligenza-artificiale, nocode, workshop, app-development
+TOPIC: Come creare un'app usando l'Intelligenza Artificiale con la piattaforma Conchand AI Development Network durante il workshop gratuito
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi creare App ma non sai da che parte iniziare? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una combinazione di riprese di un presentatore in un ambiente domestico e riprese dello schermo (screen recording). Il presentatore spiega il processo per creare un'app. Vengono mostrati screenshot di un'interfaccia web con il titolo 'conchand fusion' e una sezione dedicata alla 'Conchand AI Development Network'. Inoltre, è visibile una gameplay di un videogioco notturno di guida con elementi di UI come 'FOLLOWING', 'PROGRESS' e 'LEADERBOARD', che funge probabilmente da esempio. Il presentatore è seduto a un tavolo con un laptop e gesticola per sottolineare i punti chiave.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Il 24 settembre faccio un workshop gratuito online dove costruisco un’app insieme a te, in diretta.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Un’app venduta per 80 milioni di dollari, creata da una sola persona.
+
+Un gioco che ha superato il milione di dollari in meno di 17 giorni.
+
+Tutto questo con l’intelligenza artificiale, senza spendere 200 euro al mese in abbonamenti che si consumano in un attimo.
+
+Io questo metodo l’ho trasformato in centinaia di applicazioni, per me e per i miei clienti.
+
+Giovedì te lo mostro dal vivo, gratis.
+
+Commenta “WORKSHOP” e ti mando il link per partecipare, oppure lo trovi su matteozampieri.com/workshop24set
+
+Tu quale applicazione creeresti per prima?
+
+Se ti ho incuriosito 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #vibecoding #ai #workshop #nocode risparmiare chatgpt
+
+--- TRASCRIZIONE AUDIO ---
+Quando dicevo che creare applicazioni con l'intelligenza artificiale sarebbe stato estremamente facile, molti non ci credevano, ma adesso sta già succedendo. Infatti questa applicazione è stata venduta per 80 milioni di dollari e l'ha creata una singola persona usando l'intelligenza artificiale. Ma c'è di più, perché anche questo gioco è stato creato solamente con l'intelligenza artificiale e ha raggiunto più di un milione di dollari in meno di 17 giorni. Sembra una follia, ma è così e la cosa assurda è che oggi puoi creare queste applicazioni senza spendere per forza 200 euro al mese in piani che si consumano in un attimo. Io infatti ho trovato il mio metodo e questo mi ha permesso di creare centinaia di applicazioni per me e per i miei clienti. E il 24 settembre terrò un workshop gratuito online dove ti mostrerò come faccio le mie applicazioni con l'intelligenza artificiale. E tu se vuoi partecipare commenta con una di queste parole. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia e sì, lo sai, manca poco al workshop quindi sai già cosa fare.
