@@ -1,0 +1,60 @@
+POST ID: 18344561698254461
+IG ID: 18344561698254461
+SHORTCODE: DeAVQjnRvx6
+PERMALINK: https://www.instagram.com/reel/DeAVQjnRvx6/
+DATA: 2026-10-02
+ORA: 20:23
+
+--- METRICHE ---
+LIKE: 1392
+COMMENTI: 85
+DURATA VIDEO: 74 secondi
+CARATTERI CAPTION: 894
+HASHTAG: #intelligenzaartificiale #chatgpt #claudecode #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude-code, claude, prompt, token-gratis, automazione
+TOPIC: Come usare Claude Code con un prompt per ottenere 1,6 miliardi di token gratuiti e configurare i provider
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco il modo più facile per usare gratis l'intelligenza artificiale con Claude code
+
+--- DESCRIZIONE VISIVA ---
+Il video combina riprese di un presentatore che spiega la procedura con screen recording e filmati dello schermo di un computer per mostrare il processo passo-passo. Si mostrano schermate di registrazione di un account web con inserimento di nome ed email, l'interfaccia grafica di un'applicazione di editing testuale con cursore attivo e pulsanti colorati, e una casella di notifica pop-up relativa a una password dimenticata. Si vede anche la modalità split-screen con una finestra di chat che chiede istruzioni all'utente e una finestra di anteprima del testo generato. Il video evidenzia le azioni chiave attraverso frecce e indicatore digitale puntando su pulsanti e campi di inserimento dati.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Code, Claude
+
+--- CAPTION COMPLETA ---
+Ecco il prompt:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1. Apri ChatGPT dal computer, nella sezione Work.
+
+2. Copia e incolla questo prompt:
+
+“Segui questo tutorial instagram.com/reel/Dd2fYfoqzSH e poi alla fine di tutto scrivimi la password che hai scelto. Poi guidami verso l’impostare tutti i provider al fine di avere tutti i 1.6 miliardi di token”
+
+3. Lascia che segua il tutorial e prepari tutto al posto tuo.
+
+4. Alla fine apri il link che ti dà e inserisci la password che ha scelto.
+
+5. Fatti guidare anche nella configurazione dei vari servizi, così completi tutti i passaggi.
+
+Non serve fare tutto a mano, puoi farti dare una mano dall’intelligenza artificiale 😄
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #chatgpt #claudecode #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+L'altro ieri ho fatto l'euro al madonna di spiegarvi come avere infiniti token per cloud code e nessuno ci ha capito un cazzo, quindi ve lo rispiego. Questo è di ciò di cui stiamo parlando, Omnibut, Free Gateway, 1.6 miliardo al mese, collia, cerco Node.js, scarico Node.js, GitHub Omnibut, IgoSusSup, vogliamo questo codice qui, Hourshal. Questa persona vi sta dicendo di fare a mano quello che l'intelligenza artificiale potrebbe fare al posto vostro. E se pensavi di seguire il tutorial passo a passo non ti preoccupare perché c'è il tuo smanettone di fiducia pronto qui, addatti la mano. Andate nel vostro CiaGPT app del computer versione Work e si funziona anche con il piano gratuito. Incollate il link del video originale che vi ho messo in descrizione, incollate questo prompt e premete su invio. D'ora in poi sarete in grado di usare quel miliardo e mezzo di token gratuiti senza aver fatto niente. Guarda qua. Ciao GPT, ha lavorato per 8 minuti facendo tutte queste cose, mi ha dato un link, quindi apro il link, mi chiede una password, gli ho chiesto la password, prendo la password, la vado a copiare e incollare, premo continua e sono pronto a lavorare. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, il prompt te l'ho messo in descrizione e tu se ancora stai facendo tutto a mano seguimi che ti insegno io ad utilizzare l'intelligenza artificiale.
