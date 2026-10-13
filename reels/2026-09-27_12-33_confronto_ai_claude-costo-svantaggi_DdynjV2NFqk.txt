@@ -1,0 +1,38 @@
+POST ID: 18630660571046914
+IG ID: 18630660571046914
+SHORTCODE: DdynjV2NFqk
+PERMALINK: https://www.instagram.com/reel/DdynjV2NFqk/
+DATA: 2026-09-27
+ORA: 12:33
+
+--- METRICHE ---
+LIKE: 23
+COMMENTI: 10
+DURATA VIDEO: 27 secondi
+CARATTERI CAPTION: 26
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, anthropic, costo, risparmio, abbonamento
+TOPIC: Claude costa 20€/mese ma richiede ore di attesa, mentre ChatGPT offre più funzionalità allo stesso prezzo
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco perché non conviene pagare Claude, 20 euro al mese se vuoi usare l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un presentatore uomo con una maglietta color crema seduto davanti a un computer portatile in un ambiente interno (sembra una cucina con scaffali). Non sono presenti B-roll, screenshot di terminali o immagini di prodotto; l'intero contenuto visivo è costituito dal talking head del presentatore che muove le mani mentre parla.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, ChatGPT
+
+--- CAPTION COMPLETA ---
+Claudio non ci siamo 🙅‍♂️
+
+--- TRASCRIZIONE AUDIO ---
+Allora mi sono fatto Claude con l'obiettivo di capire se veramente i limiti che dicevano che avevano alzato, li avevano alzati davvero. Beh, dopo un'ora che l'ho utilizzato, ottimizzando anche i token, piano da 20€, ho finito il mio coso delle 5 ore e devo aspettare altre 5 ore. Cioè, Claude, non ci siamo. Usate C-A-GPT che almeno vi dà molta più roba allo stesso prezzo.
