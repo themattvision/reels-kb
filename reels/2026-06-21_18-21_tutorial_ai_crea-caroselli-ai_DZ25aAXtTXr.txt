@@ -7,7 +7,7 @@ ORA: 18:21
 
 --- METRICHE ---
 LIKE: 1386
-COMMENTI: 2569
+COMMENTI: 2571
 DURATA VIDEO: 72 secondi
 CARATTERI CAPTION: 933
 HASHTAG: #adv #runableai #intelligenzaartificiale #ai #socialtips
