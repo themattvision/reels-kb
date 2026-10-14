@@ -7693,14 +7693,20 @@
     "shortcode": "Ded2i9LGA-9",
     "permalink": "https://www.instagram.com/reel/Ded2i9LGA-9/",
     "date": "2026-10-14",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come personalizzare le istruzioni di ChatGPT per farlo mettere in discussione le tue idee",
+    "hook_text": "Vuoi che ChatGPT-5 smetta sempre di essere d'accordo con te? Fai questo",
     "like_count": 39,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 50,
+    "tags": [
+      "chatgpt",
+      "personalizzazione",
+      "prompt-engineering",
+      "impostazioni-personali",
+      "ai-critica"
+    ],
     "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/844630211_2191596618380237_7870813887442691337_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mB6AqM6LUWkQ7kNvwHwYkHW&_nc_oc=Ado6s4nWL_vo5ikDMmc3MxiNf4iOPnWXFCc6MXK1jXVqejchhQrOs1XSPmeuEvyFs3g&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=DhaecR-6zaoUEmi6YuxYsg&_nc_tpa=Q5bMBQLBHjG6hLzUAyAY7adjjfKyGTPYy42qbCd9GQXmT0ebfQ4OG2tq6YjHFoJeUwZID-v0wt2fCRTR&oh=00_AQMJMKmgdFfJh2_luDwuAj4vGlocXnT7AuREZv0bqqwPIA&oe=6AD56EC7",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
