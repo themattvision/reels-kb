@@ -1,0 +1,42 @@
+POST ID: 18098698325191475
+IG ID: 18098698325191475
+SHORTCODE: Dee1E7XFYeh
+PERMALINK: https://www.instagram.com/reel/Dee1E7XFYeh/
+DATA: 2026-10-14
+ORA: 16:38
+
+--- METRICHE ---
+LIKE: 6
+COMMENTI: 0
+DURATA VIDEO: 83 secondi
+CARATTERI CAPTION: 316
+HASHTAG: #amazon #garanzia #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: amazon, garanzia, chatbot, intelligenza-artificiale, automazione, cia-gpt
+TOPIC: Come usare CiaGPT su Aside.com per avviare la pratica di garanzia su Amazon e ottenere il reso della fontanella difettosa
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi usare la garanzia di Amazon ma non sai come fare? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+L'immagine è una griglia 3x3 che mostra un tutorial su come ottenere il rimborso o la garanzia su un ordine Amazon. I frame alternano riprese di un uomo che parla in camera e schermate del sito web di Amazon (ordinatore/portatile). Le schermate mostrano specificamente la pagina dei dettagli dell'ordine, dove è indicata la presenza della 'Garanzia estesa di Allstate'. Vengono evidenziati con delle frecce digitali i pulsanti 'INFAITI QUESTA FONTANELLA' (che fa riferimento al menu opzioni ordine), 'PER LARE QUI' e 'SCHELETIA IL MODELLO' (probabilmente 'scegliere il modello'). Infine, si vede una schermata di un'interfaccia di chat bot o sistema di assistenza (probabilmente 'chatbot') con una barra di ricerca attiva, dove l'utente sta interagendo per completare la richiesta.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon, Allstate
+
+--- CAPTION COMPLETA ---
+Amazon non rende immediato avviare una pratica di garanzia. In questo video mostro come ho chiesto all’assistente di avviare il reso della fontanella difettosa.
+
+Vuoi la guida completa e dettagliata? Commenta GARANZIA e te la mando. Seguimi per altri consigli come questo.
+
+#amazon #garanzia #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma Amazon sembra progettato per non farti sfruttare la garanzia europea di cui noi possiamo beneficiare. Cioè te prova a contattare l'assistenza di Amazon per eventuale garanzia, reso, sostituzione, non ce la fai. Infatti questa fontanella per gatti che abbiamo acquistato il 6 gennaio, oggi è il 16 settembre, dovrei mandarla in garanzia perché non funziona più. Ma come faccio? Non c'è nessun pulsante. Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andate su aside.com e cliccate su download. Questo è un clone di Google Chrome che può usare il tuo CiaGPT per fare cose al posto tuo. Una volta scaricato andatelo ad aprire e qui incollate la vostra richiesta, cliccate su Ask, scegliete il modello che vi interessa, io sceglierò questo, cliccherò su Hi che premerò su invio. D'ora in poi sarai sempre in grado di sfruttare la garanzia di Amazon, guarda qua, l'intelligenza artificiale ha aperto la chat di Amazon e adesso sta chattando per fare il reso. Adesso dobbiamo dire all'intelligenza artificiale se vogliamo portarlo noi o vogliamo il ritiro a casa clicchiamo ritiro SDA. Ecco qua che ha scritto preferisco ritiro SDA a domicilio ed ecco qua che il reso è stato autorizzato, rimborso di 49,99 e tra qualche giorno verranno a ritirare il prodotto. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Se commenti con questa parola ti mando la guida completa passo passo. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se non vuoi perderti altri consigli come questo.
