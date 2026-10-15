@@ -7799,14 +7799,20 @@
     "shortcode": "DegbXmHnDxC",
     "permalink": "https://www.instagram.com/reel/DegbXmHnDxC/",
     "date": "2026-10-15",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come far sì che ChatGPT non ti dia sempre ragione usando le istruzioni personalizzate",
+    "hook_text": "Vuoi che ChatGPT-5 smetta sempre di essere d'accordo con te? Fai questo",
     "like_count": 50,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 42,
+    "tags": [
+      "chatgpt",
+      "istruzioni-personalizzate",
+      "prompt",
+      "personalizzazione",
+      "ai-critico"
+    ],
     "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/849726702_1505422781348512_4591444117494714086_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nLxfzxHrGvUQ7kNvwH5Uwo8&_nc_oc=AdpEteQ2qtZF9BiNri5KVpFJNHf65yUbJqY5_RYoQAvOYNPIWrI6GACgO__nBsbtIjc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-vVSKphh_WlJDvTqnI1wcw&_nc_tpa=Q5bMBQI4lhT-QDOfoJ6yKhP-Gz3jMYSxcZuHAnplmO_CrhQexUi9OUygK-BLVDnEGXWM6m282a4sN2fs&oh=00_AQPZ740pNqbB7BtPkmGQca1HMIYmZ1bpE3WfCMZwOk7fFQ&oe=6AD6A81E",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
