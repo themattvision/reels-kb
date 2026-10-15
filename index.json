@@ -7734,14 +7734,22 @@
     "shortcode": "DehGQoYDQf1",
     "permalink": "https://www.instagram.com/reel/DehGQoYDQf1/",
     "date": "2026-10-15",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tool_gratuiti",
+    "topic": "Come scaricare gratuitamente i tool ArtCraft (PhotoCraft, VectorCraft, PdfCraft, FilmCraft) dal sito matteozampieri.com",
+    "hook_text": "Ora ogni utente usara gratis Word (Excel e Power Point) senza pagare un abbonamento",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 52,
+    "tags": [
+      "artcraft",
+      "photo-craft",
+      "vector-craft",
+      "pdf-craft",
+      "film-craft",
+      "open-source",
+      "github"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/849771966_18123205714936961_473531611811036247_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PmoVbRjCyscQ7kNvwEh4W3D&_nc_oc=Adr4v5njP1m9bSxfnTcVkEh34ETZaMcUmnAvXoHClruSnNFR1gYWKkq1VTo1khxxM48&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-vVSKphh_WlJDvTqnI1wcw&_nc_tpa=Q5bMBQLf-fTa3-itfgTM4CJFVOf1dKySujDZBCZJ-uUlaBy__1sifiP1ffcP7HuMu3tgkxVBRcK6W0qu&oh=00_AQOGVFR_nzK1kB9oEP-KUBvJlWx5cHeMtsYUgvEUWNtwNw&oe=6AD695F8",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
