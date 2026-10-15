@@ -6,8 +6,8 @@ DATA: 2026-09-30
 ORA: 17:21
 
 --- METRICHE ---
-LIKE: 554
-COMMENTI: 510
+LIKE: 564
+COMMENTI: 512
 DURATA VIDEO: 62 secondi
 CARATTERI CAPTION: 886
 HASHTAG: #adv #atoms #intelligenzaartificiale #vibecoding #nocode
