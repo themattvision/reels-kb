@@ -1,0 +1,56 @@
+POST ID: 18034755812665495
+IG ID: 18034755812665495
+SHORTCODE: Deg8BQlGOlQ
+PERMALINK: https://www.instagram.com/reel/Deg8BQlGOlQ/
+DATA: 2026-10-15
+ORA: 12:17
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 50 secondi
+CARATTERI CAPTION: 704
+HASHTAG: #intelligenzaartificiale #photoshop #artcraft #gratis #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/artcraft)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: artcraft, photo-craft, vector-craft, pdf-craft, film-craft, open-source, intelligenza-artificiale
+TOPIC: Scopri Artcraft, la suite gratuita open source alternativa a Photoshop, Lightroom, Premiere e Acrobat con integrazione AI
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi puoi usare gratis Photoshop e tutti gli altri programmi di Adobe
+
+--- DESCRIZIONE VISIVA ---
+L'autore è ripreso al petto mentre tiene in mano un piccolo drone. Il video alterna i suoi discorsi a riprese screen-cast informative: in un frame appare un monitor (visto da dietro una laptop) che mostra la home page del sito Adobe Creative Cloud con la griglia di applicazioni a colori (Photoshop, Premiere Pro, Lightroom, ecc.); in un altro frame si vede una schermata del browser con la pagina di 'About' di un servizio di affiliazione che menziona 'Affiliati - 26.9MT fee' e mostra tab come 'Agenda' e 'Progetti'. L'autore appare in un ambiente domestico allestito con una libreria bianca sullo sfondo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Adobe, Photoshop, Magento 2.6
+
+--- CAPTION COMPLETA ---
+Ecco come averli gratis
+
+(Commenta il video e ti mando direttamente il link)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Vai su https://matteozampieri.com/artcraft
+
+2 Scegli il programma che ti interessa, PhotoCraft per le immagini, VectorCraft per la grafica, PdfCraft per i PDF o FilmCraft per i video
+
+3 Apri la sua pagina e scegli il download per il tuo computer
+
+Sono alternative gratuite e open source, così puoi lavorare anche ai tuoi progetti personali senza aggiungere un altro abbonamento.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #photoshop #artcraft #gratis #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Non ci posso credere, cioè, è presente che Photoshop, Lightroom, Premiere, Acrobat, tutti questi programmi hanno degli abbonamenti che ti costano almeno 60€ al mese, no? Ecco, un ingegnere di Atlanta ha creato Artcraft, che non è altro che una copia tale e quale di tutti questi programmi, ma completamente gratuita. Ma c'è un'altra figata, perché il codice lo hanno messo pubblico su GitHub e ha già quasi 100.000 stelle, quindi il progetto è estremamente affidabile. Infatti se vuoi installarli il link te l'ho messo in descrizione oppure commenta il video che te li mando tutti direttamente e tra l'altro questi programmi oltre ad essere estremamente identici agli originali hanno in più la possibilità di utilizzarli con l'intelligenza artificiale. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, il link te l'ho messo in descrizione ma se commenti il video te lo mando direttamente, noi ci vediamo ad un prossimo video e tu se ancora stai facendo tutto a mano seguimi che ti insegno io a usare l'intelligenza artificiale.
