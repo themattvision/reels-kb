@@ -4659,7 +4659,7 @@
     "category": "news_ai",
     "topic": "Il modello Claude 4.6 di Anthropic costruisce un compilatore C da zero in due settimane con 20.000 dollari",
     "hook_text": "",
-    "like_count": 78,
+    "like_count": 77,
     "comments_count": 5,
     "duration": 69,
     "tags": [
@@ -4668,7 +4668,9 @@
       "compilatore-c",
       "automazione",
       "intelligenza-artificiale"
-    ]
+    ],
+    "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/640183955_1686055662557507_7756577322191992572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rtt9w4tFe20Q7kNvwFJKXB6&_nc_oc=AdodfeuakpdGGSwP7BQL_desA9Wkj2Q7bZ6ju0UlXf2Qnlh3evOPT43mUzJMSgxWMHM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=vsmGFXQ61lIq6KjcPSESOg&_nc_tpa=Q5bMBQKYpXGPNahQcbI2y79tTDKjnupg7Qt0tEWe1sTDa8yw671kQ7Bf4_LjcpPEWIaTqgK7Fea2_yZL&oh=00_AQM-09EaswluPZJrY-28NLpabcHLbzlqPns7A_mPdeYUWw&oe=6AD6A63B",
+    "analysis_status": "complete"
   },
   {
     "shortcode": "DVAz9QvjfCJ",
