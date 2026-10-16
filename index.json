@@ -7869,14 +7869,20 @@
     "shortcode": "DejbozWjIPn",
     "permalink": "https://www.instagram.com/reel/DejbozWjIPn/",
     "date": "2026-10-16",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come attivare la personalizzazione di ChatGPT per farlo smettere di dare sempre ragione",
+    "hook_text": "Vuoi che ChatGPT-5 smetta sempre di essere d'accordo con te? Fai questo",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 40,
+    "tags": [
+      "chatgpt",
+      "personalizzazione",
+      "prompt",
+      "intelligenza-artificiale",
+      "openai"
+    ],
     "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/851718494_1606805071182706_3879472492771636793_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZJyI3uS9Xy8Q7kNvwGsE_p6&_nc_oc=AdpbM8dw9GC73_G1GMAmPvRNjgpkSSpOuZKFHtPulGCBd6NQy1DxCO7MW9GG_klJ9aw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xz4kARMjb5UwyPGG1PlL_g&_nc_tpa=Q5bMBQLXOptGx7gi5Jc4KtosAX-frLT-SzoFFNZ3c8SIGl1XdJebMiLuuEe3EyD6H64EGV-EojwTV5aM&oh=00_AQPH3rVCIy9uFrXCkTSwHV95WDX9dKzi0wMaTd0NwbiacQ&oe=6AD7EE0D",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
