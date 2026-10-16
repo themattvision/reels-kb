@@ -1,0 +1,59 @@
+POST ID: 18095697938138275
+IG ID: 18095697938138275
+SHORTCODE: DejALCLDyLI
+PERMALINK: https://www.instagram.com/reel/DejALCLDyLI/
+DATA: 2026-10-16
+ORA: 07:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 698
+HASHTAG: #mac #macapps #apple #apppermac #produttivita
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/vorssaint)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: vorssaint, macos, github, productivity, mac-app
+TOPIC: Scopri Vorssaint, l'app gratuita per macOS che centralizza volume, finestre, clipboard e multitasking in un unico strumento
+
+--- HOOK TESTUALE (dal frame) ---
+Finalmente hanno pubblicato l'app che elimina la frammentazione più utile del tuo Mac
+
+--- DESCRIZIONE VISIVA ---
+Il video alterna le riprese di un presentatore che parla in prima persona a schermo intero e B-roll di una schermata computer. Sullo schermo è visibile l'interfaccia di GitHub (con pulsanti 'Go to file', 'Code', 'requests', 'Agents', 'trending repository') e l'interfaccia di macOS che mostra un applicazione chiamata 'Runtimate' con un'icona di pianeta. Il presentatore, vestito con una maglietta nera, gesticola mentre spiega i vantaggi del software appena mostrato negli screenshot.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, macOS, GitHub, Runtimate
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+(Se commenti CHE COLAZIONE te lo mando direttamente per messaggio 😄)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Vorssaint è un’app gratuita per Mac che riunisce in un solo posto strumenti che di solito trovi sparsi in tante app diverse.
+
+Puoi gestire il volume di ogni app separatamente.
+Puoi agganciare le finestre ai lati dello schermo.
+Puoi ritrovare lo storico di tutto quello che hai copiato.
+Puoi passare da un’app all’altra in modo più comodo.
+
+E molto altro.
+
+🔗 matteozampieri.com/vorssaint
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#mac #macapps #apple #apppermac #produttivita
+
+--- TRASCRIZIONE AUDIO ---
+Non ci posso credere, hai presente che il Mac spesso è limitato e tante cose che si possono fare su Windows sul Mac non si possono fare? Ecco, una persona di cui praticamente non si sa nulla sull'identità ha creato Vorsan che ti permette di sbloccare gratis con un click una marea di funzionalità che il tuo Mac non può fare. Ma la figata è che il codice dell'app è pubblico con quasi 22.000 stelle su GitHub, quindi non solo è affidabile, ma inoltre chiunque può controllare se l'applicazione contiene virus. Su se vuoi scaricarlo il link te l'ho messo in descrizione ma se commenti che colazione te lo mando direttamente per messaggio e considera che questa è solamente una piccola parte delle cose più utili che ti sblocca nel Mac. Io comunque sono Mato Zampieri il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e poi tu ricordati di seguirmi così poi mi fai sapere qual è la tua funzione di Vorsan preferita.
