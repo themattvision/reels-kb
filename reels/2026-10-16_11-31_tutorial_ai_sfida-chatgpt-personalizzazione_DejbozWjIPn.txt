@@ -1,0 +1,69 @@
+POST ID: 17937205857386025
+IG ID: 17937205857386025
+SHORTCODE: DejbozWjIPn
+PERMALINK: https://www.instagram.com/reel/DejbozWjIPn/
+DATA: 2026-10-16
+ORA: 11:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 40 secondi
+CARATTERI CAPTION: 1343
+HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, personalizzazione, prompt, intelligenza-artificiale, openai
+TOPIC: Come attivare la personalizzazione di ChatGPT per farlo smettere di dare sempre ragione
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi che ChatGPT-5 smetta sempre di essere d'accordo con te? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una configurazione su desktop e mobile. Inizialmente viene mostrato uno schermo con l'interfaccia di browser e una chat. Il presentatore guida lo spettatore a navigare nelle impostazioni dell'account, specificamente nella sezione 'Personalizzazione', dove viene attivata la funzione 'Personalizza ChatGPT' e selezionata la voce 'Sfidare o correggere' per il tipo di risposta. Vengono mostrati screenshot ravvicinati dei menu a tendina e delle interfacce di configurazione, alternati a brevi spezzoni del presentatore che spiega i passi da compiere.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Chrome, ChatGPT
+
+--- CAPTION COMPLETA ---
+Inizia scrivendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+D’ora in poi, non limitarti ad essere sempre d’accordo con me o a presumere che io abbia sempre ragione. Voglio che tu mi metta in discussione e mi aiuti a pensare meglio. Ogni volta che condivido un’idea, voglio che tu faccia queste cose:
+
+1. Controlla ciò che suppongo
+Chiediti: cosa sto dando per scontato che potrebbe essere sbagliato?
+
+2. Proponi altri punti di vista
+Cosa direbbe una persona intelligente che non è d’accordo con me?
+
+3. Offri prospettive diverse
+Esiste un altro modo di vedere questa idea?
+
+4. Metti alla prova il mio ragionamento
+Il lato logico ha senso? O ci sono errori che non ho notato?
+
+5. Concentrati sulla verità, non sull’accordo
+Se sbaglio, dimmelo. Spiegami chiaramente perché è sbagliato.
+
+Termina dicendo:
+
+Rimani utile, ma anche onesto. Sei qui per aiutarmi a pensare con chiarezza e a generare idee migliori. Se inizio a dare giudizi affrettati o a credere in cose senza prove, segnalamelo. Aiutami a migliorare non solo le mie risposte, ma anche il mio modo di pensare.
+
+Vedrai che una volta fato ChatGPT non ti darà sempre ragione.
+
+Se ti ho aiutato 👉 clicca segui @themattvision 
+
+Io sono il tuo smanettone di fiducia noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
+
+--- TRASCRIZIONE AUDIO ---
+Se dovessi scegliere tra darmi ragione e darmi torto, cosa preferiresti? Lui mi dice proprio ti darei ragione. Cioè te prova a farti dare torto da CiaGPT, non ce la fai. Andate nel vostro chat GPT e in basso qui cliccate su impostazioni. Da qui andate su personalizzazione, abilitate la personalizzazione, incollate questo testo che vi ho messo in descrizione e cliccate salva. D'ora in poi CiaGPT non ti darà sempre ragione. Guarda qua, in base a come sono stato progettato, sceglierei la verità. Quindi a volte ti do ragione, a volte ti do torto. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.
