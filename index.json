@@ -7992,14 +7992,20 @@
     "shortcode": "DehZOagjCiL",
     "permalink": "https://www.instagram.com/reel/DehZOagjCiL/",
     "date": "2026-10-15",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come ricreare l'animazione di apertura e chiusura del nuovo iPhone pieghevole usando il progetto di matteozampieri.com",
     "hook_text": "",
     "like_count": 70,
     "comments_count": 5,
-    "duration": 0,
-    "tags": [],
+    "duration": 22,
+    "tags": [
+      "iphone-duo",
+      "apple",
+      "animazione-apple",
+      "foldable-iphone",
+      "matteozampieri"
+    ],
     "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/849270922_3308203516029812_908327056378459583_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=JO4AGOjK11QQ7kNvwFtX6Wb&_nc_oc=AdpIhe45wX2VpTlN5fQ19N0h2pP20AyoAuS80r_gmh-4xxMxWIWh_D1jDqZwSaUGrAw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=xz4kARMjb5UwyPGG1PlL_g&_nc_tpa=Q5bMBQJj4zcOSkDE0b5x6jp2gnr7gk7o9nadsXMNt94eLWpqryFxGZfFVbzx3d8z6nU_qjAODUESmSiz&oh=00_AQNNbR9P8_x9fHa3h-CQjaRXDWSzzhGauJslCophn0NtRw&oe=6AD816CE",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
