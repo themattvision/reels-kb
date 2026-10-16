@@ -7,7 +7,7 @@ ORA: 11:17
 
 --- METRICHE ---
 LIKE: 1859
-COMMENTI: 936
+COMMENTI: 937
 DURATA VIDEO: 56 secondi
 CARATTERI CAPTION: 671
 HASHTAG: #intelligenzaartificiale #chatgpt #perplexity #ai #ia
