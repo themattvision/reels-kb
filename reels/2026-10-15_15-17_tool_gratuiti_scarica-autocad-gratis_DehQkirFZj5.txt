@@ -1,0 +1,56 @@
+POST ID: 18091235651656205
+IG ID: 18091235651656205
+SHORTCODE: DehQkirFZj5
+PERMALINK: https://www.instagram.com/reel/DehQkirFZj5/
+DATA: 2026-10-15
+ORA: 15:17
+
+--- METRICHE ---
+LIKE: 16
+COMMENTI: 0
+DURATA VIDEO: 46 secondi
+CARATTERI CAPTION: 704
+HASHTAG: #intelligenzaartificiale #photoshop #artcraft #gratis #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/artcraft)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: autocad, artcraft, github, open-source, risparmio-tech, intelligenza-artificiale
+TOPIC: Come scaricare gratuitamente AutoCAD e altri software con ArtCraft su matteozampieri.com
+
+--- HOOK TESTUALE (dal frame) ---
+Ho trovato un sito dove puoi scaricare AutoCAD completamente gratis
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una schermata di un sito web che elenca software popolari mostrandoli in ordine di popolarità o download. Le icone e i nomi di vari software come 'Osm...CAD', 'CorelDraw', 'Inkscape' e 'Illustrator' sono visibili, con le vette indicate che sfiorano il milione di unità (quasi 100.000). Il presentatore, inizialmente sorridente, e poi si vede in staccati più ravvicinati in una stanza domestica dietro una libreria.
+
+--- PRODOTTI / TOOL VISIBILI ---
+AutoCAD, CorelDraw, Inkscape, Illustrator, Microsoft Word, Microsoft PowerPoint
+
+--- CAPTION COMPLETA ---
+Ecco come averli gratis
+
+(Commenta il video e ti mando direttamente il link)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Vai su https://matteozampieri.com/artcraft
+
+2 Scegli il programma che ti interessa, PhotoCraft per le immagini, VectorCraft per la grafica, PdfCraft per i PDF o FilmCraft per i video
+
+3 Apri la sua pagina e scegli il download per il tuo computer
+
+Sono alternative gratuite e open source, così puoi lavorare anche ai tuoi progetti personali senza aggiungere un altro abbonamento.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #photoshop #artcraft #gratis #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma ho trovato un sito che ti permette di scaricare gratis la copia tale e quale di qualsiasi programma possibile e immaginabile. Abbiamo PowerPoint, Excel, AutoCAD Word, Figma, After Effects, Illustrator, Premiere, Lightroom, Photoshop, Acrobat, Pro Tools, InDesign e ne stanno aggiungendo ogni giorno di nuove. Ma c'è un'altra figata, perché il codice lo hanno messo pubblico su GitHub e ha già quasi 100.000 stelle, quindi il progetto è estremamente affidabile. E tra l'altro questi programmi oltre ad essere estremamente identici agli originali hanno in più la possibilità di utilizzarli con l'intelligenza artificiale. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, il link te l'ho messo in descrizione ma se commenti il video te lo mando direttamente. Noi ci vediamo ad un prossimo video e tu se ancora stai facendo tutto a mano seguimi che ti insegno io a usare l'intelligenza artificiale.
