@@ -6,8 +6,8 @@ DATA: 2026-10-15
 ORA: 16:32
 
 --- METRICHE ---
-LIKE: 70
-COMMENTI: 5
+LIKE: 72
+COMMENTI: 8
 DURATA VIDEO: 22 secondi
 CARATTERI CAPTION: 688
 HASHTAG: #iphone #apple #iphonepieghevole #trucchiiphone #tecnologia
