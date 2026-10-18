@@ -8225,14 +8225,20 @@
     "shortcode": "DemiwRDjLt_",
     "permalink": "https://www.instagram.com/reel/DemiwRDjLt_/",
     "date": "2026-10-17",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tool_gratuiti",
+    "topic": "Scopri come usare gam.onl per giocare gratis a titoli PlayStation come Crash Bandicoot",
+    "hook_text": "Questo sito ti fa usare qualsiasi gioco gratis ma lo fa con stile",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 34,
+    "tags": [
+      "gam-onl",
+      "giochi-gratis",
+      "emulazione",
+      "playstation",
+      "crash-bandicoot"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/845808928_3623382661170161_3853138985840882233_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=94erjnSFJ7cQ7kNvwEg1ZyI&_nc_oc=AdpoAK6Bv3rudOCdREU5qfTS2JoxmfU06gEppSUnwsS_Ut3vWYmq-deKzR0U1a7j0fo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-7-YM0ACqrwToJVegV7O2A&_nc_tpa=Q5bMBQKe2TcZG7eHYOkSPgj4RRQlPWDK4laub_D-bZp11n9CA6G-fHDZgAoMKtrUN9SCh3cjJteR-_NL&oh=00_AQMPITe8WLCfOGd1qSPEcy-KbCJ4zvdM1yrZbYxK6XAn_w&oe=6ADA9596",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
