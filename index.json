@@ -3417,7 +3417,7 @@
     "category": "news_ai",
     "topic": "Il modello cinese LongCat Video supera Veo3 e Sora permettendo la creazione di video lunghi fino a 3/4 minuti",
     "hook_text": "Sora e Veo3 sono già state superate da un'intelligenza artificiale cinese",
-    "like_count": 186,
+    "like_count": 185,
     "comments_count": 9,
     "duration": 53,
     "tags": [
@@ -3426,7 +3426,9 @@
       "sora",
       "veo3",
       "comfyui"
-    ]
+    ],
+    "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/591172429_899413082770851_9179781480350126635_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o-hnPrvQ3i8Q7kNvwH-95XE&_nc_oc=AdpBewk_YFFfa_Qa8pcV1DrRg0uEcKza8vuTpxKF20jp9fnG37ydUREfxjzqSNrTvAQ&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=9Xqr6q6J2rNHRe_q5FgWWQ&_nc_tpa=Q5bMBQK3pA_UahtI27phNdMmoPemC8WPJk1XkdkP6hKW5zr1cgyOUlVeLk-WkJ5YZlLU0WWVqcMgI0tg&oh=00_AQOzLb5Ys97pYUYPPNrYYP1pLpctfzO_fPetJ0c7lBnGBg&oe=6ADAA507",
+    "analysis_status": "complete"
   },
   {
     "shortcode": "DSQVk7njW6o",
