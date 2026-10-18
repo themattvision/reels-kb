@@ -8206,13 +8206,19 @@
     "permalink": "https://www.instagram.com/reel/DeoJ5n0jv8e/",
     "date": "2026-10-18",
     "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "topic": "Animazione di apertura e chiusura del nuovo iPhone pieghevole ricreata da un utente su X",
     "hook_text": "",
     "like_count": 8,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 19,
+    "tags": [
+      "iphone-pieghevole",
+      "animazione-apple",
+      "matteozampieri",
+      "x",
+      "android"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/850874142_1130584372805014_3203778005601375737_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=b_nRH6BveqkQ7kNvwGlbzb9&_nc_oc=AdrcvSUiR60Xxot93wZgXDKs8nsCyt6y77OAsXfMmnRTeUPoQCVZVbcHyS2eZ2BuCrg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=-7-YM0ACqrwToJVegV7O2A&_nc_tpa=Q5bMBQL3b_yn1Hz5HQxzB_ELn0iy539VN7jnwuOld6AGI43LdyruzpL4saiymkdWp-qrbv7gJ7vRSUKE&oh=00_AQNZAHlolKQdUxCOkMYUrSdfCKJEFd5h2kmr2Dt86O8CEg&oe=6ADA870F",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
