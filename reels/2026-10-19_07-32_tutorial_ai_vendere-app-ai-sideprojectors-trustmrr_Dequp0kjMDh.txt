@@ -1,0 +1,62 @@
+POST ID: 17917093665494912
+IG ID: 17917093665494912
+SHORTCODE: Dequp0kjMDh
+PERMALINK: https://www.instagram.com/reel/Dequp0kjMDh/
+DATA: 2026-10-19
+ORA: 07:32
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 21 secondi
+CARATTERI CAPTION: 1012
+HASHTAG: #vibecoding #intelligenzaartificiale #ai #chatgpt #guadagnareonline
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: sideprojectors, trustmrr, monetizzazione-app, intelligenza-artificiale, guadagnare-online
+TOPIC: Come vendere le tue app AI su SideProjectors e TrustMRR mostrando i guadagni reali
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+<tool_call>
+{"hook_text": "", "visual_description": "Il video mostra un uomo in un ambiente d'ufficio, che parla allencamerazione con gesti energici. Sono visibili sottotitoli parolaperparola in basso a destra nei vari fotogrammi (es. \"DI PIU' SERIO,\" \"PAGAMENTI, STAI\", \"SU TRUTHR\", \"CIÒ E' ASSURDO:\", \"TUO SPANETTONE DI FIDUCIA\", \"CI VEDIAMO AL PROSSIMO VIDEO.\"). Inoltre, alcuni frame mostrano schermate di un software di coding o di un'app, con interfacce che includono elenchi e pannelli laterali, e una copia dello schermo che sembra mostrare un browser web con articoli o proposte di acquisto (si legge \"VENDUTO per 85000 $\"). Le immagini delle interfacce software funzionano come contenuti b-roll per spiegare un intervento sul successo o sul guadagno tramite un prodotto o un progetto digitale.\", "visible_products": []}
+
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Ecco come fare:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Quando crei un’app con l’intelligenza artificiale, nel 99% dei casi non ci fai un euro. Non perché sia fatta male, ma perché trovare clienti è la parte più difficile di tutte.
+
+E allora invece di lasciarla lì a prendere polvere, la vendi.
+
+1 Se hai creato un piccolo progetto, un sito o un’app che ancora non sta guadagnando, vai su SideProjectors e la metti in vendita così com’è
+
+2 Se invece hai fatto qualcosa di più serio, magari hai già utenti, pagamenti, stai fatturando qualcosina, allora vai su TrustMRR
+
+3 Su TrustMRR colleghi i dati reali del progetto e mostri a chi vuole comprarlo quanto stai già guadagnando davvero
+
+4 Guarda le cifre a cui vengono vendute certe applicazioni, è assurdo
+
+Secondo te è geniale o una perdita di tempo? 👇
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#vibecoding #intelligenzaartificiale #ai #chatgpt #guadagnareonline
+
+--- TRASCRIZIONE AUDIO ---
+Se invece hai fatto qualcosa di più serio, magari hai già gli utenti, i pagamenti, stai fatturando insomma qualcosina, vai su TrustMRare. Qui puoi collegare dati reali del progetto e mostrare a chi vuole effettivamente comprarlo quanto già stai guadagnando. E guardate qua quanto vengono vendute certe applicazioni, cioè è assurdo. Io comunque sono Mettoso e Pieri, il tuo smanetto di Facebook Chast, se ancora non mi serve, fallo e noi ci vediamo al prossimo video.
