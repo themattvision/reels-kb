@@ -6,8 +6,8 @@ DATA: 2026-09-16
 ORA: 18:20
 
 --- METRICHE ---
-LIKE: 1624
-COMMENTI: 623
+LIKE: 1628
+COMMENTI: 625
 DURATA VIDEO: 83 secondi
 CARATTERI CAPTION: 815
 HASHTAG: #intelligenzaartificiale #chatgpt #amazon #ai #tutorial
