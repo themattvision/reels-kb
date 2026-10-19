@@ -1,0 +1,68 @@
+POST ID: 17890185636653935
+IG ID: 17890185636653935
+SHORTCODE: DerKEPLETst
+PERMALINK: https://www.instagram.com/reel/DerKEPLETst/
+DATA: 2026-10-19
+ORA: 11:32
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 58 secondi
+CARATTERI CAPTION: 815
+HASHTAG: #intelligenzaartificiale #chatgpt #amazon #ai #tutorial
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/garanzia-con-ia)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: aside, amazon, garanzia, chatgpt, ai-assistente
+TOPIC: Come usare Aside per automatizzare la garanzia su Amazon con l'AI
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi usare la garanzia di Amazon ma non sai come fare? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Il video è un vlog in stile tutorial che alterna piani ravvicinati di uno smartphone e un MacBook con un uomo che parla in camera, in un ambiente domestico o un ufficio. In basso, compaiono sottotitoli e testi di lettura velocità. Le schermate del telefono mostrano una chat con un assistente, la parte inferiore di una mail contenente una 'garanzia' e una lista di dettagli, mentre sul laptop si vede una pagina web. Il presentatore gesticola indicando le schermate (‘ECCO OUA CHE’), mostrando i passaggi da seguire. Un altro testo finale incoraggia gli utenti a lasciare un commento.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon, ChatGPT, Gemini, Perplexity
+
+--- CAPTION COMPLETA ---
+Ecco la guida completa 👇
+
+Se vuoi la guida completa e dettagliata, scrivi GARANZIA nei commenti.
+
+Prima di tutto seguimi @themattvision
+
+1 Scarica Aside da aside.com e installalo sul computer
+
+2 Apri Amazon dentro Aside ed effettua l’accesso al tuo account
+
+3 Scrivi all’AI quale prodotto non funziona e cosa vuoi ottenere
+
+4 Lascia che cerchi l’ordine e contatti l’assistenza Amazon
+
+5 Intervieni quando deve scegliere reso, ritiro o rimborso e controlla la conferma finale
+
+Nel mio caso ho ottenuto:
+
+✅ reso autorizzato
+✅ ritiro SDA a domicilio
+✅ rimborso di 49,99€
+
+Ecco la guida completa e dettagliata 👇
+
+matteozampieri.com/garanzia-con-ia
+
+Io sono Matteo Zampieri, Il Tuo Smanettone di Fiducia 🤓
+
+Seguimi @themattvision per altri consigli come questo
+
+#intelligenzaartificiale #chatgpt #amazon #ai #tutorial
+
+--- TRASCRIZIONE AUDIO ---
+Andate su aside.com e cliccate su download. Questo è un clone di Google Chrome che può usare il tuo CiaGPT per fare cose al posto tuo. Una volta scaricato andatelo ad aprire e qui incollate la vostra richiesta, cliccate su Ask, scegliete il modello che vi interessa, io sceglierò questo, cliccherò su Hi che premerò su invio. D'ora in poi sarai sempre in grado di sfruttare la garanzia di Amazon, guarda qua, l'intelligenza artificiale ha aperto la chat di Amazon e adesso sta chattando per fare il reso. Adesso dobbiamo dire all'intelligenza artificiale se vogliamo portarlo noi o vogliamo il ritiro a casa, clicchiamo ritiro SDA, ecco qua che ha scritto preferisco ritiro SDA a domicilio ed ecco qua che il reso è stato autorizzato, rimborso di 49,99 e tra qualche giorno verranno a ritirare il prodotto. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Se commenti con questa parola ti mando la guida completa passo passo. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se non vuoi perderti altri consigli come questo.
