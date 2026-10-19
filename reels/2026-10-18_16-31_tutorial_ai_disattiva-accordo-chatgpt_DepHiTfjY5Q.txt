@@ -1,0 +1,69 @@
+POST ID: 17994542589059577
+IG ID: 17994542589059577
+SHORTCODE: DepHiTfjY5Q
+PERMALINK: https://www.instagram.com/reel/DepHiTfjY5Q/
+DATA: 2026-10-18
+ORA: 16:31
+
+--- METRICHE ---
+LIKE: 48
+COMMENTI: 2
+DURATA VIDEO: 21 secondi
+CARATTERI CAPTION: 1343
+HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, chatgpt-5, personalizzazione, agreement-setting, ai
+TOPIC: Come disattivare l'opzione 'Assecondare (Agreement)' su ChatGPT-5 per far sì che l'assistente non sia sempre d'accordo con l'utente
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi che ChatGPT-5 smetta sempre di essere d'accordo con te? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una schermata di un portatile su cui è aperto il browser web. Vengono mostrate le impostazioni personalizzazione di un account AI, specificamente la sezione relativa al modello 'ChatGPT-5'. Una voce fuori campo, accompagnata da sottotitoli, guida l'utente a trovare l'interruttore (toggle) per l''impostazione 'Assecondare' (o 'agreement'), che è descritta nel video come l'opzione che fa sì che l'assistente sia d'accordo con l'utente. L'utente scorre la pagina e attiva/disattiva l'interruttore sul campo 'Assecondare (Agreement)' per forzare il comportamento del modello.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
+
+--- CAPTION COMPLETA ---
+Inizia scrivendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+D’ora in poi, non limitarti ad essere sempre d’accordo con me o a presumere che io abbia sempre ragione. Voglio che tu mi metta in discussione e mi aiuti a pensare meglio. Ogni volta che condivido un’idea, voglio che tu faccia queste cose:
+
+1. Controlla ciò che suppongo
+Chiediti: cosa sto dando per scontato che potrebbe essere sbagliato?
+
+2. Proponi altri punti di vista
+Cosa direbbe una persona intelligente che non è d’accordo con me?
+
+3. Offri prospettive diverse
+Esiste un altro modo di vedere questa idea?
+
+4. Metti alla prova il mio ragionamento
+Il lato logico ha senso? O ci sono errori che non ho notato?
+
+5. Concentrati sulla verità, non sull’accordo
+Se sbaglio, dimmelo. Spiegami chiaramente perché è sbagliato.
+
+Termina dicendo:
+
+Rimani utile, ma anche onesto. Sei qui per aiutarmi a pensare con chiarezza e a generare idee migliori. Se inizio a dare giudizi affrettati o a credere in cose senza prove, segnalamelo. Aiutami a migliorare non solo le mie risposte, ma anche il mio modo di pensare.
+
+Vedrai che una volta fato ChatGPT non ti darà sempre ragione.
+
+Se ti ho aiutato 👉 clicca segui @themattvision 
+
+Io sono il tuo smanettone di fiducia noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
+
+--- TRASCRIZIONE AUDIO ---
+Andate nel vostro chat GPT e in basso qui cliccate su impostazioni. Da qui andate su personalizzazione, abilitate la personalizzazione, incollate questo testo che vi ho messo in descrizione e cliccate salva. D'ora in poi chat GPT non ti darà sempre ragione, ricordati di seguirmi se ancora non hai fatto.
