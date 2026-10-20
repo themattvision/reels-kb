@@ -8332,14 +8332,20 @@
     "shortcode": "DetTXavDTrv",
     "permalink": "https://www.instagram.com/reel/DetTXavDTrv/",
     "date": "2026-10-20",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tool_gratuiti",
+    "topic": "Scopri come giocare a Crash Bandicoot su browser gratuitamente con il sito gam.onl",
+    "hook_text": "Questo sito ti fa usare qualsiasi gioco gratis ma lo fa con stile",
     "like_count": 12,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 9,
+    "tags": [
+      "gam-onl",
+      "crash-bandicoot",
+      "gaming-browser",
+      "gioco-gratis",
+      "emulazione"
+    ],
     "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.71878-15/861214656_1127993996396904_2530768030232584863_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OkksqbFSzDoQ7kNvwEBk6kH&_nc_oc=AdpF0zEBG8_7jpCuvUtXUKdVzOLT9aua3fbGRaM3II0KvXvUJwqHJ4lR2EuDyyjg4D0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=eE_PI0dVktBH9Z9XcKdVIQ&_nc_tpa=Q5bMBQJPgFRa5Y03weT8Ez-GrgQZMOhmiX6IuOvDzAUGZRlJsOOgLA7vj7tIiMZzTWj21wN4kGTKrJfE&oh=00_AQPnST9ifhS-YabZzTgcb9B7k76E3O4AmQYsrkQ81HgxFQ&oe=6ADD4501",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
