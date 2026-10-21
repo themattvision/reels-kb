@@ -1,0 +1,59 @@
+POST ID: 18078755141534211
+IG ID: 18078755141534211
+SHORTCODE: DeuRHoGEgt2
+PERMALINK: https://www.instagram.com/reel/DeuRHoGEgt2/
+DATA: 2026-10-20
+ORA: 16:31
+
+--- METRICHE ---
+LIKE: 16
+COMMENTI: 4
+DURATA VIDEO: 28 secondi
+CARATTERI CAPTION: 698
+HASHTAG: #mac #macapps #apple #apppermac #produttivita
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/vorssaint)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: vorssaint, macos, productivity, github, free-app
+TOPIC: Scopri come utilizzare Vorssaint, l'app gratuita per macOS che centralizza strumenti di produttività in un unico posto
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video è un mix di riprese di un presentatore che parla alla camera e B-roll di uno schermo. Le inquadrature del presentatore lo mostrano in ambienti domestici (sala con quadri, stanza con tende) che gesticola per sottolineare i suoi punti. Le riprese di B-roll mostrano una schermata di macOS con diverse finestre: una che mostra l'IDE GitHub Copilot Chat con una query inserita che chiede di pubblicare un'app; una finestra 'Cervino-Sold' che mostra un pulsante 'Go to file' e del codice sorgente con versioning (3.1.4); e una finestra del file manager 'Finder' di macOS che mostra un'unità 'USB-c drive'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GitHub Copilot, Cervino, macOS
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+(Se commenti CHE COLAZIONE te lo mando direttamente per messaggio 😄)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Vorssaint è un’app gratuita per Mac che riunisce in un solo posto strumenti che di solito trovi sparsi in tante app diverse.
+
+Puoi gestire il volume di ogni app separatamente.
+Puoi agganciare le finestre ai lati dello schermo.
+Puoi ritrovare lo storico di tutto quello che hai copiato.
+Puoi passare da un’app all’altra in modo più comodo.
+
+E molto altro.
+
+🔗 matteozampieri.com/vorssaint
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#mac #macapps #apple #apppermac #produttivita
+
+--- TRASCRIZIONE AUDIO ---
+Trafigata è che il codice dell'app è pubblico con quasi 22.000 stelle su GitHub, quindi non solo è affidabile, ma inoltre chiunque può controllare se l'applicazione contiene virus. Tu se vuoi scaricarlo, il link te l'ho messo in descrizione, ma se commenti che colazione, te lo mando direttamente per messaggio e considera che questa è solamente una piccola parte delle cose più utili che ti sblocca nel Mac. Io comunque sono Mato Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e poi tu ricordati di seguirmi così poi mi fai sapere qual è la tua funzione di Vorsan preferita.
