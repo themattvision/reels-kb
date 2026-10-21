@@ -1,0 +1,58 @@
+POST ID: 17872122723649044
+IG ID: 17872122723649044
+SHORTCODE: DeuSVEQIn5s
+PERMALINK: https://www.instagram.com/reel/DeuSVEQIn5s/
+DATA: 2026-10-20
+ORA: 16:43
+
+--- METRICHE ---
+LIKE: 163
+COMMENTI: 205
+DURATA VIDEO: 33 secondi
+CARATTERI CAPTION: 715
+HASHTAG: #adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/opusclip)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: opusclip, video-automatico, sottotitoli, intelligenza-artificiale, automazione
+TOPIC: Come usare OpusClip per generare automaticamente clip video con sottotitoli e punteggio di viralità
+
+--- HOOK TESTUALE (dal frame) ---
+Questo sito ti crea il video con l'intelligenza artificiale pronti per andare virale
+
+--- DESCRIZIONE VISIVA ---
+Il video alterna riprese del presentatore a dimostrazioni screen-record di un software. Inizialmente, lo schermo mostra la dashboard di un sito web, evidenziando un intesto noto (Veo Studio) e schermate di caricamento con icone colorate. L'interfaccia mostra tracce audio e visive, suggerendo un editor di video basato su browser. Le riprese del presentatore (in interni e in esterni su uno sfondo rosa) fungono da contesto per la narrazione, ma il focus visivo è sulla UI del software AI. I sottotitoli evidenziano parole chiave come 'VIDEO', 'MONTATO', 'OPINIONE', 'FIDUCIA'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Veo Studio
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+(Se commenti TROPPO FACILE te lo mando direttamente per messaggio 😄)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Vai su matteozampieri.com/opusclip
+
+2 Carica il tuo video oppure incolla il link
+
+3 Avvia la generazione delle clip
+
+4 OpusClip selezionerà i momenti del video e creerà tante clip già montate con i sottotitoli, pronte per essere pubblicate sui social
+
+Inoltre, assegna a ciascuna clip un punteggio e le mette in ordine, così puoi scegliere quali pubblicare per prime.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator tutorial
+
+--- TRASCRIZIONE AUDIO ---
+No vabbè, mi stai dicendo che se vado su questo sito, carico il mio video e premo su questo pulsante, lui mi crea tutti questi video per i social già montati con i sottotitoli pronti per essere pubblicati. E gli dà pure un punteggio di quanto potrebbero andare a virale e me li metti in ordine. Questa cosa è pazzesca, io sono Matteo Zampieri, il tuo smanettone di fiducia, il link te l'ho messo in descrizione ma se commenti con la parola troppo facile te lo mando direttamente. Noi ci vediamo nel prossimo video e tu se ancora stai facendo tutto a mano seguimi che poi ti insegno io a utilizzare l'intelligenza artificiale.
