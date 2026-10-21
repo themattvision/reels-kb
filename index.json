@@ -8372,14 +8372,20 @@
     "shortcode": "DeuSVEQIn5s",
     "permalink": "https://www.instagram.com/reel/DeuSVEQIn5s/",
     "date": "2026-10-20",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare OpusClip per generare automaticamente clip video con sottotitoli e punteggio di viralità",
+    "hook_text": "Questo sito ti crea il video con l'intelligenza artificiale pronti per andare virale",
     "like_count": 163,
     "comments_count": 205,
-    "duration": 0,
-    "tags": [],
+    "duration": 33,
+    "tags": [
+      "opusclip",
+      "video-automatico",
+      "sottotitoli",
+      "intelligenza-artificiale",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/857187737_1091062700226859_7956659487640992208_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Xh3-L8aUgjYQ7kNvwGVkcaV&_nc_oc=AdrURdFVks0P_ytR796PclFwc27B8t_cKb6yvx9YyKV1k9K6i4yRQxRoIWy0FnPX75g&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UiyW78kArXvLRr2B98AViw&_nc_tpa=Q5bMBQJRWin4IKftEmYRji8Eu2_Bbzu6nDilqr1O5dJeGeaWFkAG7CwlBe9JONjCcvhREMr_8cwr0IOp&oh=00_AQO4nCHU4nQXp9IOdJNFQSRqhwt3PO9dPEhshKH2i9_Yqg&oe=6ADE9677",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
