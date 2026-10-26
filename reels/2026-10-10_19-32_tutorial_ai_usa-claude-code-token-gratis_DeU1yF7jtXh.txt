@@ -6,8 +6,8 @@ DATA: 2026-10-10
 ORA: 19:32
 
 --- METRICHE ---
-LIKE: 655
-COMMENTI: 26
+LIKE: 682
+COMMENTI: 28
 DURATA VIDEO: 75 secondi
 CARATTERI CAPTION: 893
 HASHTAG: #intelligenzaartificiale #chatgpt #claudecode #tutorial #risparmiare
