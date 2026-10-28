@@ -6,8 +6,8 @@ DATA: 2026-10-20
 ORA: 16:43
 
 --- METRICHE ---
-LIKE: 240
-COMMENTI: 343
+LIKE: 244
+COMMENTI: 348
 DURATA VIDEO: 33 secondi
 CARATTERI CAPTION: 715
 HASHTAG: #adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator
