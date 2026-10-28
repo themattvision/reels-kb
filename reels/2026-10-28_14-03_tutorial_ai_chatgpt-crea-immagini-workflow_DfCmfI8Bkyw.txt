@@ -1,0 +1,48 @@
+POST ID: 18096132275441612
+IG ID: 18096132275441612
+SHORTCODE: DfCmfI8Bkyw
+PERMALINK: https://www.instagram.com/reel/DfCmfI8Bkyw/
+DATA: 2026-10-28
+ORA: 14:03
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 31 secondi
+CARATTERI CAPTION: 402
+HASHTAG: #chatgpt #claude #generazioneimmagini #intelligenzaartificiale #workflow
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, claude, generazione-immagini, workflow, intelligenza-artificiale
+TOPIC: Come usare ChatGPT per generare immagini nel browser e inserirle direttamente nei progetti
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un video parlato da un uomo (presumibilmente il narratore) che occupa la maggior parte dell'inquadratura in gli primi 7 frame. Il presentatore è vestito con una felpa nera e si trova contro un sfondo domestico neutro con una porta di legno. Nei frame 8 e 9, lo scenario cambia: il presentatore indossa un bomber nero e si trova all'aperto su una strada con alberi e panchine. Non sono presenti B-roll tecnici, screenshot di terminali, interfacce di software o codici grafici negli ultimi fotogrammi visualizzati.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Dal prompt al browser: ChatGPT crea l'immagine, si scarica e finisce dentro il progetto.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Per chi lavora con Claude sui progetti è un cambio di gioco.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#chatgpt #claude #generazioneimmagini #intelligenzaartificiale #workflow
+
+--- TRASCRIZIONE AUDIO ---
+La figata di CiaGPT è però che può generare immagini e Claude no. Quindi un piano da 20€ di CiaGPT se hai Claude è estremamente consigliato soprattutto perché se usi la mia skill che ti permette di generare immagini sfruttando il browser, quindi va su Google Chrome, dà il prompt a CiaGPT, CiaGPT crea l'immagine e poi si scarica l'immagine se la usa dentro al progetto le cose che stava facendo, è game changer. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
