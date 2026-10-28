@@ -6,8 +6,8 @@ DATA: 2026-10-27
 ORA: 13:10
 
 --- METRICHE ---
-LIKE: 5
-COMMENTI: 2
+LIKE: 11
+COMMENTI: 10
 DURATA VIDEO: 24 secondi
 CARATTERI CAPTION: 577
 HASHTAG: #adv #capcutpc #capcutdidthat #capcutmarketing #capcutsale
