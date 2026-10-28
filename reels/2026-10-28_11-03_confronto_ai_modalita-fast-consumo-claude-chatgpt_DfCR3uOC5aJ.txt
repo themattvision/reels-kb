@@ -1,0 +1,48 @@
+POST ID: 18110356033930620
+IG ID: 18110356033930620
+SHORTCODE: DfCR3uOC5aJ
+PERMALINK: https://www.instagram.com/reel/DfCR3uOC5aJ/
+DATA: 2026-10-28
+ORA: 11:03
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 448
+HASHTAG: #claude #chatgpt #risparmiare #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, fast-mode, consumo, risparmio, intelligenza-artificiale
+TOPIC: Il video confronta l'uso della modalità Fast di Claude e ChatGPT evidenziando i costi elevati e il consumo eccessivo per gli utenti con piano da 100 euro
+
+--- HOOK TESTUALE (dal frame) ---
+CLAUDE IMMEDIATO / FAST / FAST CONSUMA
+
+--- DESCRIZIONE VISIVA ---
+La video è un vlog parlato che confronta i modelli di intelligenza artificiale. La prima metà (frame 1-6) mostra un uomo con una maglietta nera in un ambiente domestico (parete con pannelli a N) che illustra le categorie in modo grottesco: ride con la mano aperta, imita un gestastro per 'Fast', e si tocca la tempia per 'Fast Consuana'. Nella seconda metà (frame 7-9), l'uomo cambia ambiente: prima mostra una scimmia che si ferma (simulando un rallentamento), poi appare all'aperto indossando una giacca e cuffie wireless ascoltando il contenuto, e infine chiude gli occhi all'aperto per concentrarsi, suggerendo lo sforzo mentale necessario per l'intelligenza profonda.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, ChatGPT
+
+--- CAPTION COMPLETA ---
+Attivare la modalità Fast brucia il piano in fretta. Io non me lo posso permettere, neanche con il piano da 100 euro.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di premere Fast controlla quanto ti costa, soprattutto se usi l'AI ogni giorno.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #risparmiare #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Claude è immediato in confronto senza neanche andare in modalità fast perché la modalità fast è quella che consuma molto di più. C'è GPT comunque in modalità fast consuma tantissimo e per una persona appunto non si può permettere di usare la modalità fast ma neanche col piano da 100 euro parlo veramente in maniera sincera. Comunque io sono Matteo Zampieri il tuo smanettone di fiducia e tu se ancora fai tutto a mano seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
