@@ -8488,14 +8488,21 @@
     "shortcode": "DfCR3uOC5aJ",
     "permalink": "https://www.instagram.com/reel/DfCR3uOC5aJ/",
     "date": "2026-10-28",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Il video confronta l'uso della modalità Fast di Claude e ChatGPT evidenziando i costi elevati e il consumo eccessivo per gli utenti con piano da 100 euro",
+    "hook_text": "CLAUDE IMMEDIATO / FAST / FAST CONSUMA",
     "like_count": 1,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 22,
+    "tags": [
+      "claude",
+      "chatgpt",
+      "fast-mode",
+      "consumo",
+      "risparmio",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/868596701_29421981480770143_1797995521658216464_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1X-5YZ-C60AQ7kNvwHJ3ARY&_nc_oc=AdpZzBpfRnz22K50VVGGlqd0BkrZHZXfR0JRCh3GLVvEOt2wLut24K5raoGpVZ78bx4&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ss4pPCCU4xpemkxyzFj-Rg&_nc_tpa=Q5bMBQItFZa_J2L_CI0q695l-lXxDWcWtktChGYuoRb5CTd0_16OxF1AFQpD6Q8Bb-hl268enZmWnEYu&oh=00_AQTAG8DKWp3E5-WqziKnVOJza_miRukUTUUKhV6dj_xyRQ&oe=6AE7FA9B",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
