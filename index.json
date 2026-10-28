@@ -8468,14 +8468,20 @@
     "shortcode": "DfCmfI8Bkyw",
     "permalink": "https://www.instagram.com/reel/DfCmfI8Bkyw/",
     "date": "2026-10-28",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come usare ChatGPT per generare immagini nel browser e inserirle direttamente nei progetti",
     "hook_text": "",
     "like_count": 1,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 31,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "generazione-immagini",
+      "workflow",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/871842391_1849456373078835_7061640213665058303_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MTfWKTNODq4Q7kNvwHsHqEm&_nc_oc=Adpx62r-Whia_sbfEn-ZRCP9wiXe96k2jzoqAU-H-EXO5-hcV6yXIsAgFhbZ_-sedr8&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ss4pPCCU4xpemkxyzFj-Rg&_nc_tpa=Q5bMBQKAvB-klvtVkCt9fUC7zc2IX7mo8CrwSQhFvc253X1pNeFUHQ1uFKNt894ESvE9v91JcQCr-Z3D&oh=00_AQSLR8O23DCAVtOJ6lo5HLLA2bhVRMoQe4m1ZB2hP1oLZQ&oe=6AE7CFF3",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
