@@ -6,8 +6,8 @@ DATA: 2026-10-26
 ORA: 20:23
 
 --- METRICHE ---
-LIKE: 42
-COMMENTI: 1
+LIKE: 47
+COMMENTI: 3
 DURATA VIDEO: 80 secondi
 CARATTERI CAPTION: 549
 HASHTAG: #adv #cocreate2026 #alibabacocreate #agenticbusiness #aiforbusiness
