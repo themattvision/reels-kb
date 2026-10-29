@@ -6,8 +6,8 @@ DATA: 2026-07-20
 ORA: 11:52
 
 --- METRICHE ---
-LIKE: 566
-COMMENTI: 87
+LIKE: 567
+COMMENTI: 89
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 595
 HASHTAG: #hfarm #startup #intelligenzaartificiale #ai #ia
