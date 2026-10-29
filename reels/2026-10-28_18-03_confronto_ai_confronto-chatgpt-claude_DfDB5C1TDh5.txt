@@ -1,0 +1,48 @@
+POST ID: 17988502622903403
+IG ID: 17988502622903403
+SHORTCODE: DfDB5C1TDh5
+PERMALINK: https://www.instagram.com/reel/DfDB5C1TDh5/
+DATA: 2026-10-28
+ORA: 18:03
+
+--- METRICHE ---
+LIKE: 7
+COMMENTI: 0
+DURATA VIDEO: 23 secondi
+CARATTERI CAPTION: 489
+HASHTAG: #claude #chatgpt #produttivita #intelligenzaartificiale #workflow
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, claude, produttivita, workflow, intelligenza-artificiale
+TOPIC: ChatGPT è ideale per lavori quotidiani con prompt statici, mentre Claude offre un'esperienza più immediata per prompt iterativi e workflow dinamici
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra un presentatore maschio in primo piano che spiega un concetto con gesti manuali. Per la maggior parte dei frame (dal 1 al 8), l'uomo si trova in un interno con pareti bianche e porte in legno, indossando una maglietta scura e gesticolando. Le didascalie sottolineano i passaggi: 'quindi consulatolo', 'per le cose veloci', quindi 'prompt, poi altri lavori' e 'benchmark in tempo reale'. L'ultimo frame mostra il soggetto in un contesto diverso, all'aperto su una strada con alberi e auto sfocate sullo sfondo, indossando una giacca scura, mentre si riferisce a 'un altro ragazzo'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude
+
+--- CAPTION COMPLETA ---
+Se ti basta dare il prompt e fare altro, ChatGPT va bene per il lavoro di tutti i giorni. Se vuoi seguire il lavoro e dare nuovi prompt man mano, Claude è più immediato.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di scegliere chiediti come lavori tu, non quale nome fa più rumore.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #produttivita #intelligenzaartificiale #workflow
+
+--- TRASCRIZIONE AUDIO ---
+Quindi consigliatoci a GPT per l'everyday work ma non per le cose veloci. Cioè se avete voglia di metterlo lì, gli date il prompt e poi vi fate i lavori vostri, va bene. Se invece volete guardarlo che fa le cose, man mano dargli ulteriori prompt, allora passate su Claude, perché Claude è immediato in confronto. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
