@@ -8609,14 +8609,21 @@
     "shortcode": "DfDZZWux4At",
     "permalink": "https://www.instagram.com/reel/DfDZZWux4At/",
     "date": "2026-10-28",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "news_ai",
+    "topic": "Presentazione del nuovo Mac Touch con display OLED Pro‑LED XDR e chip M5 Pro per esperienze immersive",
+    "hook_text": "Apple ha presentato il primo Mac Touch che costa più di 3000 euro",
     "like_count": 19,
     "comments_count": 1,
-    "duration": 0,
-    "tags": [],
+    "duration": 84,
+    "tags": [
+      "mac-touch",
+      "apple",
+      "prooled",
+      "m5-pro",
+      "chatgpt",
+      "miro-studio"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/871206426_18124796245936961_6558595972296429516_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TV97Od-P8mUQ7kNvwEZCVST&_nc_oc=AdpRn58GXxBwzRdjkxijYcgfN077Txq7Rnh9KWrCJNLjkOPkZxHFoKs9ygkoQP63d-M&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=MA8X33kfCsLOco3z88NA4A&_nc_tpa=Q5bMBQIouYHK99C_ifAO31peQdaEVt9sF5vENeBFYZMALkMYadN1P3SCOp4o7UHWZy93mfzfTC9McoJ7&oh=00_AQRvln4oeWZezRQjWYgC5tj8ny_vDg2wyM_oCWkxq57lYA&oe=6AE9435B",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
