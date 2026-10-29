@@ -1,0 +1,48 @@
+POST ID: 18286850359288240
+IG ID: 18286850359288240
+SHORTCODE: DfEbC3rBcJh
+PERMALINK: https://www.instagram.com/reel/DfEbC3rBcJh/
+DATA: 2026-10-29
+ORA: 07:01
+
+--- METRICHE ---
+LIKE: 4
+COMMENTI: 0
+DURATA VIDEO: 29 secondi
+CARATTERI CAPTION: 438
+HASHTAG: #claude #chatgpt #abbonamento #risparmiare #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, abbonamento-ia, piani-prezzo, risparmio-tech
+TOPIC: Confronto tra i piani a pagamento di Claude e ChatGPT per capire quale abbonamento scegliere
+
+--- HOOK TESTUALE (dal frame) ---
+20 €: non mi bastavano
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra un uomo che parla in camera e include inserti testuali. Inizialmente, è in un interno; un riquadro nero mostra la scritta 'LLAMA EXPERIMENTAL_16B' e '20 €: non mi bastavano'. Successivamente, appare un frame con la scritta 'ChatGPT - investire il mio tempo' e un altro che mostra gli importi '100' (100 € - esempio intermedio) e '200' (200 € - esempio avanzamento). Altri frame mostrano il testo '200' e la frase 'Lavorando per te costantemente'. La parte finale include una scena esterna con l'uomo all'aperto in un contesto stradale/urbano e scritte a schermo come 'ZAPPHIRED: il tuo smartphone' e 'Sequenziare che ti insegno'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
+
+--- CAPTION COMPLETA ---
+Piano da 20 euro: su Claude veloce ma stretto. Su ChatGPT più tempo da investire.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se il piano da 100 euro non basta c'è quello da 200, che è come avere decine di persone che lavorano per te.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #abbonamento #risparmiare #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Il piano da 20€ di Claude non mi bastava, ma era immediato, veloce. Mi faceva sentire proprio senza pensieri, una sicurezza, veramente. Quello di CiaGPT sapevo che dovevo mettermi là e investire il mio tempo. Può essere che il piano da 100€ però non ti basti, quindi in caso passi a quello da 200€. Avere un piano da 200€ di Claude è come avere veramente decine di persone che lavorano per te costantemente a qualsiasi cosa. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
