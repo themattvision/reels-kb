@@ -1,0 +1,48 @@
+POST ID: 18010995234003090
+IG ID: 18010995234003090
+SHORTCODE: DfFLIJ5zC9E
+PERMALINK: https://www.instagram.com/reel/DfFLIJ5zC9E/
+DATA: 2026-10-29
+ORA: 14:01
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 26 secondi
+CARATTERI CAPTION: 408
+HASHTAG: #claude #chatgpt #whatsapp #intelligenzaartificiale #produttivita
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, whatsapp, automazione, produttivita
+TOPIC: Claude invia messaggi WhatsApp in 10 secondi, mostrando la differenza di velocità rispetto a ChatGPT
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla direttamente alla camera in un ambiente interno con sfondo bianco e un quadro appeso. Attraverso i frame, l'uomo esegue diversi gesti con le mani come indicare verso sé stesso o toccarsi la testa, interagendo con le didascalie testuali apparse sullo schermo (come 'TANT'I GIRI', 'UN MESSAGGIO', '5 MINUTI'). Gli ultimi tre frame mostrano un'estrazione B-roll esterna: l'uomo è all'aperto in una strada cittadina con alberi verdi sullo sfondo, indossa una giacca sopra una camicia, e appare in un contesto di movimento o intervista a passeggio.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WHATSAPP
+
+--- CAPTION COMPLETA ---
+Mandare un WhatsApp con ChatGPT può diventare un viaggio. Claude lo fa in dieci secondi.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Quando ti serve una cosa semplice, il percorso conta quanto il risultato.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #whatsapp #intelligenzaartificiale #produttivita
+
+--- TRASCRIZIONE AUDIO ---
+È molto insicuro e questo fa sì che faccia dei giri incredibili per delle cose estremamente semplici. Quando volete magari mandare un semplice messaggio sfruttando, che ne so, Whatsapp, qualche altro modo per mandare un messaggio, e alla fine lui fa dei giri pazzeschi, ci mette 5 minuti per fare una cosa che Claude ci metterebbe veramente 10 secondi. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
