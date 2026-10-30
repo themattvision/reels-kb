@@ -1,0 +1,48 @@
+POST ID: 17963754879249273
+IG ID: 17963754879249273
+SHORTCODE: DfHAD5qvaQL
+PERMALINK: https://www.instagram.com/reel/DfHAD5qvaQL/
+DATA: 2026-10-30
+ORA: 07:03
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 25 secondi
+CARATTERI CAPTION: 445
+HASHTAG: #claude #chatgpt #intelligenzaartificiale #aiitalia #confronto
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, intelligenza-artificiale, confronto, ai-italia
+TOPIC: Confronto tra i modelli Claude e ChatGPT, analizzando perché ChatGPT è più diffuso e le sue limitazioni
+
+--- HOOK TESTUALE (dal frame) ---
+NON C'È UN PINGUINO IN QUESTO VIDEO
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla guardando la fotocamera in un ambiente interno con un quadro alle sue spalle. Successivamente, la scena cambia in un ambiente esterno di giorno, con alberi e auto sullo sfondo, dove l'uomo continua a parlare. Non sono presenti screenshot di terminali, UI, codici o diagrammi, ma esclusivamente riprese live-action del presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Sono un po' triste di tornare a Claude. Sotto sotto speravo vincesse ChatGPT, non perché lo preferisco, ma perché è il più diffuso.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Scegliere un modello non è una questione di tifo: conta cosa ti serve.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #intelligenzaartificiale #aiitalia #confronto
+
+--- TRASCRIZIONE AUDIO ---
+Sono un po' triste di tornare a Claude perché io sotto sotto speravo che alla fine vincesse CiaGPT ma non perché preferisco CiaGPT, semplicemente perché CiaGPT è il più diffuso, quindi ha anche più soldi e più possibilità. E invece ancora oggi CiaGPT non è deciso, è molto insicuro. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
