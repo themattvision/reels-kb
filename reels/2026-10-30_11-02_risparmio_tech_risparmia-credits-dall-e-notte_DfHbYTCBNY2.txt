@@ -1,0 +1,48 @@
+POST ID: 17884492935527540
+IG ID: 17884492935527540
+SHORTCODE: DfHbYTCBNY2
+PERMALINK: https://www.instagram.com/reel/DfHbYTCBNY2/
+DATA: 2026-10-30
+ORA: 11:02
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 17 secondi
+CARATTERI CAPTION: 418
+HASHTAG: #immagini #chatgpt #intelligenzaartificiale #risparmiare #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: dall-e, openai-credits, image-generation, ai-italia, risparmio
+TOPIC: Come evitare di consumare tutto il piano di crediti di OpenAI per DALL·E generando troppe immagini durante la notte
+
+--- HOOK TESTUALE (dal frame) ---
+17S IMMAGINI
+
+--- DESCRIZIONE VISIVA ---
+Il video è un carousel di 9 fotogrammi divisi in tre scene principali. Nelle prime sei riprese (righe 1 e 2), un uomo con maglietta nera si trova in una stanza con porte bianche e cornici di legno. Un grafico a barra in alto indica un progressivo 'MET RICONOSCO' (da 32 a 53) mentre le didascalie testo per parola mostrano un messaggio che evolvesse da 'Pensavo di neanche... e' e 'ho fatto le domande VS' a descrivere un punto specifico ('TUTTO IL MIO PIANO') e un avvertimento ('Attenzione perché... il motivo non'). Nelle ultime tre riprese (riga 3), la scena cambia: la prima è ancora in interno (sottofondo caotico), mentre le altre due sono all'esterno su una strada con alberi e segnaletica urbana. L'uomo indossa ora una camicia a quadri sotto una giacca di pelle/cuoio scura e parla in modo più vivido, con didascalie come 'Secondo te ti insegno' e 'Artificiale'. Il tono passa da una riflessione narrativa interna a un confronto diretto rivolto allo spettatore in location esterna.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+175 immagini generate di notte: il piano consumato quasi tutto in un colpo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Le immagini non sono infinite, quindi prima di lanciare una generazione notturna fai due conti.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#immagini #chatgpt #intelligenzaartificiale #risparmiare #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Pensavo di averne tantissime, ho fatto generare 170 immagini durante la notte e ho consumato praticamente tutto il mio piano. Quindi bisogna stare molto attenti perché appunto non sono infinite. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
