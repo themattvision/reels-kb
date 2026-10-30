@@ -1,0 +1,48 @@
+POST ID: 17873990610661131
+IG ID: 17873990610661131
+SHORTCODE: DfHv410KG7I
+PERMALINK: https://www.instagram.com/reel/DfHv410KG7I/
+DATA: 2026-10-30
+ORA: 14:01
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 24 secondi
+CARATTERI CAPTION: 440
+HASHTAG: #agenti #intelligenzaartificiale #produttivita #claude #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude, agenti-proattivi, intelligenza-artificiale, produttivita, automazione
+TOPIC: Come usare gli agenti proattivi di Claude per gestire la tua giornata come project manager personale
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo con i capelli corti rasati e una maglietta nera nero che parla in camera su uno sfondo bianco con per tutti e 9 i fotogrammi. Egli usa gesti con le mani per enfatizzare i concetti: inizia mostrando cinque dita, poi tre, poi una, e infine tende la mano aperta. A metà video (frame 4-5) c'è uno spacchito visivo in cui l'uomo appare in tre posizioni diverse: in primo piano con la mano alzata, al centro in un ambiente interno con una maglietta con logo, e a destra all'esterno in giacca. In alto a destra si vedono alberi e luce solare. In alto a sinistra è visibile un pannello di controllo o un dispositivo di illuminazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Reel, Canva, Reels, IG Reels, CMO Video Builder
+
+--- CAPTION COMPLETA ---
+Gli agenti nati per fare da assistenti sono proattivi: ti chiamano, ti scrivono, ti chiedono come sei messo con le cose da fare.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Un assistente così può fare da project manager della tua giornata.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#agenti #intelligenzaartificiale #produttivita #claude #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Sinceramente, questi agenti che nascono per essere degli agenti assistenti sono proattivi, quindi ti chiamano, ti dicono, ascolta ma ti è arrivato questo messaggio, cosa facciamo? Ma guarda che domani devi fare sta cosa, come sei messo? Guarda che ho visto che tu non hai fatto le cose, è un po' un project manager della propria vita ed è fighissimo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
