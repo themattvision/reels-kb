@@ -1,0 +1,48 @@
+POST ID: 18100169033453106
+IG ID: 18100169033453106
+SHORTCODE: DfFmxC9Kkhd
+PERMALINK: https://www.instagram.com/reel/DfFmxC9Kkhd/
+DATA: 2026-10-29
+ORA: 18:04
+
+--- METRICHE ---
+LIKE: 2
+COMMENTI: 0
+DURATA VIDEO: 26 secondi
+CARATTERI CAPTION: 423
+HASHTAG: #risparmiare #chatgpt #claude #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, claude, risparmio-tech, intelligenza-artificiale, automazione
+TOPIC: Come usare ChatGPT e Claude per risparmiare tempo nel lavoro quotidiano
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video è una sequenza di frame di un formato AI battle/showdown. La maggior parte dei fotogrammi (1-7) mostra un uomo con maglietta nera che parla in uno studio interno con sfondo neutro e quadri alle spalle, mentre esegue gesti manuali espressivi per enfatizzare il discorso. I sottotitoli sincronizzati seguono la trascrizione del parlato. L'ultimo frame (8-9) mostra un cambio di scenografia in esterni con sfondo di strada e alberi, dove l'uomo indossa una giacca, suggerendo una transizione o un inciso finale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude
+
+--- CAPTION COMPLETA ---
+Da dove inizio per risparmiare: ChatGPT per il lavoro di ogni giorno, Claude in parallelo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Scegli quello che ti piace di più e osserva come lo usi prima di aggiungere il secondo.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#risparmiare #chatgpt #claude #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Quindi scegliete quello che più vi piace, ma se volete risparmiare, volete iniziare però a utilizzare l'intelligenza artificiale, vi consiglio CiaGPT. Claude parallelamente, ma non è minimamente obbligatorio. Quindi consigliate CiaGPT per l'everyday work, ma non per le cose veloci. Cioè se avete voglia di metterlo lì, gli date il prompt e poi vi fate i lavori vostri, va bene. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
