@@ -8690,14 +8690,20 @@
     "shortcode": "DfHv410KG7I",
     "permalink": "https://www.instagram.com/reel/DfHv410KG7I/",
     "date": "2026-10-30",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come usare gli agenti proattivi di Claude per gestire la tua giornata come project manager personale",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 24,
+    "tags": [
+      "claude",
+      "agenti-proattivi",
+      "intelligenza-artificiale",
+      "produttivita",
+      "automazione"
+    ],
     "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/881058856_2070832753596430_3443660788612972965_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=my3QjVXv8KEQ7kNvwFzQJMF&_nc_oc=AdpAr8RxVIH2bTNxY-3tL02LWH2yTXwInPDXzWeUDqhab_2UCMKdZX_ZksBnP4-5J5M&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=HY6EXSAeI_l7OAID9VFViw&_nc_tpa=Q5bMBQKqZzcJ3nHNbSZQfMb1SKqSVvA60LtlNKtUHMq7MFPApy2W3SWCnk5SvEt_X24lpC6TVueqJSiV&oh=00_AQSRVffJ3n4q58Y0zyxTKoFqne9hHAiqQM9A4fIo8mTpaw&oe=6AEA9D80",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
