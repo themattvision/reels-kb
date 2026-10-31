@@ -1,0 +1,46 @@
+POST ID: 18013921406978735
+IG ID: 18013921406978735
+SHORTCODE: DfILeH9zlOT
+PERMALINK: https://www.instagram.com/reel/DfILeH9zlOT/
+DATA: 2026-10-30
+ORA: 18:02
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 20 secondi
+CARATTERI CAPTION: 352
+HASHTAG: #chatgpt #claude #intelligenzaartificiale #aiitalia #videoediting
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, video-editing, intelligenza-artificiale, montaggio, automazione
+TOPIC: Come utilizzare ChatGPT per il montaggio video veloce e preciso
+
+--- HOOK TESTUALE (dal frame) ---
+QUESTO VIDEO SUL MONTAGGIO
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta nera parla direttamente alla camera in un ambiente interno, gesticolando con le mani per enumerare i concetti. I sottotitoli evidenziano termini come 'OVVIAMENTE', 'PUNTO DI VISTA', 'QUANTO SONO CESIEGI', e 'ARTIFICIALE'. Né终端 né schermate di prodotti sono visibili; le ultime tre immagini mostrano lo stesso uomo mentre è all'aperto, in strada, con diversi angoli o montagne di ripresa.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Il montaggio di questo video è di ChatGPT. Il giudizio invece resta mio: velocità, decisione e primo colpo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#chatgpt #claude #intelligenzaartificiale #aiitalia #videoediting
+
+--- TRASCRIZIONE AUDIO ---
+Comunque questo video ovviamente l'ha montato CiaGPT, quindi dal punto di vista di montaggio video è fantastico. L'unica differenza la fa appunto questi usi pratici, velocità, quanto sono decisi, quanto belle fanno le cose al primo colpo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
