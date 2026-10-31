@@ -8810,14 +8810,20 @@
     "shortcode": "DfKAOs5MGVy",
     "permalink": "https://www.instagram.com/reel/DfKAOs5MGVy/",
     "date": "2026-10-31",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come gestire gli agenti assistenti di Claude ottimizzando i crediti e scegliendo l'abbonamento giusto",
     "hook_text": "",
     "like_count": 1,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 21,
+    "tags": [
+      "claude",
+      "agenti-assistenti",
+      "crediti",
+      "abbonamento",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/881396707_1750692183107301_2458808494530263113_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iS9xmhZKMYgQ7kNvwFETA26&_nc_oc=AdpAmeCjRF3q10zYCKi0cU6f_MGrF9OFHdbumqkmENaDfZl6LjxGrBOT8ThR0gmkHLI&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=9NJ6ovWtU_VoWhrUZX5iCw&_nc_tpa=Q5bMBQJR5vqVztAqZXpYBqmi18WSRG-Z7qIgpU4-tbm7F8muk6D_BIxoyYYW5G2iInsteXYPwswQNJ4D&oh=00_AQRQCPLTgtud3313jbJMpQYJO08YAh8InOF3jWiZknD8Gw&oe=6AEBC45B",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
