@@ -6,8 +6,8 @@ DATA: 2026-10-18
 ORA: 11:31
 
 --- METRICHE ---
-LIKE: 216
-COMMENTI: 77
+LIKE: 218
+COMMENTI: 79
 DURATA VIDEO: 37 secondi
 CARATTERI CAPTION: 698
 HASHTAG: #mac #macapps #apple #apppermac #produttivita
