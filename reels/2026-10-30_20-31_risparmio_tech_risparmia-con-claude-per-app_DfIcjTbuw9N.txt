@@ -1,0 +1,48 @@
+POST ID: 18144285589609684
+IG ID: 18144285589609684
+SHORTCODE: DfIcjTbuw9N
+PERMALINK: https://www.instagram.com/reel/DfIcjTbuw9N/
+DATA: 2026-10-30
+ORA: 20:31
+
+--- METRICHE ---
+LIKE: 9
+COMMENTI: 0
+DURATA VIDEO: 25 secondi
+CARATTERI CAPTION: 436
+HASHTAG: #claude #programmazione #app #intelligenzaartificiale #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: claude, intelligenza-artificiale, programmazione, app, consumo-token
+TOPIC: Claude costa meno quando esegui azioni rispetto al consumo elevato nello scrivere codice per le app
+
+--- HOOK TESTUALE (dal frame) ---
+200 €
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo con capelli corti e maglietta nera che parla dinamicamente a camera. La sequenza inizia con dei gesti per spiegare un concetto di risparmio (citando "DECIMO DI PERSONE"), prosegue con gesti sulla fronte e mani aperte per enfatizzare l'idea di "APPLICAZIONI SCRIVERE" e "INVECE SE DICI". Nel sesto frame compare in secondo piano un altro uomo con una maglia nera con logo. Nell'ultimo frame, l'autore appare in un luogo esterno, più rassicurato, mentre sorride e parla di "UTILIZZARE L'INTELLIGENZA". I sottotitoli seguono la narrazione parola per parola.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Se devi svolgere azioni, il consumo è più basso. Se scrivi codice per le app, il piano se ne va prima.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se fai app, metti in conto che il piano va più in fretta e pianifica i lavori pesanti.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #programmazione #app #intelligenzaartificiale #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Rimpiando a 200 euro di Claude è come avere veramente decine di persone che lavorano per te costantemente a qualsiasi cosa. Però a maggior ragione poi se fai applicazioni, perché effettivamente fare applicazioni significa scrivere codice e quindi scrivere significa consumare. Invece se deve svolgere delle azioni, punto in generale, consuma meno. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
