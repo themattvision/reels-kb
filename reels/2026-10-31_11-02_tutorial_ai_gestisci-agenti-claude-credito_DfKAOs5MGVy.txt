@@ -1,0 +1,48 @@
+POST ID: 17969126046207394
+IG ID: 17969126046207394
+SHORTCODE: DfKAOs5MGVy
+PERMALINK: https://www.instagram.com/reel/DfKAOs5MGVy/
+DATA: 2026-10-31
+ORA: 11:02
+
+--- METRICHE ---
+LIKE: 1
+COMMENTI: 0
+DURATA VIDEO: 21 secondi
+CARATTERI CAPTION: 451
+HASHTAG: #agenti #claude #intelligenzaartificiale #risparmiare #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude, agenti-assistenti, crediti, abbonamento, intelligenza-artificiale
+TOPIC: Come gestire gli agenti assistenti di Claude ottimizzando i crediti e scegliendo l'abbonamento giusto
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Video promo intima di un uomo che parla in primo piano. Nella prima parte, indossando una maglietta nera, è in un ambiente interno (probabilmente un ufficio o cucina) mentre gesticola per spiegare i vantaggi di tool AI. Nella seconda parte (frame finali), indossa una giacca ed è in esterno, camminando per una strada, continuando a parlare verso la telecamera all'altezza degli occhi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Gli agenti assistenti sono proattivi, ma sono ancora complessi da settare. Soprattutto per i crediti che consumano serve un abbonamento dedicato.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di attivarne uno fai i conti su quanto consuma davvero.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#agenti #claude #intelligenzaartificiale #risparmiare #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Sinceramente, questi agenti che nascono per essere degli agenti assistenti sono proattivi, però sai è ancora molto complesso, cioè non tanto da settare ma per la parte di crediti che va a utilizzare. Se vuole un abbonamento dedicato potrei dire solamente a quello. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
