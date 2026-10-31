@@ -1,0 +1,48 @@
+POST ID: 18123007720945512
+IG ID: 18123007720945512
+SHORTCODE: DfKUrDUSIm3
+PERMALINK: https://www.instagram.com/reel/DfKUrDUSIm3/
+DATA: 2026-10-31
+ORA: 14:01
+
+--- METRICHE ---
+LIKE: 3
+COMMENTI: 1
+DURATA VIDEO: 28 secondi
+CARATTERI CAPTION: 393
+HASHTAG: #claude #chatgpt #limiti #intelligenzaartificiale #produttivita
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, limite-temporale, piano-settimanale, produttivita
+TOPIC: Confronto tra Claude e ChatGPT: differenze nella finestra di utilizzo di 5 ore e nel piano settimanale di utilizzo
+
+--- HOOK TESTUALE (dal frame) ---
+Aspettare 5 minuti
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra un uomo che narra direttamente a camera in un ambiente domestico (parete bianca, quadro appeso) e in esterno (strada, auto). Il testo sovrapposto alla fine del video rivela che il contenuto è una riflessione ironica sulla mentalità 'all-in' nelle startup, basata sui commenti ricevuti da un video precedente su Claude. I sottotitoli accompagnano la spiegazione orale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude
+
+--- CAPTION COMPLETA ---
+Finestra da 5 ore su Claude, piano settimanale su ChatGPT: due ritmi molto diversi.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Scegli in base a come lavori: a blocchi piccoli oppure a raffica.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #limiti #intelligenzaartificiale #produttivita
+
+--- TRASCRIZIONE AUDIO ---
+Inoltre CiaGPT rispetto a Claude non ha la finestra delle 5 ore come blocco. Claude puoi usarlo per un massimo di 5 ore e poi devi aspettare che si rinnova e vai avanti dopo. Questo però ti fa continuare un pochino alla volta a fare le cose ed è anche un po' malata come cosa. CiaGPT ti dà la possibilità di utilizzare eventualmente tutto il tuo piano settimanale in una giornata e questo è assolutamente possibile. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
