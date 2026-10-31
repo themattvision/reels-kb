@@ -8870,14 +8870,20 @@
     "shortcode": "DfIRmH5xkya",
     "permalink": "https://www.instagram.com/reel/DfIRmH5xkya/",
     "date": "2026-10-30",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Scopri OutfitAI di matteozampieri.com, l'AI che genera outfit in tempo reale per i negozi di abbigliamento",
+    "hook_text": "Questo è il futuro dei negozi di abbigliamento con l'intelligenza artificiale",
     "like_count": 23,
     "comments_count": 4,
-    "duration": 0,
-    "tags": [],
+    "duration": 40,
+    "tags": [
+      "outfitai",
+      "intelligenza-artificiale",
+      "moda-ai",
+      "vestiti-ai",
+      "ecommerce-ai"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/878539946_18125016520936961_7825767230470361216_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zv1ybp0hHBoQ7kNvwE49BnG&_nc_oc=Adr66VW_Z1w57awE1Xb3AqMnCOohgnCjeu-U6-9eIBVaUtap4sqHv5BYE5zb3AAcak8&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=9NJ6ovWtU_VoWhrUZX5iCw&_nc_tpa=Q5bMBQJy1CRui62lmySjWOviJV3SiupfZITkIUusFKa5M9CuVLgrVSvUyHZp0rvq3YdQrawiT88mRKJw&oh=00_AQT6EEsiCY9AmlIOD4Jqu77xo-12eFtrQDT_1liwb36RiA&oe=6AEBEC6D",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
