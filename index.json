@@ -8910,14 +8910,20 @@
     "shortcode": "DfIFZj1RItW",
     "permalink": "https://www.instagram.com/reel/DfIFZj1RItW/",
     "date": "2026-10-30",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tool_gratuiti",
+    "topic": "Demo del sito di Virtual Try-On che consente di provare capi d'abbigliamento in tempo reale su una foto caricata",
     "hook_text": "",
     "like_count": 2,
     "comments_count": 1,
-    "duration": 0,
-    "tags": [],
+    "duration": 40,
+    "tags": [
+      "virtual-tryon",
+      "fashion-tech",
+      "real-time",
+      "in-flight-entertainment",
+      "provare-vestiti-online"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/881108330_18125010250936961_162884787499654196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mzrv57k8fJkQ7kNvwH_gh0n&_nc_oc=Adpx1z2E5SCfrz-ryHa04SLhFXjpkBewytc9z3n1nZIq18i2dAhwT4ev7KjWVSYvXfY&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=9NJ6ovWtU_VoWhrUZX5iCw&_nc_tpa=Q5bMBQJ4Lr5RUo28hnCGeSXC84VLwmGhEL1Ow7DT_fe8KPHYp7g41ZBsWS7lZfd-h-BkyFT4yp1HBpHJ&oh=00_AQQSUMeMHNGUqPVfFMDCq0TppjiyBHRm2H1Vb2tpWsxNyQ&oe=6AEBCCF5",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
