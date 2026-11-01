@@ -1,0 +1,48 @@
+POST ID: 18505264753099074
+IG ID: 18505264753099074
+SHORTCODE: DfKwNSIJKho
+PERMALINK: https://www.instagram.com/reel/DfKwNSIJKho/
+DATA: 2026-10-31
+ORA: 18:02
+
+--- METRICHE ---
+LIKE: 8
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 452
+HASHTAG: #claude #sonnet #haiku #intelligenzaartificiale #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: astra, mythos, fable, sonnet, haiku, intelligenza-artificiale
+TOPIC: Perché i modelli Astra, Mythos e Fable non servono e si può risparmiare usando Sonnet e Haiku
+
+--- HOOK TESTUALE (dal frame) ---
+Astra, Mythos, Fable
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla in camera in uno sfondo interno, indossando una maglietta scura. I sottotitoli in italiano indicano che sta chiedendo se questi modelli siano davvero pericolosi, menzionando che sono in cima alle classifiche sia nel campo della 'MODELLI' che dei 'LLM'. I frame finali (7-9) mostrano la stessa persona in esterni, per strada, probabilmente come B-roll per concludere il video, affermando che l'intelligenza non è quella che conta.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Astra, Mythos, Fable
+
+--- CAPTION COMPLETA ---
+I modelli più grandi, quelli di fascia massima, per me non servono. Anche perché i modelli di oggi diventano più intelligenti ogni giorno.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di pagare di più per il modello top, prova con quello che hai già.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #sonnet #haiku #intelligenzaartificiale #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+La plastra è estremamente inutile come Mitos, ovvero Fable, quello di Claude. Non ne abbiamo bisogno, ragazzi, non ne abbiamo minimamente bisogno. Anche perché questi modelli diventano ogni giorno più intelligenti, ma per fare delle cose molto fighe bastano anche i modelli Sonnet e Haiku. Comunque, io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu, se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
