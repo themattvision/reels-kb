@@ -8930,14 +8930,21 @@
     "shortcode": "DfM55FJoM_I",
     "permalink": "https://www.instagram.com/reel/DfM55FJoM_I/",
     "date": "2026-11-01",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Confronto tra Claude di Anthropic e ChatGPT di OpenAI: precisione e immediatezza vs maggiori crediti e potenza di utilizzo",
+    "hook_text": "La mia routine Claude",
     "like_count": 8,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 30,
+    "tags": [
+      "claude",
+      "chatgpt",
+      "anthropic",
+      "openai",
+      "precisione",
+      "potenza"
+    ],
     "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/883375058_1754587028941006_1991639736844293784_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-Y-e8WPzftsQ7kNvwFvZ_RR&_nc_oc=AdpRdHfZOUPNvUlZ3Ypr2SPYU8BtuQezWmFT9Qobk8GXVLhF41mlr7I3H61znCo7_7g&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=O_XC25Z7xbvqAdGSI7XI0Q&_nc_tpa=Q5bMBQK1Nm4fRaX8XPEp1Wd1l6Yd1Ii_tZSlcrpLm2kpSUV6KMHSkFXYJl1k7EGY8_3kM5s9HW3NpuSt&oh=00_AQR9yQAdu7Dbsaq-LjAlMc6b_KWVkx8ALzfDm2xBEpJ6hg&oe=6AED34E3",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
