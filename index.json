@@ -9011,14 +9011,21 @@
     "shortcode": "DfKwNSIJKho",
     "permalink": "https://www.instagram.com/reel/DfKwNSIJKho/",
     "date": "2026-10-31",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Perché i modelli Astra, Mythos e Fable non servono e si può risparmiare usando Sonnet e Haiku",
+    "hook_text": "Astra, Mythos, Fable",
     "like_count": 8,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 22,
+    "tags": [
+      "astra",
+      "mythos",
+      "fable",
+      "sonnet",
+      "haiku",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/883300428_1890759915225230_3772293886320576946_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NIifn-JslHIQ7kNvwGhvQrm&_nc_oc=AdoVpW3xdKEpwin-qubNemMgATucfun3f7R15C65_SkS0DLnd49CAHLzUi5aKCPs6n8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=O_XC25Z7xbvqAdGSI7XI0Q&_nc_tpa=Q5bMBQKcDDtENNz4OOOMvvWlbQsA1p4D0U_xSmQQZS_6pj1vgby3obO1DkDI_d8XDbtb-cVkTVDjMfqs&oh=00_AQQVC0aNtn_K4mo3Jw7FyzT873q18fbx_avNl_vGvul9FQ&oe=6AED4677",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
