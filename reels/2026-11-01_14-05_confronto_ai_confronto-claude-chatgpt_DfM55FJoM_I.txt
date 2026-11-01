@@ -1,0 +1,48 @@
+POST ID: 18159843403510270
+IG ID: 18159843403510270
+SHORTCODE: DfM55FJoM_I
+PERMALINK: https://www.instagram.com/reel/DfM55FJoM_I/
+DATA: 2026-11-01
+ORA: 14:05
+
+--- METRICHE ---
+LIKE: 8
+COMMENTI: 0
+DURATA VIDEO: 30 secondi
+CARATTERI CAPTION: 441
+HASHTAG: #claude #chatgpt #intelligenzaartificiale #aiitalia #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, anthropic, openai, precisione, potenza
+TOPIC: Confronto tra Claude di Anthropic e ChatGPT di OpenAI: precisione e immediatezza vs maggiori crediti e potenza di utilizzo
+
+--- HOOK TESTUALE (dal frame) ---
+La mia routine Claude
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo con una cuffia wireless intorno al collo che spiega la sua routine di lavoro. Le prime sei inquadrature lo mostrano all'interno, in una stanza luminosa con un quadro alle sue spalle, mentre esegue gesti manuali per descrivere le fasi della giornata ('RISVEGLIO', 'STRETTE', 'CERVELO SPEGNUTO', 'ZAP MAPEDE', 'ECHIUDIMI PENSO'). Nelle ultime tre inquadrature, la visualizzazione cambia: prima mostra l'uomo in uno studio più formale con un quadro astratto dietro, poi lo mostra all'esterno su un marciapiede con alberi e auto sullo sfondo, dove indossa una giacca a vento scura. Non sono presenti schermate di computer, terminali o B-roll informativi su prodotti digitali; il contenuto è interamente basato sul presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Il mio verdetto dopo mesi di uso: Claude per precisione e immediatezza, ChatGPT per più margine di potenza.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se stai scegliendo, guarda prima cosa ti serve: velocità oppure più margine di utilizzo.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #intelligenzaartificiale #aiitalia #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Ho fatto due mesi con CiaGPT e due mesi con Claude, ma in realtà anche più tempo. Ecco le mie considerazioni, ovvero Claude preciso, preciso, immediato, sicuro di sé. CiaGPT incerto, lento, però sicuramente ti dà molti più crediti, chiamiamoli così, molta più potenza di utilizzo. E quindi io penso adesso tornerò su Claude, mi faccio il piano da 100€ perché vedo che è anche migliorato tantissimo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
