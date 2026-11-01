@@ -1,0 +1,54 @@
+POST ID: 17953699881306107
+IG ID: 17953699881306107
+SHORTCODE: DfKc9crtzqc
+PERMALINK: https://www.instagram.com/reel/DfKc9crtzqc/
+DATA: 2026-10-31
+ORA: 15:17
+
+--- METRICHE ---
+LIKE: 264
+COMMENTI: 78
+DURATA VIDEO: 87 secondi
+CARATTERI CAPTION: 760
+HASHTAG: #intelligenzaartificiale #chatgpt #claude #confronto #ai
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, anthropic, openai, generazione-immagini, limiti-uso
+TOPIC: Confronto tra Claude di Anthropic e ChatGPT di OpenAI per freelance e imprenditori, con focus su velocità, costi e generazione di immagini
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra un tutorial sull'uso di due modelli di linguaggio AI. Il video alterna le riprese ravvicinate di un presentatore che spiega il concetto con gesti a schermate di computer. Le screen capture mostrano l'interfaccia di Claude e ChatGPT. In alto, un diagramma di una bilancia sposta un'immagine tra i due piatti a seconda dei costi dichiarati. Successivamente, una finestra di browser (dove si intravede il logo "COODLE") mostra i comandi digitati da un utente per generare un'immagine. In fondo, delle schede di riepilogo confrontano i punti di forza di Claude (costituisce un'app, bassa fatturazione) e ChatGPT (rapporto qualità/prezzo).
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Ti spiego meglio:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Claude è preciso, immediato e sicuro di sé. Se sei freelance o imprenditore, Claude tutta la vita
+
+2 ChatGPT è più lento, ma ti dà molta più potenza di utilizzo. Se vuoi risparmiare e iniziare con l’intelligenza artificiale, parti da ChatGPT
+
+3 Claude non genera immagini, ChatGPT sì. Per questo il top è avere Claude più il piano ChatGPT da 20 euro
+
+4 Occhio ai limiti. Con Claude puoi lavorare al massimo 5 ore e poi aspetti, mentre con ChatGPT il limite è settimanale e rischi di finirlo in un giorno
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #chatgpt #claude #confronto #ai
+
+--- TRASCRIZIONE AUDIO ---
+Ho fatto due mesi con CiaGPT, due mesi con Claude. Claude, preciso, immediato, sicuro di sé. CiaGPT, incerto, lento, però sicuramente ti dà molta più potenza di utilizzo. Quindi consigliato CiaGPT per l'everyday work, ma non per le cose veloci. Io tornerò su Claude, se sei appunto un freelance oppure un imprenditore, Claude tutta la vita. La figata di CiaGPT è però che può generare immagini e Claude no. Quindi un piano da 20€ di CagPT se iClaude è estremamente consigliato soprattutto perché se usi la mia skill che ti permette di generare immagini sfruttando Google Chrome dal prompt a CagPT, CagPT crea l'immagine e poi si scarica l'immagine se la usa dentro le cose che stava facendo è game changer perché sennò in alternativa ti senti obbligato a spendere 20 centesimi per immagine un conto se ne fai 10 un conto se ne fai 100 e non è mai che viene al primo tentativo. Inoltre, Claude puoi usarlo per un massimo di 5 ore e poi devi aspettare. CiaGPT invece ti dà la possibilità di utilizzare eventualmente tutto il tuo piano settimanale in una giornata. Da una parte è una figata, dall'altra quando vedi il tuo piano che scende e ti dimentichi che è la tua finestra a 5 ore ma è la tua finestra settimanale, sai veramente nei casini. Se volete risparmiare, iniziare però ad utilizzare l'intelligenza artificiale, vi consiglio CiaGPT. Se invece volete qualcosa che dite wow che figata sta roba è il futuro, Claude è il più adatto. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se ancora fai tutto a mano seguimi che ti insegno io poi a utilizzare l'intelligenza artificiale.
