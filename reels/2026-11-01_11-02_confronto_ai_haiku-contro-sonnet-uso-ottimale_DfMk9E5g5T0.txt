@@ -1,0 +1,48 @@
+POST ID: 17993579040114235
+IG ID: 17993579040114235
+SHORTCODE: DfMk9E5g5T0
+PERMALINK: https://www.instagram.com/reel/DfMk9E5g5T0/
+DATA: 2026-11-01
+ORA: 11:02
+
+--- METRICHE ---
+LIKE: 3
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 406
+HASHTAG: #claude #haiku #sonnet #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: haiku, sonnet, claude, intelligenza-artificiale, ai-italia
+TOPIC: Come utilizzare Haiku e Sonnet di Claude per ottenere risultati eccellenti guidandoli correttamente
+
+--- HOOK TESTUALE (dal frame) ---
+Hai ku esegu ... Sonnet gli dice come
+
+--- DESCRIZIONE VISIVA ---
+Un presentatore sta parlando in primo piano in un'intervista interna (indossa una t-shirt nera) e a un telefono/tenuta esterna (indossa una giacca aperta su una camicia a righe), usando gesticolazioni per spiegare un concetto. Il video presenta sottotitoli animati che raccontano una storia di codice e programmazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Sonnet, Claude
+
+--- CAPTION COMPLETA ---
+Haiku esegue, Sonnet guida. Anche i modelli piccoli fanno cose molto belle se sono guidati bene.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Non serve sempre il modello più grande. Spesso basta organizzarli bene.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #haiku #sonnet #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Haiku è pazzesco. Cioè già Haiku fa delle cose che sono del livello di Sonnet. Chiaramente però è Sonnet che gli deve dire come fare le cose, perché sennò rischia di farle male, appunto. Ma per fare delle cose molto fighe bastano anche i modelli Sonnet e Haiku. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
