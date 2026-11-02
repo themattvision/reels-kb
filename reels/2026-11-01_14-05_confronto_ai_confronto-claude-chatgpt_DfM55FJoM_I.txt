@@ -6,8 +6,8 @@ DATA: 2026-11-01
 ORA: 14:05
 
 --- METRICHE ---
-LIKE: 8
-COMMENTI: 0
+LIKE: 11
+COMMENTI: 1
 DURATA VIDEO: 30 secondi
 CARATTERI CAPTION: 441
 HASHTAG: #claude #chatgpt #intelligenzaartificiale #aiitalia #risparmiare
