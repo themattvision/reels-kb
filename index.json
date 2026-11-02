@@ -9175,14 +9175,20 @@
     "shortcode": "DfNU76kzWkv",
     "permalink": "https://www.instagram.com/reel/DfNU76kzWkv/",
     "date": "2026-11-01",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Claude di Anthropic è più veloce ma ha un costo più elevato rispetto ad altre soluzioni AI",
+    "hook_text": "DOPAMINA «WOW, È VEDERE TUTTO MA MI",
     "like_count": 4,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 25,
+    "tags": [
+      "claude",
+      "anthropic",
+      "costo",
+      "produttivita",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/875104295_2374676546670379_6486888582367493184_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_h8caatdRnMQ7kNvwH1cpG8&_nc_oc=AdpaviH2Wl6chXUwzWyde5-gbSpHQqu7mnYTk8aTM-Nc35HwBzIfb9acZ2-g861Eymo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mh0aNOXeJox4YxMyJyGr1Q&_nc_tpa=Q5bMBQIeaUfGK_hN1NY8OoYeqTue5rHRSlHiPnrloiEhR4F50gXzQJkFxm3fGSX256DmrlTlmmVDLpqs&oh=00_AQQEz5zkl1xnD4XnWhMZfnSgHYbQ8nH4pXi7JWJv7Wsixg&oe=6AEEBF71",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
