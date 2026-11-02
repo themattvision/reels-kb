@@ -1,0 +1,48 @@
+POST ID: 18111832970219104
+IG ID: 18111832970219104
+SHORTCODE: DfPeabiN-Eo
+PERMALINK: https://www.instagram.com/reel/DfPeabiN-Eo/
+DATA: 2026-11-02
+ORA: 14:02
+
+--- METRICHE ---
+LIKE: 2
+COMMENTI: 0
+DURATA VIDEO: 23 secondi
+CARATTERI CAPTION: 426
+HASHTAG: #claude #chatgpt #produttivita #intelligenzaartificiale #workflow
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, claude, prompt, feedback, produttivita, intelligenza-artificiale
+TOPIC: Come usare ChatGPT per prompt veloci e Claude per feedback immediato nella produttività quotidiana
+
+--- HOOK TESTUALE (dal frame) ---
+CHATGPT EVERYDAY / PROMPT, POI / CLAUDE FEEDBACK
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che si rivolge in prima persona alla camera mentre gesticola, accompagnando una discussione sulla metodologia di utilizzo dei tool di intelligenza artificiale. La sequenza inizia con un primo piano del presentatore in un ambiente interno con sfondo neutro. Mentre spiega il processo di 'prompting', afferra una penna tra le dita per enfatizzare il punto. Sottotitoli gialli percorrono lo schermo ('NON CI SONO SCORCIATO CHATGPT', 'PROMPT E POI', 'BENISSE INVECE', 'PROPULSO DA CLAUDE'). La struttura cambia infine con un montaggio a tre immagini affiancate: il presentatore in tre inquadrature diverse, due in interno e una in esterno, soleggiate, che mostrano il suo volto espresso con espressioni diverse, suggerendo un paragone tra i risultati ottenuti dai diversi strumenti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude
+
+--- CAPTION COMPLETA ---
+La differenza la fa il ritmo: lavori che lasci andare da soli oppure lavori in cui stai dietro al modello.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di scegliere chiediti come lavori tu, non quale nome fa più rumore.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #produttivita #intelligenzaartificiale #workflow
+
+--- TRASCRIZIONE AUDIO ---
+Quindi consigliatoci a GPT per l'everyday work ma non per le cose veloci. Cioè se avete voglia di metterlo lì, gli date il prompt e poi vi fate i lavori vostri, va bene. Se invece volete guardarlo che fa le cose, man mano dargli ulteriori prompt, allora passate su Claude, perché Claude è immediato in confronto. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
