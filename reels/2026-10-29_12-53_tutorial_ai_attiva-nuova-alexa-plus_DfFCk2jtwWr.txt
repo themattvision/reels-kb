@@ -6,8 +6,8 @@ DATA: 2026-10-29
 ORA: 12:53
 
 --- METRICHE ---
-LIKE: 34
-COMMENTI: 6
+LIKE: 36
+COMMENTI: 8
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 721
 HASHTAG: #alexa #alexaplus #intelligenzaartificiale #amazon #smarthome
