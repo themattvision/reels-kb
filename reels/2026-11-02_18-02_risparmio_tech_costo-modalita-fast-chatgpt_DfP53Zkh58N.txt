@@ -1,0 +1,48 @@
+POST ID: 18235819114324376
+IG ID: 18235819114324376
+SHORTCODE: DfP53Zkh58N
+PERMALINK: https://www.instagram.com/reel/DfP53Zkh58N/
+DATA: 2026-11-02
+ORA: 18:02
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 415
+HASHTAG: #claude #chatgpt #risparmiare #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: chatgpt, claude, modalita-fast, costo-ai, consumo-energia
+TOPIC: Come gestire la Modalità Fast di ChatGPT per evitare alti costi di consumo
+
+--- HOOK TESTUALE (dal frame) ---
+IMMEDIATO FAST CONSUMA
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un presentatore in primo piano che discute i tre livelli della piramide di Maslow per quanto riguarda il consumo di contenuti digitali o media. La sequenza inizia mostrando il concetto di 'Immediato' associato al pannello 'Concentrazione', seguito da 'Fast' e 'Consuma', indicando che 'non importa perché, consuma'. Nella seconda cornice, il focus si sposta sulla 'Soddisfazione', menzionando la 'Conoscenza'. La terza cornice, intitolata 'Amari', descrive la conoscenza con la frase 'è già bastato essere qui'. Infine, l'ultima cornice, 'Capo', conclude il ciclo descrivendo come 'è tu sei ancora qui'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Modalità Fast: più velocità, molto più consumo. Su ChatGPT il costo sale tantissimo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di premere Fast controlla quanto ti costa, soprattutto se usi l'AI ogni giorno.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #risparmiare #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Claude è immediato in confronto senza neanche andare in modalità fast perché la modalità fast è quella che consuma molto di più. C'è GPT comunque in modalità fast consuma tantissimo e per una persona appunto non si può permettere di usare la modalità fast ma neanche col piano da 100 euro parlo veramente in maniera sincera. Comunque io sono Matteo Zampieri il tuo smanettone di fiducia e tu se ancora fai tutto a mano seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
