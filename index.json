@@ -9135,14 +9135,20 @@
     "shortcode": "DfOuP54hZ-D",
     "permalink": "https://www.instagram.com/reel/DfOuP54hZ-D/",
     "date": "2026-11-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare ChatGPT e Claude in parallelo per risparmiare iniziando con l'intelligenza artificiale",
+    "hook_text": "Tu non devi programmare, ti devi comportare qual è il tuo capo. E devi dire questa roba lì",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 26,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "intelligenza-artificiale",
+      "risparmio-tech",
+      "tool-gratuiti"
+    ],
     "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/886793960_1136230398887415_1672371804153257128_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cvlONfRkUZsQ7kNvwHnFOeb&_nc_oc=AdrLAA_QGc1ODMO6yLv3brYXyGHtNVUnrVrUI-jb9gQV5B0cEcvPwtD3wncSTOX8Src&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mh0aNOXeJox4YxMyJyGr1Q&_nc_tpa=Q5bMBQKS4iZM7aaKbSi-0UKKNJ7NfgVqkJbeF_qLOcQaIvsBGfprz4mZsJjUSn9mnkb4XJkGfaBJuG6V&oh=00_AQQDYzxpRIVmYJSaNebHdi8conSThCf48ZXSrLUzHvX7qw&oe=6AEEA97F",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
