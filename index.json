@@ -9094,14 +9094,21 @@
     "shortcode": "DfPeabiN-Eo",
     "permalink": "https://www.instagram.com/reel/DfPeabiN-Eo/",
     "date": "2026-11-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Come usare ChatGPT per prompt veloci e Claude per feedback immediato nella produttività quotidiana",
+    "hook_text": "CHATGPT EVERYDAY / PROMPT, POI / CLAUDE FEEDBACK",
     "like_count": 2,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 23,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "prompt",
+      "feedback",
+      "produttivita",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/884845106_1955679415683276_1543534811131735046_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iHndlTcSHPYQ7kNvwEQ-UE5&_nc_oc=Adq0nrLslHrOnWtL-2-CtdwWJ-yU7ngFVJ1DWAY1By_MZg0-Nihsl6zm0XNiyMj8E7Q&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mh0aNOXeJox4YxMyJyGr1Q&_nc_tpa=Q5bMBQKBUlSz0somZWD22JK4TArwQ63h_32foeBZbF075UWIAy3QGoIs-QijHT9y_dfOZPeqku6Wwjhz&oh=00_AQTM4dFLo7-Cnrx2OnGwQU_iaLZVBRDfzXmursAYzCPk9A&oe=6AEEC9A3",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
