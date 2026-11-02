@@ -1,0 +1,48 @@
+POST ID: 17996129079061963
+IG ID: 17996129079061963
+SHORTCODE: DfNmFVSAXSi
+PERMALINK: https://www.instagram.com/reel/DfNmFVSAXSi/
+DATA: 2026-11-01
+ORA: 20:31
+
+--- METRICHE ---
+LIKE: 7
+COMMENTI: 2
+DURATA VIDEO: 57 secondi
+CARATTERI CAPTION: 480
+HASHTAG: #generazioneimmagini #chatgpt #claude #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, claude, google-chrome, generazione-immagini, costo-immagini
+TOPIC: Come generare immagini con ChatGPT usando Google Chrome e controllare i costi per immagine
+
+--- HOOK TESTUALE (dal frame) ---
+CHATGPT GENERA IMMAGINI GRATIS
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo in un ambiente interno (probabilmente un corridoio con porte visibili) che parla direttamente in camera, utilizzando gesti delle mani per enfatizzare i punti (contando con le dita, indicando). Nell'ultimo frame (9), il soggetto cambia ambientazione a favore di riprese B-roll outdoor, dove si vede camminare per strada all'aperto con un giubbotto, sotto la luce del sole. Non sono presenti screenshot di terminali, UI di software o ambienti di programmazione visibili.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google Chrome
+
+--- CAPTION COMPLETA ---
+Il mio errore? Pensavo di averne tantissime. Ho generato 175 immagini di notte e il piano era quasi finito.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Tra 7 e 20 centesimi a immagine, a seconda della qualità, e raramente viene al primo tentativo. Conta prima di partire.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#generazioneimmagini #chatgpt #claude #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+La figata di CiaGPT è però che può generare immagini e Claude no. Quindi un piano da 20€ di CiaGPT se iCloud è estremamente consigliato soprattutto perché se usi la mia skill che ti permette di generare immagini sfruttando il browser, quindi va su Google Chrome, dà il prompt a CiaGPT, CiaGPT crea l'immagine e poi si scarica l'immagine se la usa dentro al progetto le cose che stava facendo, è game changer. Perché sennò in alternativa ti senti obbligato ad andare a costo di utilizzo. Quindi spendere 20 centesimi a immagini, se vuoi una cosa di alta qualità, se no anche 10 centesimi, ma 7-8 centesimi per immagine, un conto se ne fai 10, un conto se ne fai 100. Non è mai che viene al primo tentativo. Pensavano di averne tantissime, ho fatto generare 170 immagini durante la notte e ho consumato praticamente tutto il mio piano. Quindi bisogna stare molto attenti perché appunto non sono infinite. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
