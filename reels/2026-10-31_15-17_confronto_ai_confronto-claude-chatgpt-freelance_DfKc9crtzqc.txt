@@ -6,8 +6,8 @@ DATA: 2026-10-31
 ORA: 15:17
 
 --- METRICHE ---
-LIKE: 264
-COMMENTI: 78
+LIKE: 321
+COMMENTI: 97
 DURATA VIDEO: 87 secondi
 CARATTERI CAPTION: 760
 HASHTAG: #intelligenzaartificiale #chatgpt #claude #confronto #ai
