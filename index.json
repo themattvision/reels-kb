@@ -9115,14 +9115,20 @@
     "shortcode": "DfPJzUeJ_1m",
     "permalink": "https://www.instagram.com/reel/DfPJzUeJ_1m/",
     "date": "2026-11-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Come usare Stable Diffusion per generare immagini AI riducendo i costi per singola immagine",
+    "hook_text": "20 CENTESIMI",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 22,
+    "tags": [
+      "stable-diffusion",
+      "immagini-ia",
+      "costo-immagini",
+      "risparmio",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/887217887_1637598791151062_4389432297935753177_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lt48vs4f3lEQ7kNvwH-fFdV&_nc_oc=AdqMweakegPe7fQacBJnfEz-YYCv65yJr3FPVqy3STJi-KNPNXmkdJCJiP9QmPgW8sk&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mh0aNOXeJox4YxMyJyGr1Q&_nc_tpa=Q5bMBQI87g3laRW0yGd1jN8J0XM6OUuGFW7kG2A4ni3VcY5SdqhyiKuJ0pK58ULj2zaC0piGGMaYPaSG&oh=00_AQROWFEePEruxUftamBcS_-u2kc2ItOiaJ6rGLRXS9TqAA&oe=6AEE9841",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
