@@ -1,0 +1,48 @@
+POST ID: 18076085951732724
+IG ID: 18076085951732724
+SHORTCODE: DfNU76kzWkv
+PERMALINK: https://www.instagram.com/reel/DfNU76kzWkv/
+DATA: 2026-11-01
+ORA: 18:01
+
+--- METRICHE ---
+LIKE: 4
+COMMENTI: 0
+DURATA VIDEO: 25 secondi
+CARATTERI CAPTION: 399
+HASHTAG: #claude #intelligenzaartificiale #produttivita #risparmiare #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, anthropic, costo, produttivita, intelligenza-artificiale
+TOPIC: Claude di Anthropic è più veloce ma ha un costo più elevato rispetto ad altre soluzioni AI
+
+--- HOOK TESTUALE (dal frame) ---
+DOPAMINA «WOW, È VEDERE TUTTO MA MI
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla in primissimo piano. Il presentatore è ripreso in ambienti diversi: una stanza con una parete bianca e quadri astratti appesi, e successivamente all'aperto con la luce solare diretta. Non è presente alcun B-roll tecnico, screenshot di interfacce, terminali di codice o diagrammi. L'intera sequenza è composta esclusivamente da clip del presentatore che fa手势 e parla alla camera.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+La velocità di Claude ti dà gas: vedi il lavoro in tempo reale e pensi wow.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di scegliere per l'effetto wow, controlla quanto ti costa il ritmo.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #intelligenzaartificiale #produttivita #risparmiare #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Se invece volete un bel po' di dopamina, un bel po' di gaso, qualcosa che dite wow che figata sta roba è il futuro, beh allora forse CiaGPT non è il più adatto ma Claude è il più adatto proprio perché vedete in tempo reale che fa delle cose che sono estremamente pazzesche, veloci, però vi costa molto di più. Il piano da 20€ si fa ma fino a una certa. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
