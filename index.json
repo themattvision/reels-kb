@@ -9073,14 +9073,21 @@
     "shortcode": "DfPsPvworXg",
     "permalink": "https://www.instagram.com/reel/DfPsPvworXg/",
     "date": "2026-11-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Come usare la skill Chrome per generare immagini con ChatGPT e confrontarla con Claude, evidenziando differenze di prezzo, velocità e limiti d'uso",
+    "hook_text": "COMMENTA «SKILL» E TE LA MANDO",
     "like_count": 16,
     "comments_count": 3,
-    "duration": 0,
-    "tags": [],
+    "duration": 87,
+    "tags": [
+      "claude",
+      "chatgpt",
+      "skill-chrome",
+      "google-chrome",
+      "intelligenza-artificiale",
+      "risparmio-tech"
+    ],
     "thumbnail_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/883558878_2201107927416277_7484635383973607901_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UC0DVWd1048Q7kNvwEA0_LR&_nc_oc=Adr11T_6bZ-TihDvHL1gTdm44lIHpWaM3m4fmgcShz1JZBN_rrnMOQ4rqGzYQQCc_Lw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mh0aNOXeJox4YxMyJyGr1Q&_nc_tpa=Q5bMBQK1RtExNrXCREj9IM_y_Ixb4JpJwH_Tg0Ct9SzoMQOZeRNHSL-HiLCNjfX90Y3gO_tHO10056XE&oh=00_AQSlNeuYkFbJm7qWaFvDXv-_3sV9rKGvp9ApUVqux22uEw&oe=6AEEB543",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
