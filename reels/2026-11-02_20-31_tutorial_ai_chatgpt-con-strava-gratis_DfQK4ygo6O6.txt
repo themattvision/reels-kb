@@ -1,0 +1,48 @@
+POST ID: 17968734477212660
+IG ID: 17968734477212660
+SHORTCODE: DfQK4ygo6O6
+PERMALINK: https://www.instagram.com/reel/DfQK4ygo6O6/
+DATA: 2026-11-02
+ORA: 20:31
+
+--- METRICHE ---
+LIKE: 11
+COMMENTI: 0
+DURATA VIDEO: 42 secondi
+CARATTERI CAPTION: 433
+HASHTAG: #chatgpt #strava #intelligenzaartificiale #abbonamento #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, strava, cia-gpt, abbonamento, risparmio-tech
+TOPIC: Come integrare ChatGPT in Strava senza pagare l'abbonamento di Strava
+
+--- HOOK TESTUALE (dal frame) ---
+CONTINUA CON STRAVA ESEMPIO
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla in camera mentre si trova in un'interno (pareti bianche con porta in legno alle sue spalle). In una inquadratura finale, l'uomo è all'aperto in una via urbana. Non sono presenti screenshot, terminali, codici o schermate di prodotti; il contenuto visivo consiste esclusivamente del presentatore che gesticola e del contesto ambientale (indoor/outdoor).
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Immagina di usare il tuo ChatGPT dentro Strava, senza pagare Strava. Magari un domani succederà.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Così non sei limitato dai crediti della singola app: usi il tuo abbonamento un po' ovunque.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#chatgpt #strava #intelligenzaartificiale #abbonamento #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Inoltre un'altra figata con CiaGPT ha senso il piano da 20 euro al mese proprio perché adesso sta arrivando il continua con CiaGPT nel senso che un'azienda un domani se tu vuoi usare l'intelligenza artificiale con la loro azienda ad esempio Strava volete utilizzare l'intelligenza artificiale di Strava ma non volete pagare Strava magari e dico magari Strava darà la possibilità di farti fare l'accesso col tuo CiaGPT e usare il tuo CiaGPT con le funzionalità di Strava. E questo è molto utile perché appunto ti obbliga ad avere i crediti limitati ma puoi utilizzare il tuo abbonamento di CiaGPT un po' ovunque nel mondo, in qualsiasi piattaforma. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
