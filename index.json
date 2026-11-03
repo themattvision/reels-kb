@@ -9255,14 +9255,21 @@
     "shortcode": "DfRTBOYzBB-",
     "permalink": "https://www.instagram.com/reel/DfRTBOYzBB-/",
     "date": "2026-11-03",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "confronto_ai",
+    "topic": "ChatGPT è consigliato per dipendenti e aziende, mentre Claude è più adatto a freelance e imprenditori per lavori rapidi",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 50,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "freelance",
+      "dipendenti",
+      "aziende",
+      "produttivita"
+    ],
     "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/882288452_971984648858458_8177063908999651017_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=N6gdL75X5RwQ7kNvwGocnSi&_nc_oc=Adr6qvcZhHJHU4Fk9UkVMYCqis3FCXYyRHrq4OQOuVOgV-jqjwJRbU_iZG7t3I7cTCw&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=s_cmmQyssNu6uLqguwqXEw&_nc_tpa=Q5bMBQIyDAA-Cvkonvq_KlopQ4JDHxlyfHkoNqLk_mmq1-2agG2xtUgzrk7EcNsGZPcuPgphsPOIJ6IB&oh=00_AQRL2qUcYg_HGh9TIRMkz-feVjvru8awd3WKkz7GqL5wTg&oe=6AEFE6BD",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
