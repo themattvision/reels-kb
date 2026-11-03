@@ -9276,14 +9276,20 @@
     "shortcode": "DfQK4ygo6O6",
     "permalink": "https://www.instagram.com/reel/DfQK4ygo6O6/",
     "date": "2026-11-02",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come integrare ChatGPT in Strava senza pagare l'abbonamento di Strava",
+    "hook_text": "CONTINUA CON STRAVA ESEMPIO",
     "like_count": 11,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 42,
+    "tags": [
+      "chatgpt",
+      "strava",
+      "cia-gpt",
+      "abbonamento",
+      "risparmio-tech"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/885149147_1444430161167724_1218948496897935475_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YW1mhaprk_EQ7kNvwHZkovJ&_nc_oc=Adp2LUCo9LHyYbRpFtAQXgVBrk45eQx0Z_NYUBiO3ITI25E-ZdPutG2y1d5tq-23sOI&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=s_cmmQyssNu6uLqguwqXEw&_nc_tpa=Q5bMBQLRtpWdswRdvoocOGC7T6datGypA8yL4K9rqhkWTDUaridVEyBRhttPB9e4pihR3TtAmq3WXsll&oh=00_AQRNs_MAx2CG7nAY8-qM3qGvpotEIkGXekMWJqgGonXFCA&oe=6AEFEEF9",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
