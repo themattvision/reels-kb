@@ -1,0 +1,48 @@
+POST ID: 18120400751007994
+IG ID: 18120400751007994
+SHORTCODE: DfRugL4BfRa
+PERMALINK: https://www.instagram.com/reel/DfRugL4BfRa/
+DATA: 2026-11-03
+ORA: 11:01
+
+--- METRICHE ---
+LIKE: 2
+COMMENTI: 0
+DURATA VIDEO: 24 secondi
+CARATTERI CAPTION: 434
+HASHTAG: #agenti #intelligenzaartificiale #produttivita #claude #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude, intelligenza-artificiale, produttivita, agenti, project-manager
+TOPIC: Scopri l'agente AI di Claude che funge da project manager personale per organizzare la tua giornata
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video è una carrellata di clip video sfarre (slideshow) di un uomo con capelli corti e maglietta nera, ripreso in selfie-style che parla direttamente a camera, accompagnando le sue parole con gesti delle mani (come alzare le dita per contare). Il video si compone di uno sfondo prevalentemente bianco con la parete del suo appartamento (si vede una porta in legno e un quadro appeso), tranne due frame in cui lo sfondo cambia: uno mostra un interno con una lampada e poster, l'altro lo mostra all'aperto su una strada con alberi e auto in sfondo, indossando una giacca. I sottotitoli evidenziano il dialogo rapido sull'assunzione di assistenti proattivi e figure di project manager.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Un agente che ti dice: domani devi fare questa cosa, come sei messo? È un project manager della tua vita, ed è fighissimo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Un assistente così può fare da project manager della tua giornata.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#agenti #intelligenzaartificiale #produttivita #claude #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Sinceramente, questi agenti che nascono per essere degli agenti assistenti sono proattivi, quindi ti chiamano, ti dicono, ascolta ma ti è arrivato questo messaggio, cosa facciamo? Ma guarda che domani devi fare sta cosa, come sei messo? Guarda che ho visto che tu non hai fatto le cose, è un po' un project manager della propria vita ed è fighissimo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
