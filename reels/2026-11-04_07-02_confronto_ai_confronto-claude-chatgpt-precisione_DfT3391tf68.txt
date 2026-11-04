@@ -1,0 +1,48 @@
+POST ID: 18636673651014280
+IG ID: 18636673651014280
+SHORTCODE: DfT3391tf68
+PERMALINK: https://www.instagram.com/reel/DfT3391tf68/
+DATA: 2026-11-04
+ORA: 07:02
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 29 secondi
+CARATTERI CAPTION: 481
+HASHTAG: #claude #chatgpt #intelligenzaartificiale #produttivita #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude-3-5-sonnet, chatgpt, anthropic, openai, precisione-ai, usabilità-pratica
+TOPIC: Confronto tra Claude 3.5 Sonnet e ChatGPT su precisione, velocità e usi pratici
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video è un parlato in prima persona (talking head) in cui un uomo vestito di nero presenta un confronto tra Intelligenza Artificiale e Volo con drone. I primi 6 fotogrammi si svolgono in un interno con pareti bianche e specchi (infrangibile, sepolcri di calcedonio, carpe su, ecc. sottotitoli presenti). Il testo evidenzia le caratteristiche di 'Claude 3.5 Sonnet' (precisione percepita, risultato che preferisco) e 'ChatGPT' (vedere azioni su PC, velocità e decisione). I sottotitoli mostrano frasi come 'scratto piaghi', 'appunto questo pratiky'. Gli ultimi 3 fotogrammi cambiano ambientazione: il presentatore appare all'esterno, sotto gli alberi, continuando la spiegazione mentre i sottotitoli mostrano termini tecnici come 'zempierini, tuo shaneitone' e 'usa il mio ID utile i zare in intelligenza'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude, Google
+
+--- CAPTION COMPLETA ---
+Come precisione Claude e ChatGPT sono praticamente uguali. Quello che cambia sono gli usi pratici: velocità, decisione e quanto belle fanno le cose al primo colpo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se lavori con l'AI ogni giorno, il primo colpo ti fa risparmiare tempo.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #intelligenzaartificiale #produttivita #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+A livello comunque di precisione, Claude e CagPT tagli e quali. Claude vedo che l'hanno addestrato meglio, più bello, fa le cose più belle e CagPT è più indirizzato alla persona che ha bisogno di vedere proprio le cose all'interno del proprio computer che vengono fatte. L'unica differenza la fa appunto questi usi pratici, velocità, quanto sono decisi, quanto belle fanno le cose al primo colpo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
