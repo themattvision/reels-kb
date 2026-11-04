@@ -1,0 +1,48 @@
+POST ID: 18114995252116825
+IG ID: 18114995252116825
+SHORTCODE: DfSv2SkKgFM
+PERMALINK: https://www.instagram.com/reel/DfSv2SkKgFM/
+DATA: 2026-11-03
+ORA: 20:33
+
+--- METRICHE ---
+LIKE: 12
+COMMENTI: 4
+DURATA VIDEO: 95 secondi
+CARATTERI CAPTION: 479
+HASHTAG: #claude #chatgpt #intelligenzaartificiale #risparmiare #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, claude, fa24, risparmio-tech, intelligenza-artificiale
+TOPIC: Confronto tra ChatGPT, Claude e FA24 su costi, velocità e utilizzo consigliato
+
+--- HOOK TESTUALE (dal frame) ---
+PARAGONO FA24
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo a torso nudo o con una maglietta scura, che si riprende dal basso in un ambiente domestico. Non è presente alcun B-roll, screenshot di applicazioni, o codice. L'intero contenuto visivo si concentra sul speaker che gesticola e parla. I sottotitoli sovrapponibili indicano un confronto tra vari strumenti di intelligenza artificiale, confrontando i costi (token, crediti, consumo) e l'utilità (prompt, lavori) di ChatGPT, Claude e Fa24. La scena è statica e focalizzata esclusivamente sul viso del presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude, FA24
+
+--- CAPTION COMPLETA ---
+Ho fatto due mesi con ChatGPT e due mesi con Claude. Claude è preciso e immediato, ChatGPT è incerto e lento, ma ti dà molta più potenza di utilizzo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se vuoi risparmiare, parti da ChatGPT e aggiungi Claude quando ti serve la velocità.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #intelligenzaartificiale #risparmiare #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Ho fatto due mesi con CiaGPT e due mesi con Claude, ma in realtà anche più tempo. Ecco le mie considerazioni, ovvero Claude preciso, preciso, immediato, sicuro di sé. CiaGPT incerto, lento, però sicuramente ti dà molti più crediti, chiamiamoli così, molta più potenza di utilizzo. Quindi consigliato CiaGPT per l'everyday work, ma non per le cose veloci. Cioè se avete voglia di metterlo lì, gli date il prompt e poi vi fate i lavori vostri, va bene. Se invece volete guardarlo che fa le cose, Se man mano dargli ulteriori prompt, allora passate su Claude, perché Claude è immediato in confronto, senza neanche andare in modalità fast, perché la modalità fast è quella che consuma molto di più. CiaGPT comunque in modalità fast consuma tantissimo e per una persona appunto non si può permettere di usare la modalità fast, ma neanche col piano da 100€, parlo veramente in maniera sincera. Il piano da 20€ di Claude non mi bastava, ma era immediato, veloce, mi faceva sentire proprio senza pensieri, una sicurezza veramente. Quello di CiaGPT sapevo che dovevo mettermi là e investire il mio tempo. Quindi scegliete quello che più vi piace, ma se volete risparmiare, volete iniziare però ad utilizzare l'intelligenza artificiale, vi consiglio CiaGPT. Claude parallelamente, ma non è minimamente obbligatorio. Se invece volete un bel po' di dopamina, un bel po' di gaso, qualcosa che dite wow che figata sta roba è il futuro, beh allora forse CiaGPT non è il più adatto, ma Claude è il più adatto proprio perché vedete in tempo reale che fa delle cose che sono estremamente pazzesche, veloci. Però vi costa molto di più. Il piano da 20€ si fa ma fino a una certa. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
