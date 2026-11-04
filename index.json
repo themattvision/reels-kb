@@ -9336,14 +9336,20 @@
     "shortcode": "DfUTlKSTsVc",
     "permalink": "https://www.instagram.com/reel/DfUTlKSTsVc/",
     "date": "2026-11-04",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Come gestire il piano di generazione immagini con ChatGPT per evitare di consumare tutto il credito",
+    "hook_text": "TANTISSIME",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 17,
+    "tags": [
+      "chatgpt",
+      "generazione-immagini",
+      "piano-credito",
+      "intelligenza-artificiale",
+      "risparmio"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/887092157_1545418841023757_6791912380201366328_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mR_sxNq6BoYQ7kNvwEfCHHX&_nc_oc=AdpaiSrgxxSERvgvDxlACsOwnLb4Ywj_9soD7z41w_89RpT6OvcUmp9NC5NPeM8-DqQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0cE2NXn38G0_3tINAXDJxw&_nc_tpa=Q5bMBQJHcQYurF2I0-Au9LBkudCVpR55IPkNnx3trYT3CvjWwvplKbLl_ej0t_TBD-KNR2zbWEXo8a3u&oh=00_AQQ1_7mV6q6txWHG5bnrif7jY5CQHotNbhRmIVwc5BA-Dg&oe=6AF126B3",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
