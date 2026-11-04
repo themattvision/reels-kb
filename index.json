@@ -9377,14 +9377,20 @@
     "shortcode": "DfSv2SkKgFM",
     "permalink": "https://www.instagram.com/reel/DfSv2SkKgFM/",
     "date": "2026-11-03",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "confronto_ai",
+    "topic": "Confronto tra ChatGPT, Claude e FA24 su costi, velocità e utilizzo consigliato",
+    "hook_text": "PARAGONO FA24",
     "like_count": 12,
     "comments_count": 4,
-    "duration": 0,
-    "tags": [],
+    "duration": 95,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "fa24",
+      "risparmio-tech",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/888844570_3570223003159131_5660416941184126073_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6MHDpp4io-IQ7kNvwHcW_mV&_nc_oc=AdoEY9UN0jHRguI7tJsfs2eX-P6qIMoacLgxj7hAk29lZiJxKy6Hv84vAMGyn15cE5k&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0cE2NXn38G0_3tINAXDJxw&_nc_tpa=Q5bMBQKP51K2-MYRYtieNmRuu7FLndqOxzAUeXzmdA_YvylXz-F9qtdHV_OHGyIEg21AUaFyRB6ykS5e&oh=00_AQRQQUZmTpdoE4OGFYDoly4zTpfGLxi15B_2FDzwR9GsOw&oe=6AF130C8",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
