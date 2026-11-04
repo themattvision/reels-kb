@@ -7,7 +7,7 @@ ORA: 16:43
 
 --- METRICHE ---
 LIKE: 255
-COMMENTI: 378
+COMMENTI: 380
 DURATA VIDEO: 33 secondi
 CARATTERI CAPTION: 715
 HASHTAG: #adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator
