@@ -1,0 +1,48 @@
+POST ID: 18640273261005223
+IG ID: 18640273261005223
+SHORTCODE: DfSenQGRjB0
+PERMALINK: https://www.instagram.com/reel/DfSenQGRjB0/
+DATA: 2026-11-03
+ORA: 18:02
+
+--- METRICHE ---
+LIKE: 2
+COMMENTI: 0
+DURATA VIDEO: 25 secondi
+CARATTERI CAPTION: 427
+HASHTAG: #claude #programmazione #app #intelligenzaartificiale #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: claude, anthropic, intelligenza-artificiale, programmazione, automazione
+TOPIC: Claude a 200 € permette di avere una squadra virtuale per scrivere codice e risparmiare tempo nelle applicazioni
+
+--- HOOK TESTUALE (dal frame) ---
+200 € come una squadra
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una sequenza di riprese di un uomo che parla in camera, spesso gestendo il contenuto con le mani. In un frame, l'uomo appare in doppia inquadratura (split screen) all'interno di un ambiente interno. In un altro frame, l'uomo è ripreso all'esterno in un ambiente con vegetazione e uno sfondo urbano. Non sono presenti schermate di terminali, codici o diagrammi, ma solo riprese del presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Scrivere codice consuma di più, eseguire azioni consuma meno. Il consumo dipende da cosa fai.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se fai app, metti in conto che il piano va più in fretta e pianifica i lavori pesanti.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #programmazione #app #intelligenzaartificiale #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Rimpiando a 200 euro di Claude è come avere veramente decine di persone che lavorano per te costantemente a qualsiasi cosa. Però a maggior ragione poi se fai applicazioni, perché effettivamente fare applicazioni significa scrivere codice e quindi scrivere significa consumare. Invece se deve svolgere delle azioni, punto in generale, consuma meno. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
