@@ -9356,14 +9356,21 @@
     "shortcode": "DfT3391tf68",
     "permalink": "https://www.instagram.com/reel/DfT3391tf68/",
     "date": "2026-11-04",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "confronto_ai",
+    "topic": "Confronto tra Claude 3.5 Sonnet e ChatGPT su precisione, velocità e usi pratici",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 29,
+    "tags": [
+      "claude-3-5-sonnet",
+      "chatgpt",
+      "anthropic",
+      "openai",
+      "precisione-ai",
+      "usabilità-pratica"
+    ],
     "thumbnail_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.71878-15/888511222_4791343721098996_6222141717475119336_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TOGNIZ9A3mMQ7kNvwH7D9Tp&_nc_oc=AdoENzTZnmCD8PY4XOWl_vNFeZoEklMnLhH6EHTRmU3__Hab3v2KuTBmIVOiIWygn6w&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0cE2NXn38G0_3tINAXDJxw&_nc_tpa=Q5bMBQIG015ApwQI_sq5lI2prsP6R8J_JfGxLW-AJ2FAdX-_cn3x0UNKrTfQyh5GjspeA3ye9wkR0VSZ&oh=00_AQTeyloXtCgizi72YQjgj-fV_Zg0Dl0Q0wlknn3RaqixAw&oe=6AF11780",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
