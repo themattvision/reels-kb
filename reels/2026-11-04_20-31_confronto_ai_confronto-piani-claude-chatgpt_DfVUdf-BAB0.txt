@@ -1,0 +1,48 @@
+POST ID: 17999677952828907
+IG ID: 17999677952828907
+SHORTCODE: DfVUdf-BAB0
+PERMALINK: https://www.instagram.com/reel/DfVUdf-BAB0/
+DATA: 2026-11-04
+ORA: 20:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 29 secondi
+CARATTERI CAPTION: 483
+HASHTAG: #claude #chatgpt #abbonamento #risparmiare #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, abbonamento, risparmio, anthropic
+TOPIC: Confronto dei piani di abbonamento di Claude (20 €, 100 €, 200 €) rispetto a ChatGPT e il valore del tempo
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video presenta un uomo in un ambiente interno che discute sui valori economici e percepiti (20, 100, 200 Euro) e sul valore del tempo e della percezione. Non sono presenti B-roll, screenshot di terminali, code o interfaccia utente, ma solo riprese ravvicinate del presentatore mentre gesticola.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Il piano da 20 euro di Claude non mi bastava, ma era immediato e mi dava sicurezza. Con ChatGPT dovevo investire il mio tempo.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se il piano da 100 euro non basta c'è quello da 200, che è come avere decine di persone che lavorano per te.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #abbonamento #risparmiare #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Il piano da 20€ di Claude non mi bastava, ma era immediato, veloce. Mi faceva sentire proprio senza pensieri, una sicurezza, veramente. Quello di CiaGPT sapevo che dovevo mettermi là e investire il mio tempo. Può essere che il piano da 100€ però non ti basti, quindi in caso passi a quello da 200€. Avere un piano da 200€ di Claude è come avere veramente decine di persone che lavorano per te costantemente a qualsiasi cosa. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
