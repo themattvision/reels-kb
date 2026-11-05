@@ -9418,14 +9418,20 @@
     "shortcode": "DfXMuHdxOUO",
     "permalink": "https://www.instagram.com/reel/DfXMuHdxOUO/",
     "date": "2026-11-05",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "confronto_ai",
+    "topic": "Riflessioni sul ritorno a Claude dopo aver sperato che vincesse ChatGPT, evidenziando differenze e limiti dei due modelli",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 25,
+    "tags": [
+      "chatgpt",
+      "claude",
+      "intelligenza-artificiale",
+      "confronto-ai",
+      "ai-italia"
+    ],
     "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/858428684_2987082818324983_7266389141860207699_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=57hGm0Gsz2gQ7kNvwHyYDq0&_nc_oc=Adrx6w0b3d_BlnbS2MGb3HVVTNSR62ppbaLa9rY2tgRqOyOw_wcQoZsJ7oKIzBl672U&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6vLP1ecpnlZEO3Mr57kt0w&_nc_tpa=Q5bMBQJmpArrlz0IarlLQaZWS3gVp9JbaCaJPSuHDJ6IemGgM8kP2H0xnk8_W8bgHtdCO43vrgLYV0YL&oh=00_AQTFLMv8YwjE_xGu3EOfXOrAsYtAi-sCdZuhj5HEMdiD3A&oe=6AF27CAA",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
