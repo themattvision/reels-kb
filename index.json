@@ -9518,14 +9518,20 @@
     "shortcode": "DfVDVjiJR4y",
     "permalink": "https://www.instagram.com/reel/DfVDVjiJR4y/",
     "date": "2026-11-04",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Come usare i modelli Sonnet e Haiku per fare cose molto fighe senza spendere per il modello top di Claude",
+    "hook_text": "ASTRA, MYTHOS, MI SERVONO",
     "like_count": 2,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 22,
+    "tags": [
+      "sonnet",
+      "haiku",
+      "claude",
+      "intelligenza-artificiale",
+      "modelli-gratis"
+    ],
     "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/853627216_1433471612227794_5081256961620659693_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y3TQKnASd40Q7kNvwG8dWLs&_nc_oc=AdoaIuviF0HOBVeOZBFTKQ_bEVMXorSDjh3IOTOUnrgk1GFjYqHtthDUqluFgXaj0wU&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6vLP1ecpnlZEO3Mr57kt0w&_nc_tpa=Q5bMBQKvSnGrtY-91wnX-377KMjmnWDxONLxDCMvIEvAdVUYPG2HZJ1qMkZUdz1j4ZagvVzRw39E5LG0&oh=00_AQR-TB-gLtHvgiiNnUsmvlX41cK9sflBtKfI4lyWviQ2RQ&oe=6AF29174",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
