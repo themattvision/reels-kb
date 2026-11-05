@@ -9498,14 +9498,20 @@
     "shortcode": "DfVSsEuxYbd",
     "permalink": "https://www.instagram.com/reel/DfVSsEuxYbd/",
     "date": "2026-11-04",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "personale",
+    "topic": "Racconto di come l'evento Marketers World ha trasformato la mia vita professionale",
+    "hook_text": "MA LE MARKETERS WORLD.",
     "like_count": 137,
     "comments_count": 29,
-    "duration": 0,
-    "tags": [],
+    "duration": 57,
+    "tags": [
+      "marketers-world",
+      "storytelling",
+      "motivazione",
+      "sogni",
+      "evento-tech"
+    ],
     "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/876794025_1126172413394086_6708919636509622140_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ym7Z6oSY69gQ7kNvwEBKOtS&_nc_oc=AdpX0rTuV1eTvTHE2dy4jKIdao_toXuX2krLqSHU_z3f8jsF8e5bUoYS9Na8IhiynD4&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6vLP1ecpnlZEO3Mr57kt0w&_nc_tpa=Q5bMBQJN_DChId5Ja6T3zBi6Dzknaf6gVi5Fy2gbufq9NRmWylqSnN31ZZQ5Wg2jqBcB4cwRgHj4mTLr&oh=00_AQQ9K45UZfP15VjK4x_LrmDte5D9eNCCyKNVxo5Y9VaDkg&oe=6AF28C56",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
