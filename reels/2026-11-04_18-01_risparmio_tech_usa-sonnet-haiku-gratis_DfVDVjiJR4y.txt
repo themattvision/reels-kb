@@ -1,0 +1,48 @@
+POST ID: 18127600114924801
+IG ID: 18127600114924801
+SHORTCODE: DfVDVjiJR4y
+PERMALINK: https://www.instagram.com/reel/DfVDVjiJR4y/
+DATA: 2026-11-04
+ORA: 18:01
+
+--- METRICHE ---
+LIKE: 2
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 399
+HASHTAG: #claude #sonnet #haiku #intelligenzaartificiale #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: sonnet, haiku, claude, intelligenza-artificiale, modelli-gratis
+TOPIC: Come usare i modelli Sonnet e Haiku per fare cose molto fighe senza spendere per il modello top di Claude
+
+--- HOOK TESTUALE (dal frame) ---
+ASTRA, MYTHOS, MI SERVONO
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un uomo che parla in camera (selfie-style). Nello sfondo dei primi sei frame si vede delle porte di colore nocciola/legno chiaro e le mura interne dipinte di bianco. Nei due frame in basso (7 e 8), lo sfondo cambia per mostrare uno screenshot di una chat o di un canale di messaggistica con l'icona del profilo (un logo rosso e bianco) a sinistra e una mappa di fondo. L'ultimo frame (9) mostra un'auto scura parcheggiata in un'aia interna di una struttura in mattoni, con mura laterali in mattoni rossi sul lato destro.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Per fare cose molto fighe mi bastano Sonnet e Haiku. Il modello massimo non mi serve.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Prima di pagare di più per il modello top, prova con quello che hai già.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #sonnet #haiku #intelligenzaartificiale #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+La plastra è estremamente inutile come Mitos, ovvero Fable, quello di Claude. Non ne abbiamo bisogno, ragazzi, non ne abbiamo minimamente bisogno. Anche perché questi modelli diventano ogni giorno più intelligenti, ma per fare delle cose molto fighe bastano anche i modelli Sonnet e Haiku. Comunque, io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu, se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
