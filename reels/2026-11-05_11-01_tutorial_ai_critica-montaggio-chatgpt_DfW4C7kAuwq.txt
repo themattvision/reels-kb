@@ -1,0 +1,46 @@
+POST ID: 17910058716332984
+IG ID: 17910058716332984
+SHORTCODE: DfW4C7kAuwq
+PERMALINK: https://www.instagram.com/reel/DfW4C7kAuwq/
+DATA: 2026-11-05
+ORA: 11:01
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 20 secondi
+CARATTERI CAPTION: 342
+HASHTAG: #chatgpt #claude #intelligenzaartificiale #aiitalia #videoediting
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, montaggio-video, intelligenza-artificiale, ai-italia
+TOPIC: Come usare ChatGPT per migliorare il montaggio video con un tocco di autoironia
+
+--- HOOK TESTUALE (dal frame) ---
+AUTORICONO - 105
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con capelli corti, barba e maglietta nera con un logo bianco gestiona raccontando una storia di montaggio video. Nei primi fotogrammi, all'interno di un ambiente interno con pareti bianche e cornici, usa gesti manuali expressivi per spiegare come sta montando un video con l'assistente AI (indicato dai sottotitoli 'Contano gli usi pratici'). Il video mostra l'uomo che discute della differenza tra usare l'AI 'a mano' in modo pratico e creare contenuti puramente 'Artificiali', facendo riferimento anche allo strumento 'Zampesein'. Lo sfondo cambia in alcuni frame, passando dall'ambiente interno a un esterno urbano pieno di alberi e parcheggi. Non sono presenti schermate di terminali, codice o interfacce di prodotti visibili nei fotogrammi, l'intero contenuto si basa sull'espressione del volto e sui gesti del presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
+
+--- CAPTION COMPLETA ---
+Critica montata da ChatGPT: un po' di autoironia non fa male. Il giudizio resta quello di sempre.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#chatgpt #claude #intelligenzaartificiale #aiitalia #videoediting
+
+--- TRASCRIZIONE AUDIO ---
+Comunque questo video ovviamente l'ha montato CiaGPT, quindi dal punto di vista di montaggio video è fantastico. L'unica differenza la fa appunto questi usi pratici, velocità, quanto sono decisi, quanto belle fanno le cose al primo colpo. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
