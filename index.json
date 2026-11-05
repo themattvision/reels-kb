@@ -9438,14 +9438,19 @@
     "shortcode": "DfW4C7kAuwq",
     "permalink": "https://www.instagram.com/reel/DfW4C7kAuwq/",
     "date": "2026-11-05",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tutorial_ai",
+    "topic": "Come usare ChatGPT per migliorare il montaggio video con un tocco di autoironia",
+    "hook_text": "AUTORICONO - 105",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 20,
+    "tags": [
+      "chatgpt",
+      "montaggio-video",
+      "intelligenza-artificiale",
+      "ai-italia"
+    ],
     "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/890611548_2006354323390467_2868382604749540772_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2Zq-6KNiClMQ7kNvwH9GbiR&_nc_oc=Adoc1ekxF9zTBouqembFm_aoh0CF7NOIbTBFel_yMv4CrApElgptIg53CzqY-SJopWo&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6vLP1ecpnlZEO3Mr57kt0w&_nc_tpa=Q5bMBQKmWmwtKKn11lGHbGN3PIvm5FmAC3Gh6YTYv6WZ25RCIkJyy_z9Ys7JArrBUeaBiufn9FaXcV2r&oh=00_AQRuedaXD1CC_PPM2lykXVeFdwpLN8YHUnm5PZHg9VVeMw&oe=6AF2992A",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
