@@ -6,8 +6,8 @@ DATA: 2026-10-13
 ORA: 16:56
 
 --- METRICHE ---
-LIKE: 3689
-COMMENTI: 1222
+LIKE: 3700
+COMMENTI: 1234
 DURATA VIDEO: 44 secondi
 CARATTERI CAPTION: 707
 HASHTAG: #intelligenzaartificiale #photoshop #artcraft #gratis #risparmiare
