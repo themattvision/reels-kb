@@ -1,0 +1,48 @@
+POST ID: 17953666317358418
+IG ID: 17953666317358418
+SHORTCODE: DfXMuHdxOUO
+PERMALINK: https://www.instagram.com/reel/DfXMuHdxOUO/
+DATA: 2026-11-05
+ORA: 14:02
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 25 secondi
+CARATTERI CAPTION: 401
+HASHTAG: #claude #chatgpt #intelligenzaartificiale #aiitalia #confronto
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, claude, intelligenza-artificiale, confronto-ai, ai-italia
+TOPIC: Riflessioni sul ritorno a Claude dopo aver sperato che vincesse ChatGPT, evidenziando differenze e limiti dei due modelli
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un uomo che parla in un video con sottotitoli grandi che formano una narrazione. I primi sei fotogrammi (due righe) mostrano lo stesso uomo con la stessa acconciatura e gli stessi vestiti (maglietta nera) in un interno con quadri alle spalle. L'uomo gesticola e parla. I sottotitoli in questi frame recitano: '«SONO UN TRISTE DA TORNARE', 'SPERAVO VINCESSE, FINE VINCESSE CHATGPT', 'PREFERISCO CHATGPT SESEMPLEMENTE', 'PIÙ DIFFUSO, IL PIÙ DIFFUSO', 'PIÙ POSSIBILE A B', 'CHATGPT NON È'. Gli ultimi tre fotogrammi (terza riga) mostrano uno scenario diverso: il primo è l'uomo in interno con sottotitoli 'MI MANCA È MOLTO INSICURO'; gli altri due sono riprese esterne (B-roll) di un uomo (presumibilmente lo stesso ma con capelli più lunghi e giacca) che cammina per strada o sta fermi, con sottotitoli 'E TU SE' e 'A UTILIZZARE L'INTELLIGENZA'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
+
+--- CAPTION COMPLETA ---
+Speravo vincesse ChatGPT. Non per preferenza, ma perché ha più soldi e più possibilità.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Scegliere un modello non è una questione di tifo: conta cosa ti serve.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #chatgpt #intelligenzaartificiale #aiitalia #confronto
+
+--- TRASCRIZIONE AUDIO ---
+Sono un po' triste di tornare a Claude perché io sotto sotto speravo che alla fine vincesse CiaGPT ma non perché preferisco CiaGPT, semplicemente perché CiaGPT è il più diffuso, quindi ha anche più soldi e più possibilità. E invece ancora oggi CiaGPT non è deciso, è molto insicuro. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
