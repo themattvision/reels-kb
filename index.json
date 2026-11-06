@@ -9538,14 +9538,20 @@
     "shortcode": "DfZBfjcB09Z",
     "permalink": "https://www.instagram.com/reel/DfZBfjcB09Z/",
     "date": "2026-11-06",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "risparmio_tech",
+    "topic": "Come gestire il piano settimanale di Coggio Pt per evitare di esaurire l'abbonamento da 100-200 euro",
+    "hook_text": "IN UNA",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 34,
+    "tags": [
+      "coggio-pt",
+      "abbonamento",
+      "risparmio",
+      "intelligenza-artificiale",
+      "ai-italia"
+    ],
     "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/892411524_1594370225324827_431186141583838616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5r27jfaoAakQ7kNvwE2j6Mb&_nc_oc=Adqw_f2qLSbmFfxRftrqdMxOLxLNPz3j_SmDxU5StkN45QyIZe4yoyQa520_iUUFkBc&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fz2TxVw4I2mBEmMFANS1yA&_nc_tpa=Q5bMBQIfP_MPtn3w0V6dTb6beBVrM-f14dGg867s3nImkR72vdoI_-ctvJd0FgTDZ_ynJKAn-cA9JShP&oh=00_AQQ8mMSJEwnT40Yysq6MrQ8uxbebQvm27xbWC_bmZAMwSQ&oe=6AF3BAF5",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
