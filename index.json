@@ -9558,14 +9558,21 @@
     "shortcode": "DfX5SYzol3l",
     "permalink": "https://www.instagram.com/reel/DfX5SYzol3l/",
     "date": "2026-11-05",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
+    "category": "tutorial_ai",
+    "topic": "Come sfruttare la modalità fast di CiaGPT per massimizzare la potenza del piano settimanale",
     "hook_text": "",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 32,
+    "tags": [
+      "cia-gpt",
+      "fast-mode",
+      "claude",
+      "piano-abbonamento",
+      "risparmio-tech",
+      "intelligenza-artificiale"
+    ],
     "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/890344103_1119706410828841_518861793988010797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xubdtWYz0FEQ7kNvwGJiInX&_nc_oc=AdpYhAO71fpWqOrB8fJja3tgAQKsf7R8CVhNlvao_-q7gsp1Z-8hhHo_nWqHH8AXNew&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fz2TxVw4I2mBEmMFANS1yA&_nc_tpa=Q5bMBQI6nsMQtGTsJfSLddDKtmyyEhTZd8qR-YJN5gFP_ni3lxuwOzyMOuR2UAzRAp8iaQ-fV2oROR1e&oh=00_AQTqgbUryQqpSo4hLjr7_19EHA6fHIGkwHcHH4YLs89Z4g&oe=6AF3B8A0",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
