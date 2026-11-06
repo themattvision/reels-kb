@@ -1,0 +1,48 @@
+POST ID: 18103824488637614
+IG ID: 18103824488637614
+SHORTCODE: DfXoLjlh8XV
+PERMALINK: https://www.instagram.com/reel/DfXoLjlh8XV/
+DATA: 2026-11-05
+ORA: 18:02
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 428
+HASHTAG: #claude #haiku #sonnet #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: haiku, sonnet, intelligenza-artificiale, ai-italia
+TOPIC: Scopri come Haiku può eseguire compiti al livello di Sonnet, ma ha bisogno di Sonnet per guidarlo e evitare errori
+
+--- HOOK TESTUALE (dal frame) ---
+Haiku esegue / Sommet gli dice come
+
+--- DESCRIZIONE VISIVA ---
+Il video è un montaggio di clip di un uomo che parla direttamente alla telecamera, alternando diversi ambientazioni per indicare il passaggio del tempo o il cambiamenti di stato. Nella prima sequenza (frame 1-2 e 7-9), l'uomo indossa una maglietta nera ed è in un ambiente interno con pareti chiare e mensole con libri; la sua espressione è concentrata e gesticola mentre spiega qualcosa. Nella sequenza finale, l'uomo viene mostrato all'aperto, su una strada urbana con alberi e edifici sullo sfondo, indossando una giacca scura sopra una camicia a righe e una maglietta bianca. La transizione suggerisce il completamento di un'attività (l'esecuzione di un codice) e il successivo controllo o spiegazione del risultato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Haiku
+
+--- CAPTION COMPLETA ---
+Haiku fa cose che sono al livello di Sonnet, ma è Sonnet che deve dirgli come farle, altrimenti rischia di farle male.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Non serve sempre il modello più grande. Spesso basta organizzarli bene.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#claude #haiku #sonnet #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Haiku è pazzesco. Cioè già Haiku fa delle cose che sono del livello di Sonnet. Chiaramente però è Sonnet che gli deve dire come fare le cose, perché sennò rischia di farle male, appunto. Ma per fare delle cose molto fighe bastano anche i modelli Sonnet e Haiku. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
