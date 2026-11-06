@@ -1,0 +1,58 @@
+POST ID: 18078440339447503
+IG ID: 18078440339447503
+SHORTCODE: DfXoU7UxGDZ
+PERMALINK: https://www.instagram.com/reel/DfXoU7UxGDZ/
+DATA: 2026-11-05
+ORA: 18:04
+
+--- METRICHE ---
+LIKE: 110
+COMMENTI: 3
+DURATA VIDEO: 49 secondi
+CARATTERI CAPTION: 606
+HASHTAG: #risparmiare #inviareallegati #gratis #swisstransfer #tooldagratis
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: swisstransfer, wetransfer, file-transfer, gratis, confronto
+TOPIC: Come usare SwissTransfer per inviare file fino a 50 GB gratuitamente rispetto a WeTransfer
+
+--- HOOK TESTUALE (dal frame) ---
+2 GB contro 50 GB, gratis
+
+--- DESCRIZIONE VISIVA ---
+Il video è una presentazione a schermo condiviso con un presentatore. Si concentra su una schermata interna di un'applicazione con la dicitura "Confronto Servizi di Trasferimento File" (File Transfer Service Comparison). Una mano indica le righe di una tabella che confronta due servizi affiancati: a sinistra una versione "vecchia" con etichette rosse (limiti a 2GB, 7 giorni, nessun supporto, ecc.) e a destra una versione "nuova" con etichette verdi (50GB al giorno, validità illimitata, 1GB di protezione gratuita, supporto 24/7). Il video mostra anche una breve schermata dell'interfaccia mobile con un pulsante "Clicca per aggiungere file" con un'icona verde a croce. Screenshot precedenti mostrano il caricamento di un file da circa 1GB e un riepilogo dell'attività di upload. Intermezzi mostrano un presentatore che parla mentre nel riquadro video in basso a destra si vede un altro uomo di nome "Massimiliano Giorgini".
+
+--- PRODOTTI / TOOL VISIBILI ---
+WeTransfer, Wetransfer
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Ecco come usarlo:
+
+1 Vai su swisstransfer.com
+
+2 Carica il file che vuoi inviare, fino a 50 GB
+
+3 Se vuoi metti una password e scegli la durata, fino a 30 giorni
+
+4 Copia il link e mandalo a chi vuoi
+
+Con WeTransfer gratis hai 2 GB e 3 giorni. Con SwissTransfer hai 50 GB e 30 giorni, senza pubblicità, senza registrazione e senza pagare niente.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#risparmiare #inviareallegati #gratis #swisstransfer #tooldagratis
+
+--- TRASCRIZIONE AUDIO ---
+Ora, non so se lo sai, ma usare WeTransfer ormai è diventato un'impresa, cioè, prova te a usare WeTransfer, praticamente è inutilizzabile. Infatti, se io vado qui su questa schermata, metto la mia email, massimo tre giorni, sennò devo pagare, scade subito che si possano inviare massimo due giga. Per questo motivo c'è il vostro smanettone di fiducia pronto qui ad aiutarvi. Andate su questo sito magico, si chiama SwissTransfer, e potete caricare il vostro file fino a 50 giga. Infatti si vede proprio da qui che la differenza è 2 giga contro 50 giga, durata 3 giorni contro 30 giorni. C'è la protezione della password, senza pulcità, senza nessun costo, nessuna registrazione. Ora lo conosci, valla a utilizzare, poi fammi sapere se ti trovi bene. Io mi trovo benissimo e noi ci vediamo ad un prossimo video con un prossimo strumento.
