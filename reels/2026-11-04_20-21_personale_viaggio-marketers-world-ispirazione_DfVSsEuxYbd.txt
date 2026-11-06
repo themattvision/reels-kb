@@ -6,8 +6,8 @@ DATA: 2026-11-04
 ORA: 20:21
 
 --- METRICHE ---
-LIKE: 137
-COMMENTI: 29
+LIKE: 163
+COMMENTI: 33
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 338
 HASHTAG: #marketersworld #storytelling #motivation #sogni #mw26
