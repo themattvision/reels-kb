@@ -1,0 +1,48 @@
+POST ID: 17939329407393127
+IG ID: 17939329407393127
+SHORTCODE: DfX5SYzol3l
+PERMALINK: https://www.instagram.com/reel/DfX5SYzol3l/
+DATA: 2026-11-05
+ORA: 20:31
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 32 secondi
+CARATTERI CAPTION: 440
+HASHTAG: #chatgpt #abbonamento #risparmiare #intelligenzaartificiale #aiitalia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: cia-gpt, fast-mode, claude, piano-abbonamento, risparmio-tech, intelligenza-artificiale
+TOPIC: Come sfruttare la modalità fast di CiaGPT per massimizzare la potenza del piano settimanale
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla in prima persona, alternando diversi ambienti. Nella maggior parte dei fotogrammi, si trova in un'interno con una porta di legno sfocata sullo sfondo, gestendo con le mani mentre spiega qualcosa (quindi si intuisce stia descrivendo un piano o un'esempio pratico). Nelle inquadrature finali (la riga 3), l'uomo appare in due contesti diversi: uno in cui la camera è chiusa in uno studio con un quadro appeso al muro, e uno all'esterno, camminando in strada sotto un cielo nuvoloso con alcuni alberi e macchine in sottofondo, vestito con una giacca. Il testo che appare in alto nei frame suggerisce un'inquadratura da telefono.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Due settimane di potenza: spingere sul Fast, consumare il piano e aspettare il reset.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Il ragionamento è due settimane di potenza, come un piano da 200 euro pagato 100. Ma il consumo è reale.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#chatgpt #abbonamento #risparmiare #intelligenzaartificiale #aiitalia
+
+--- TRASCRIZIONE AUDIO ---
+Inoltre su CiaGPT abbiamo rispetto a Claude le reimpostazioni quindi se per qualche strana ragione volete spingere un po' di più in modalità fast perché non avete tempo da perdere potete spingere la manetta in modalità fast e poi eventualmente consumare subito tutto il piano della vostra settimana e quindi a fare la reimpostazione quindi avete due settimane di potenza quindi potremmo dire un piano da 200 euro al prezzo di 100 euro quindi in realtà capisci che anche qui è un altro livello. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia. E tu se ancora fai tutto a mano, seguimi che ti insegno io a utilizzare l'intelligenza artificiale.
