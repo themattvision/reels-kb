@@ -7,7 +7,7 @@ ORA: 11:31
 
 --- METRICHE ---
 LIKE: 221
-COMMENTI: 79
+COMMENTI: 81
 DURATA VIDEO: 37 secondi
 CARATTERI CAPTION: 698
 HASHTAG: #mac #macapps #apple #apppermac #produttivita
