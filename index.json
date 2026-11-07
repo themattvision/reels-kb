@@ -9618,14 +9618,21 @@
     "shortcode": "DfaM6wBSn53",
     "permalink": "https://www.instagram.com/reel/DfaM6wBSn53/",
     "date": "2026-11-06",
-    "category": "altro",
-    "topic": "Analisi del Reel in corso",
-    "hook_text": "",
+    "category": "tool_gratuiti",
+    "topic": "Come utilizzare SwissTransfer, l'alternativa gratuita a WeTransfer per inviare file fino a 50 GB con password e senza registrazione",
+    "hook_text": "Alternativa gratuita a WeTransfer",
     "like_count": 0,
     "comments_count": 0,
-    "duration": 0,
-    "tags": [],
+    "duration": 49,
+    "tags": [
+      "swisstransfer",
+      "wetransfer",
+      "alternativa-gratuita",
+      "file-transfer",
+      "50gb",
+      "password-protection"
+    ],
     "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/856431390_18125750239936961_668130567843736251_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6p2EPR5Vc8MQ7kNvwHddjcN&_nc_oc=AdqP6r-8Venk2DbJUYn15EUZoWswkk9m-vIf_SJ9LTkkjeKrkRFtdXlJyGmmg-5WGWc&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=LGXk1BVpAnbfMhvmANS2mg&_nc_tpa=Q5bMBQL69qAhYIJ2toBcyi-Yb1CSIrcAV1vaAHHFKzetFK-jEXU0P_dHUW7ITkd8SY5sTpPekfxlm6Xg&oh=00_AQQVsWhPaRk58MO1r_p-W2ad0rrJv9cGYkGpVxmeRMPsDA&oe=6AF52DE9",
-    "analysis_status": "metadata-only"
+    "analysis_status": "complete"
   }
 ]
