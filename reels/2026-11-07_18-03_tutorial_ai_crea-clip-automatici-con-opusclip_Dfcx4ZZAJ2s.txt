@@ -1,0 +1,58 @@
+POST ID: 18119842601088327
+IG ID: 18119842601088327
+SHORTCODE: Dfcx4ZZAJ2s
+PERMALINK: https://www.instagram.com/reel/Dfcx4ZZAJ2s/
+DATA: 2026-11-07
+ORA: 18:03
+
+--- METRICHE ---
+LIKE: 7
+COMMENTI: 0
+DURATA VIDEO: 33 secondi
+CARATTERI CAPTION: 749
+HASHTAG: #adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/opusclip)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: opusclip, intelligenza-artificiale, video-automazione, clip-generazione, sottotitoli-automatici
+TOPIC: Come usare OpusClip per generare automaticamente clip montate con sottotitoli e punteggio di viralità da un video lungo
+
+--- HOOK TESTUALE (dal frame) ---
+Basta farlo a mano
+
+--- DESCRIZIONE VISIVA ---
+Il video alterna riprese del presentatore a screenshot di un'interfaccia di software. Nell'interfaccia, si vede un utente caricare un video lungo e, premendo un pulsante, vedere il sistema generare automaticamente una sequenza di clip montate con audio e animazioni. Il presentatore esterna lo stupore per la facilità d'uso, affermando che questa funzione diventa gratuita. Includendo la trascrizione del video, si evidenzia che la parola 'gratuita' ha lo stesso suono della parola 'video', e il presentatore conclude facendo un gioco di parole, affermando ironicamente di non aver insegnato effettivamente la tecnologia mostrata, ma di aver creato il video stesso che viene riprodotto nell'anteprima. Infine, invita a seguirlo per altri contenuti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+The Matt Vision
+
+--- CAPTION COMPLETA ---
+Un video lungo, tanti clip pronti: ecco come 👇
+
+(Se commenti TROPPO FACILE te lo mando direttamente per messaggio 😄)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Vai su matteozampieri.com/opusclip
+
+2 Carica il tuo video oppure incolla il link
+
+3 Avvia la generazione delle clip
+
+4 OpusClip selezionerà i momenti del video e creerà tante clip già montate con i sottotitoli, pronte per essere pubblicate sui social
+
+Inoltre, assegna a ciascuna clip un punteggio e le mette in ordine, così puoi scegliere quali pubblicare per prime.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#adv #intelligenzaartificiale #opusclip #montaggiovideo #contentcreator tutorial
+
+--- TRASCRIZIONE AUDIO ---
+No vabbè, mi stai dicendo che se vado su questo sito, carico il mio video e premo su questo pulsante, lui mi crea tutti questi video per i social già montati con i sottotitoli pronti per essere pubblicati. E gli dà pure un punteggio di quanto potrebbero andare a virale e me li metti in ordine. Questa cosa è pazzesca, io sono Matteo Zampieri, il tuo smanettone di fiducia. Il link te l'ho messo in descrizione, ma se commenti con la parola troppo facile te lo mando direttamente. Noi ci vediamo nel prossimo video e tu se ancora stai facendo tutto a mano seguimi che poi ti insegno io a utilizzare l'intelligenza artificiale.
