@@ -7,7 +7,7 @@ ORA: 18:09
 
 --- METRICHE ---
 LIKE: 4014
-COMMENTI: 1019
+COMMENTI: 1018
 DURATA VIDEO: 51 secondi
 CARATTERI CAPTION: 93
 HASHTAG: #futuro #design #realestate #innovazionetecnologica #ia
