@@ -1,0 +1,58 @@
+POST ID: 18140736478554275
+IG ID: 18140736478554275
+SHORTCODE: DfkCEKpNoLW
+PERMALINK: https://www.instagram.com/reel/DfkCEKpNoLW/
+DATA: 2026-11-10
+ORA: 13:40
+
+--- METRICHE ---
+LIKE: 50
+COMMENTI: 28
+DURATA VIDEO: 72 secondi
+CARATTERI CAPTION: 635
+HASHTAG: #immy #appsalute #applesalute #figma #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/immy)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: immy, testflight, ios-18, figma, offline-data
+TOPIC: Come provare l’app salute Immy su iPhone con TestFlight
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video presenta un'app di tracciamento della salute basata su dati biometrici. Muostra uno screenshot di un'interfaccia mobile con un avatar femminile (capelli ricci) e una griglia di statistiche (cuore rosso, foglia verde, botticella). Il presentatore in webcam osserva i grafici di un dashboard su un computer portatile, uno dei quali evidenzia i 'Valori Fisiologici Normali'. Vengono mostrate anche schermate di messaggistica istantanea (simili a iMessage) dove si discute il funzionamento dell'app ('wuestapp').
+
+--- PRODOTTI / TOOL VISIBILI ---
+Argomenti del World Health Organization (WHO)
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+(Se commenti sei un folle ti mando direttamente il link)
+
+Ecco come provarla:
+
+1 Vai su matteozampieri.com/immy
+
+2 Scrivi la tua email e tocca Ottieni il link
+
+3 Apri l’email che ti arriva e installa Immy con TestFlight
+
+Serve un iPhone con iOS 18 o più recente. È un’app salute per iPhone, esattamente come l’aveva immaginata il designer Breccia, e tutti i dati restano offline.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#immy #appsalute #applesalute #figma #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Ho riprogettato l'app salute di Apple da così a così. Perché qui c'è un enorme problema, tantissimi dati ma totalmente incomprensibili. Questo designer ha fatto un lavoro fighissimo che ha un problema enorme, infatti sarebbe un sogno se l'app salute della Apple fosse fatta in questo modo, ma figurati se si può fare. Ok, aggiornamento, sono andato a indagare e ho scoperto che l'app salute si può collegare a qualsiasi app e la cosa mi ha scioccato, però mi ha anche fatto accendere le speranze. Ho quindi fatto gli screen al video di Breccia per poi mandargli a CiaGPT e chiedergli, sentimi puoi creare quest'app? Il risultato era pazzesco, ma comunque un po' mediocre. Così sono passato alle maniere forti. Ciao Ricky, come va? Volevo chiederti, hai modo di mandarmi gli screenshot dell'app salute che hai fatto il redesign? Sarebbe ultra gaso. E Breccia mi ha risposto in maniera molto chiara. Così inizia a lavorarci duramente dopo nemmeno 24 ore. Ciao Ricky, come vedi, avere il progetto di Figma ha veramente svoltato. Ci ho iniziato ieri circa quest'ora. Direi tanta tanta roba. Adesso è esattamente come l'aveva immaginata e tra l'altro tutti i dati rimangono offline. Tu se vuoi provarla ti ho messo il link in descrizione ma se mi scrivi sotto sei un folle e te la mando direttamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se nemmeno avresti saputo da che parte iniziare seguimi che ti insegno io a fare le app con l'intelligenza artificiale.
