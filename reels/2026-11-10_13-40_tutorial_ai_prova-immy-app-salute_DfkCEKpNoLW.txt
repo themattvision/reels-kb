@@ -6,8 +6,8 @@ DATA: 2026-11-10
 ORA: 13:40
 
 --- METRICHE ---
-LIKE: 50
-COMMENTI: 28
+LIKE: 1653
+COMMENTI: 1022
 DURATA VIDEO: 72 secondi
 CARATTERI CAPTION: 635
 HASHTAG: #immy #appsalute #applesalute #figma #intelligenzaartificiale
